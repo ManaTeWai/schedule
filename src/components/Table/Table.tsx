@@ -8,10 +8,9 @@ export const Table_comp = (): JSX.Element => {
 				<Table stickyHeader aria-label="table">
 					<TableHead>
 						<TableRow>
-							<TableCell align="center" colSpan={3}>
-								Понедельник-пятница
-							</TableCell>
-							<TableCell align="center">Суббота</TableCell>
+							<TableCell colSpan={2}></TableCell>
+							<TableCell align="left">Понедельник-пятница</TableCell>
+							<TableCell align="right">Суббота</TableCell>
 						</TableRow>
 					</TableHead>
 					<TableBody>
@@ -28,10 +27,11 @@ export const Table_comp = (): JSX.Element => {
 							<TableCell align="right">10:15-11:50</TableCell>
 						</TableRow>
 						<TableRow>
-							<TableCell align="center" colSpan={2}>
+							<TableCell align="left" colSpan={2}>
 								Перерыв (35 минут)
 							</TableCell>
 							<TableCell>11:50-12:25</TableCell>
+							<TableCell></TableCell>
 						</TableRow>
 						<TableRow>
 							<TableCell width={15}>3</TableCell>
@@ -40,11 +40,11 @@ export const Table_comp = (): JSX.Element => {
 							<TableCell align="right">12:00-13:35</TableCell>
 						</TableRow>
 						<TableRow>
-							<TableCell align="center" colSpan={2}>
+							<TableCell align="left" colSpan={2}>
 								Перерыв (35 минут)
 							</TableCell>
 							<TableCell>14:00-14:35</TableCell>
-							<TableCell>13:35-14:10</TableCell>
+							<TableCell align="right">13:35-14:10</TableCell>
 						</TableRow>
 						<TableRow>
 							<TableCell width={15}>4</TableCell>
