@@ -1,16 +1,18 @@
 "use client";
 
 import styles from "./Header.module.css";
-import Link from "next/link";
-import Image from "next/image";
-import { type JSX } from "react";
+import type { JSX } from "react";
 import { Htag } from "@/components";
+import VisibilityOutlinedIcon from "@mui/icons-material/VisibilityOutlined";
+import { IconButton } from "@mui/material";
 
 export const Header = (): JSX.Element => {
 	return (
 		<header className={styles.header}>
-			<Link href="/"><Image src="/logo_curcule.png" alt="лого" width={75} height={75}/></Link>
-            <Htag tag="h1">Электронное расписание ставропольского института кооперации</Htag>
+			<Htag tag="h1">Электронное расписание</Htag>
+			<IconButton aria-label="vbi">
+				<VisibilityOutlinedIcon />
+			</IconButton>
 		</header>
 	);
 };
