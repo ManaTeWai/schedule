@@ -1,6 +1,7 @@
 import type { JSX } from "react";
 import styles from "./Aside.module.css";
 import Image from "next/image";
+import Link from "next/link";
 import { Divider, ListItemIcon, MenuList, MenuItem, ListItemText } from "@mui/material";
 import CalendarMonthOutlinedIcon from "@mui/icons-material/CalendarMonthOutlined";
 import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
@@ -12,19 +13,23 @@ export const Aside = (): JSX.Element => {
 
 			<MenuList sx={{ width: 320, maxWidth: "100%" }}>
 				<Divider />
-				<MenuItem>
-					<ListItemIcon>
-						<CalendarMonthOutlinedIcon fontSize="small" />
-					</ListItemIcon>
-					<ListItemText>Расписание</ListItemText>
-				</MenuItem>
+				<Link href="/">
+					<MenuItem>
+						<ListItemIcon>
+							<CalendarMonthOutlinedIcon fontSize="small" />
+						</ListItemIcon>
+						<ListItemText>Расписание</ListItemText>
+					</MenuItem>
+				</Link>
 				<Divider />
-				<MenuItem>
-					<ListItemIcon>
-						<ExitToAppOutlinedIcon fontSize="small" />
-					</ListItemIcon>
-					<ListItemText>Основной сайт</ListItemText>
-				</MenuItem>
+				<Link href="https://stavik.ru/">
+					<MenuItem>
+						<ListItemIcon>
+							<ExitToAppOutlinedIcon fontSize="small" />
+						</ListItemIcon>
+						<ListItemText>Основной сайт</ListItemText>
+					</MenuItem>
+				</Link>
 			</MenuList>
 		</aside>
 	);

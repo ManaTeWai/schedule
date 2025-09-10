@@ -7,7 +7,7 @@ export const Footer = (): JSX.Element => {
    return (
     <footer className={styles.footer}>
         <P size='small'> © 2025 - {format(new Date(), "yyyy")} Ставропольский институт кооперации. Все права защищены.</P>
-        <P size='small'>v. 0.1</P>
+        <P size='small'>v: {process.env.APP_VERSION}</P>
     </footer>
    ) 
 }

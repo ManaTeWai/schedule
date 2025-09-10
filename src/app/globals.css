@@ -1,3 +1,8 @@
+:root {
+  --background-color: #F5F5F5; /* Фоновый цвет */
+  --text-color: black; /* Цвет текста */
+}
+
 @font-face {
 	font-family: "Blogger sans";
 	src: url("./fonts/Blogger_Sans-Medium.otf") format("otf");
@@ -42,6 +47,11 @@ body {
 .footer {
 	grid-area: footer;
 	background-color: #e0e0e0;
+}
+
+a {
+	text-decoration: none;
+	color: var(--text-color);
 }
 
 @media (max-width: 768px) {

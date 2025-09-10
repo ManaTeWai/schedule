@@ -1,7 +1,11 @@
-import type { NextConfig } from "next";
+/* eslint-disable @typescript-eslint/no-require-imports */
+/** @type {import('next').NextConfig} */
+const { version } = require("./package.json");
 
-const nextConfig: NextConfig = {
-  /* config options here */
+const nextConfig = {
+	env: {
+		APP_VERSION: version,
+	},
 };
 
-export default nextConfig;
+module.exports = nextConfig;
