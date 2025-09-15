@@ -13,9 +13,12 @@
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.3.2",
     "@mui/material": "^7.3.2",
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
     "classnames": "^2.5.1",
     "date-fns": "^4.1.0",
-    "next": "15.5.2",
+    "next": "^15.5.3",
+    "puppeteer": "^24.20.0",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },

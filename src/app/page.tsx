@@ -2,8 +2,25 @@
 
 import { Htag, Table_comp } from "@/components";
 import styles from "./page.module.css";
-import { ToggleButton, ToggleButtonGroup, Box, InputLabel, MenuItem, FormControl, Select, SelectChangeEvent } from "@mui/material";
-import { useState } from "react";
+import {
+	ToggleButton,
+	ToggleButtonGroup,
+	Box,
+	InputLabel,
+	MenuItem,
+	FormControl,
+	Select,
+	SelectChangeEvent,
+	Autocomplete,
+	TextField,
+	CircularProgress,
+} from "@mui/material";
+import { useState, useEffect } from "react";
+
+interface ButtonOption {
+	title: string;
+	eventTarget: string;
+}
 
 export default function Home() {
 	const [scheduleType, setScheduleType] = useState<string | null>("groups");
@@ -16,6 +33,29 @@ export default function Home() {
 
 	const handleYear = (event: SelectChangeEvent) => {
 		setYear(event.target.value as string);
+	};
+
+	const [options, setOptions] = useState<ButtonOption[]>([]);
+	const [selected, setSelected] = useState<ButtonOption | null>(null);
+	const [loading, setLoading] = useState<boolean>(false);
+
+	useEffect(() => {
+		setLoading(true);
+		fetch("/api/btns") // вызываем твой API, который парсит кнопки верхнего уровня
+			.then((res) => res.json())
+			.then((data: { buttons: ButtonOption[] }) => {
+				setOptions(data.buttons);
+			})
+			.finally(() => setLoading(false));
+	}, []);
+
+	// eslint-disable-next-line @typescript-eslint/no-explicit-any
+	const handleChange1 = (_: any, value: ButtonOption | null) => {
+		setSelected(value);
+		if (value) {
+			console.log("Выбрана кнопка:", value.title, "eventTarget:", value.eventTarget);
+			// здесь можно вызывать /api/click с value.eventTarget для следующего уровня
+		}
 	};
 
 	return (
@@ -47,7 +87,33 @@ export default function Home() {
 				</Box>
 			</div>
 			<div className={styles.schedule}>
-				<Table_comp />
+				<Autocomplete
+					options={options}
+					getOptionLabel={(option) => option.title}
+					value={selected}
+					onChange={handleChange1}
+					loading={loading}
+					loadingText="Загрузка..."
+					noOptionsText="Вариантов нет"
+					renderInput={(params) => (
+						<TextField
+							{...params}
+							label="Выберите дисциплину"
+							variant="outlined"
+							InputProps={{
+								...params.InputProps,
+								endAdornment: (
+									<>
+										{loading ? <CircularProgress color="inherit" size={20} /> : null}
+										{params.InputProps.endAdornment}
+									</>
+								),
+							}}
+						/>
+					)}
+					sx={{ width: 500 }}
+				/>
+				{/* <Table_comp /> */}
 			</div>
 		</main>
 	);
