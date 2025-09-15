@@ -11,7 +11,6 @@ export async function GET() {
   try {
     browser = await puppeteer.launch({
       headless: true,
-      ignoreHTTPSErrors: true,
       args: ["--no-sandbox", "--disable-setuid-sandbox", "--ignore-certificate-errors"],
     });
     const page = await browser.newPage();

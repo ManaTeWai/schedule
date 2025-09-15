@@ -9,7 +9,7 @@ import { IconButton } from "@mui/material";
 export const Header = (): JSX.Element => {
 	return (
 		<header className={styles.header}>
-			<Htag tag="h1">Электронное расписание</Htag>
+			<Htag tag="h1">Электронное расписание (Beta)</Htag>
 			<IconButton aria-label="vbi">
 				<VisibilityOutlinedIcon />
 			</IconButton>
