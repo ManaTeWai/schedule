@@ -22,7 +22,7 @@ export default function RootLayout({
 				<div className="aside">
 					<Aside />
 				</div>
-        <div className="main">{children}</div>
+				<div className="main">{children}</div>
 				<div className="footer">
 					<Footer />
 				</div>

@@ -16,7 +16,12 @@ export const Aside = (): JSX.Element => {
 				<Link href="/">
 					<MenuItem>
 						<ListItemIcon>
-							<CalendarMonthOutlinedIcon fontSize="small" />
+							<CalendarMonthOutlinedIcon
+								fontSize="small"
+								sx={{
+									color: "var(--text-color)",
+								}}
+							/>
 						</ListItemIcon>
 						<ListItemText>Расписание</ListItemText>
 					</MenuItem>
@@ -25,7 +30,12 @@ export const Aside = (): JSX.Element => {
 				<Link href="https://stavik.ru/">
 					<MenuItem>
 						<ListItemIcon>
-							<ExitToAppOutlinedIcon fontSize="small" />
+							<ExitToAppOutlinedIcon
+								fontSize="small"
+								sx={{
+									color: "var(--text-color)",
+								}}
+							/>
 						</ListItemIcon>
 						<ListItemText>Основной сайт</ListItemText>
 					</MenuItem>

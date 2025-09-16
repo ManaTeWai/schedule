@@ -1,32 +1,34 @@
 .main {
 	display: flex;
-	justify-content: space-around;
 	align-items: start;
 	flex-direction: column;
+	justify-content: space-around;
+
 	margin: 25px 20px;
 }
 
-.top {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	margin-bottom: 25px;
-	width: 100%;
-	flex-wrap: wrap;
-	gap: 10;
-}
-
-.btns {
-	display: flex;
-	align-items: center;
-	gap: 5;
-	flex-wrap: wrap;
-}
-
 .schedule {
-	width: 100%;
 	display: flex;
+	align-items: center;
 	flex-direction: column;
+	justify-content: center;
+
+	width: 100%;
+}
+
+.not_found {
+	display: flex;
 	align-items: center;
 	justify-content: center;
+
+	width: 100%;
+	height: 100%;
+
+	text-align: center;
+}
+
+@media (width <= 768px) {
+	.main {
+		width: 90vw;
+	}
 }
