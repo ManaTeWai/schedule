@@ -3,7 +3,6 @@
 	align-items: center;
 	flex-wrap: wrap;
 	justify-content: space-between;
-
 	margin: 10px 25px;
 }
 
@@ -13,10 +12,8 @@
 
 .burger {
 	z-index: 10;
-
 	display: none;
 	flex-direction: column;
-
 	cursor: pointer;
 }
 
@@ -24,9 +21,7 @@
 	width: 30px;
 	height: 3px;
 	margin: 3px 0;
-
 	transition: all 300ms ease-in-out;
-
 	background-color: var(--text-color);
 }
 
@@ -37,14 +32,12 @@
 .burger.open div:nth-child(2) {
 	position: relative;
 	top: 4px;
-
 	transform: rotate(45deg);
 }
 
 .burger.open div:nth-child(3) {
 	position: relative;
 	top: -5px;
-
 	transform: rotate(-45deg);
 }
 
@@ -52,10 +45,8 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-
 	margin: 0;
 	padding: 0;
-
 	list-style: none;
 }
 
@@ -82,22 +73,16 @@
 		z-index: 5;
 		top: 60px;
 		left: 0;
-
 		display: none;
-
 		width: 100vw;
-
 		height: calc(100vh - 60px);
 		margin-top: 0;
-
 		list-style-type: none;
-
 		background-color: rgb(224 224 224 / 70%);
 	}
 
 	.mobile_li {
 		text-decoration: none;
-
 		font-size: 26px;
 		font-weight: 500;
 		line-height: 35px;
@@ -105,7 +90,6 @@
 
 	.mobile_nav a {
 		text-decoration: none;
-
 		color: var(--text-color);
 	}
 
