@@ -16,6 +16,10 @@
 	width: 450px;
 }
 
+.hide {
+	display: none;
+}
+
 @media (width <= 768px) {
 	.top {
 		align-items: flex-end;

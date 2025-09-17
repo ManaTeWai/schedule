@@ -5,7 +5,7 @@ import styles from "./Select.module.css";
 import Link from "next/link";
 import { ToggleButton, ToggleButtonGroup, Box, InputLabel, MenuItem, FormControl, Select, SelectChangeEvent } from "@mui/material";
 import { useState, useEffect } from "react";
-import { Htag } from "@/components";
+import { Htag, P } from "@/components";
 import { usePathname, useSearchParams } from "next/navigation";
 
 export const Select_comp = (): JSX.Element => {
@@ -38,7 +38,7 @@ export const Select_comp = (): JSX.Element => {
 	};
 	return (
 		<div className={styles.top}>
-			{isKiosk ? <p>🔹 Режим киоска включен</p> : <p>Режим киоска выключен</p>}
+			{isKiosk ? <P className={styles.hide}>🔹 Режим киоска включен</P> : <P className={styles.hide}>Режим киоска выключен</P>}
 			<div className={styles.btns}>
 				<Htag tag="h3">Расписание</Htag>
 				<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
