@@ -42,7 +42,7 @@ export const Header = (): JSX.Element => {
 			<Link href="/">
 				<Htag tag="h1">Электронное расписание (Beta)</Htag>
 			</Link>
-			<IconButton
+			{/* <IconButton
 				aria-label={isDarkMode ? "light_mode" : "dark_mode"}
 				onClick={toggleTheme}
 				sx={{
@@ -50,7 +50,7 @@ export const Header = (): JSX.Element => {
 				}}
 			>
 				{isDarkMode ? <LightModeOutlinedIcon /> : <DarkModeOutlinedIcon />}
-			</IconButton>
+			</IconButton> */}
 			<div className={`${styles.burger} ${isOpen ? styles.open : ""}`} onClick={toggleMenu}>
 				<div></div>
 				<div></div>
