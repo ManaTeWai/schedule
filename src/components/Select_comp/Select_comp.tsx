@@ -6,14 +6,11 @@ import Link from "next/link";
 import { ToggleButton, ToggleButtonGroup, Box, InputLabel, MenuItem, FormControl, Select, SelectChangeEvent } from "@mui/material";
 import { useState, useEffect } from "react";
 import { Htag, P } from "@/components";
-import { usePathname, useSearchParams } from "next/navigation";
+import { usePathname } from "next/navigation";
 
 export const Select_comp = (): JSX.Element => {
 	const pathname = usePathname();
 	const [scheduleType, setScheduleType] = useState<string | null>(null);
-	const searchParams = useSearchParams();
-	const mode = searchParams.get("mode");
-	const isKiosk = searchParams.get("mode") === "kiosk";
 
 	useEffect(() => {
 		if (pathname === "/groups") {
@@ -38,16 +35,15 @@ export const Select_comp = (): JSX.Element => {
 	};
 	return (
 		<div className={styles.top}>
-			{isKiosk ? <P className={styles.hide}>🔹 Режим киоска включен</P> : <P className={styles.hide}>Режим киоска выключен</P>}
 			<div className={styles.btns}>
 				<Htag tag="h3">Расписание</Htag>
 				<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
 					<ToggleButton value="groups" aria-label="По группам">
-						<Link href={{ pathname: "/groups", query: { mode } }}>ПО ГРУППАМ</Link>
+						<Link href="/groups">ПО ГРУППАМ</Link>
 					</ToggleButton>
 
 					<ToggleButton value="teachers" aria-label="По преподавателям">
-						<Link href={{ pathname: "/teachers", query: { mode } }}>ПО ПРЕПОДАВАТЕЛЯМ</Link>
+						<Link href="/teachers">ПО ПРЕПОДАВАТЕЛЯМ</Link>
 					</ToggleButton>
 				</ToggleButtonGroup>
 			</div>
