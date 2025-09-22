@@ -28,6 +28,10 @@ export const Header = (): JSX.Element => {
 		setIsOpen(!isOpen);
 	};
 
+	const CloseMenu = () => {
+		setIsOpen(false);
+	};
+
 	useEffect(() => {
 		if (isOpen) {
 			document.body.style.overflow = "hidden";
@@ -39,7 +43,7 @@ export const Header = (): JSX.Element => {
 	const { isDarkMode, toggleTheme } = useTheme();
 	return (
 		<header className={styles.header} ref={menuRef}>
-			<Link href="/">
+			<Link href="/" onClick={CloseMenu}>
 				<Htag tag="h1">Электронное расписание (Beta)</Htag>
 			</Link>
 			{/* <IconButton
@@ -57,11 +61,13 @@ export const Header = (): JSX.Element => {
 				<div></div>
 			</div>
 			<ul className={`${styles.mobile_nav} ${isOpen ? styles.open : ""}`}>
-				<Image src="/logo_curcule.png" alt="лого" width={75} height={75} />
+				<Link href="/" onClick={CloseMenu}>
+					<Image src="/logo_curcule.png" alt="лого" width={75} height={75} />
+				</Link>
 
 				<MenuList sx={{ width: 320, maxWidth: "100%" }}>
 					<Divider />
-					<Link href="/">
+					<Link href="/" onClick={CloseMenu}>
 						<MenuItem>
 							<ListItemIcon>
 								<CalendarMonthOutlinedIcon
@@ -75,7 +81,7 @@ export const Header = (): JSX.Element => {
 						</MenuItem>
 					</Link>
 					<Divider />
-					<Link href="https://stavik.ru/">
+					<Link href="https://stavik.ru/" onClick={CloseMenu}>
 						<MenuItem>
 							<ListItemIcon>
 								<ExitToAppOutlinedIcon

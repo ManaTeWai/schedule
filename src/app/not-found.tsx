@@ -8,7 +8,7 @@ export default function NotFound() {
 	return (
 		<main className={styles.not_found}>
 			<div>
-				<Htag tag="h1">404 - Страница не найдена</Htag>
+				<Htag tag="h1" className={styles.mb}>404 - Страница не найдена</Htag>
 				<Link href="/">
 					<Button
 						variant="outlined"

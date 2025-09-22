@@ -41,8 +41,8 @@ export default function Groups() {
 
 	return (
 		<main className={styles.main}>
-						<Select_comp />
-			<Link href="/">
+			<Select_comp />
+			<Link href="/" className={styles.mb}>
 				<Button
 					variant="outlined"
 					startIcon={<HouseOutlinedIcon fontSize="small" />}

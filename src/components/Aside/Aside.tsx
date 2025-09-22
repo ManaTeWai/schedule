@@ -9,7 +9,9 @@ import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
 export const Aside = (): JSX.Element => {
 	return (
 		<aside className={styles.aside}>
-			<Image src="/logo_curcule.png" alt="лого" width={75} height={75} />
+			<Link href="/">
+				<Image src="/logo_curcule.png" alt="лого" width={75} height={75} />
+			</Link>
 
 			<MenuList sx={{ width: 320, maxWidth: "100%" }}>
 				<Divider />
