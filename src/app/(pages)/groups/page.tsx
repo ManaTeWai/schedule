@@ -3,53 +3,45 @@
 import { Autocomplete, TextField, CircularProgress, Button } from "@mui/material";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { Select_comp } from "@/components";
 import styles from "@/app/page.module.css";
 import HouseOutlinedIcon from "@mui/icons-material/HouseOutlined";
+import { Select_comp } from "@/components";
+
+// Импортируем локальный JSON
+import localData from "@/app/all_data.json"; // путь к твоему JSON файлу
 
 interface ButtonOption {
 	title: string;
-	eventTarget: string;
 }
 
 export default function Groups() {
 	const [options, setOptions] = useState<ButtonOption[]>([]);
 	const [selected, setSelected] = useState<ButtonOption | null>(null);
-	const [loading, setLoading] = useState<boolean>(false);
+	const [loading, setLoading] = useState<boolean>(true);
 
 	useEffect(() => {
-		const fetchButtons = async () => {
-			try {
-				setLoading(true);
+		// Тут мы просто парсим JSON и вытаскиваем текст
+		const parsedOptions: ButtonOption[] = [];
 
-				const response = await fetch("/api/click"); // Замените на ваш API путь
-				if (!response.ok) {
-					throw new Error(`Ошибка HTTP: ${response.status}`);
-				}
+		localData.forEach((firstLayer) => {
+			parsedOptions.push({ title: firstLayer.first_layer.text });
+		});
 
-				const data = await response.json();
-				setOptions(data.buttons);
-			} catch (err) {
-				console.error("Ошибка загрузки данных:", err);
-			} finally {
-				setLoading(false);
-			}
-		};
-
-		fetchButtons();
+		setOptions(parsedOptions);
+		setLoading(false);
 	}, []);
 
 	// eslint-disable-next-line @typescript-eslint/no-explicit-any
 	const handleChange1 = (_: any, value: ButtonOption | null) => {
 		setSelected(value);
 		if (value) {
-			console.log("Выбрана кнопка:", value.title, "eventTarget:", value.eventTarget);
-			// здесь можно вызывать /api/click с value.eventTarget для следующего уровня
+			console.log("Выбрана кнопка:", value.title);
 		}
 	};
+
 	return (
 		<main className={styles.main}>
-			<Select_comp />
+						<Select_comp />
 			<Link href="/">
 				<Button
 					variant="outlined"
@@ -63,14 +55,12 @@ export default function Groups() {
 							backgroundColor: "rgba(0, 0, 0, 0.08)",
 							border: "1px solid rgba(0, 0, 0, 0.12)",
 						},
-						"&.MuiButton-outlined": {
-							border: "1px solid rgba(0, 0, 0, 0.12)",
-						},
 					}}
 				>
 					Вернуться на главную
 				</Button>
 			</Link>
+
 			<Autocomplete
 				options={options}
 				getOptionLabel={(option) => option.title}
@@ -82,7 +72,7 @@ export default function Groups() {
 				renderInput={(params) => (
 					<TextField
 						{...params}
-						label="Выберите кафедру"
+						label="Выберите факультет"
 						variant="outlined"
 						InputProps={{
 							...params.InputProps,
@@ -95,9 +85,7 @@ export default function Groups() {
 						}}
 					/>
 				)}
-				sx={{
-					width: { xs: "100%", sm: 500 },
-				}}
+				sx={{ width: { xs: "100%", sm: 500 } }}
 			/>
 		</main>
 	);

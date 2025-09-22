@@ -5,7 +5,7 @@ import styles from "./Select.module.css";
 import Link from "next/link";
 import { ToggleButton, ToggleButtonGroup, Box, InputLabel, MenuItem, FormControl, Select, SelectChangeEvent } from "@mui/material";
 import { useState, useEffect } from "react";
-import { Htag, P } from "@/components";
+import { Htag } from "@/components";
 import { usePathname } from "next/navigation";
 
 export const Select_comp = (): JSX.Element => {
@@ -38,13 +38,17 @@ export const Select_comp = (): JSX.Element => {
 			<div className={styles.btns}>
 				<Htag tag="h3">Расписание</Htag>
 				<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
-					<ToggleButton value="groups" aria-label="По группам">
-						<Link href="/groups">ПО ГРУППАМ</Link>
-					</ToggleButton>
+					<Link href="/groups">
+						<ToggleButton value="groups" aria-label="По группам">
+							ПО ГРУППАМ
+						</ToggleButton>
+					</Link>
 
-					<ToggleButton value="teachers" aria-label="По преподавателям">
-						<Link href="/teachers">ПО ПРЕПОДАВАТЕЛЯМ</Link>
-					</ToggleButton>
+					<Link href="/teachers">
+						<ToggleButton value="teachers" aria-label="По преподавателям">
+							ПО ПРЕПОДАВАТЕЛЯМ
+						</ToggleButton>
+					</Link>
 				</ToggleButtonGroup>
 			</div>
 			<Box sx={{ minWidth: 120 }}>
