@@ -66,6 +66,7 @@ export default function Groups() {
 				getOptionLabel={(option) => option.title}
 				value={selected}
 				onChange={handleChange1}
+				className={styles.mb}
 				loading={loading}
 				loadingText="Загрузка..."
 				noOptionsText="Вариантов нет"
