@@ -1,509 +1,87 @@
 [
 	{
 		"first_layer": {
-			"id": "ctl00_head_10026",
-			"text": "Факультет второго высшего образования",
-			"href": "javascript:__doPostBack('ctl00$head$10026','')"
-		},
-		"second_layer": [
-			{
-				"id": "ctl00_head_Государственное и муниципальное управление3",
-				"text": "Государственное и муниципальное управление (магистратура)",
-				"href": "javascript:__doPostBack('ctl00$head$Государственное и муниципальное управление3','')"
-			},
-			{
-				"id": "ctl00_head_Менеджмент3",
-				"text": "Менеджмент (магистратура)",
-				"href": "javascript:__doPostBack('ctl00$head$Менеджмент3','')"
-			},
-			{
-				"id": "ctl00_head_Технология продукции и организация общественного питания3",
-				"text": "Технология продукции и организация общественного питания (магистратура)",
-				"href": "javascript:__doPostBack('ctl00$head$Технология продукции и организация общественного питания3','')"
-			},
-			{
-				"id": "ctl00_head_Торговое дело3",
-				"text": "Торговое дело (магистратура)",
-				"href": "javascript:__doPostBack('ctl00$head$Торговое дело3','')"
-			},
-			{
-				"id": "ctl00_head_Экономика3",
-				"text": "Экономика (магистратура)",
-				"href": "javascript:__doPostBack('ctl00$head$Экономика3','')"
-			},
-			{
-				"id": "ctl00_head_Юриспруденция2",
-				"text": "Юриспруденция (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Юриспруденция2','')"
-			},
-			{
-				"id": "ctl00_head_Юриспруденция3",
-				"text": "Юриспруденция (магистратура)",
-				"href": "javascript:__doPostBack('ctl00$head$Юриспруденция3','')"
-			}
-		],
-		"third_layer": [
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					},
-					{
-						"id": "ctl00_head_4",
-						"text": "4 курс",
-						"href": "javascript:__doPostBack('ctl00$head$4','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					}
-				]
-			}
-		]
+			"id": "1",
+			"text": "ГМУм-с251, 1 курс, Государственное и муниципальное управление, Факультет второго высшего образования",
+			"schedule": [
+				{
+					"id": "class-1",
+					"day": "Понедельник",
+					"time": "9:00-10:30",
+					"subject": "Программирование",
+					"teacher": "Иванов А.П.",
+					"room": "101",
+					"type": "lecture"
+				},
+				{
+					"id": "class-2",
+					"day": "Понедельник",
+					"time": "10:45-12:15",
+					"subject": "Математика",
+					"teacher": "Петрова С.И.",
+					"room": "203",
+					"type": "practice"
+				},
+				{
+					"id": "class-3",
+					"day": "Вторник",
+					"time": "9:00-10:30",
+					"subject": "Базы данных",
+					"teacher": "Сидоров В.К.",
+					"room": "305",
+					"type": "lab"
+				},
+				{
+					"id": "class-4",
+					"day": "Среда",
+					"time": "13:00-14:30",
+					"subject": "Веб-разработка",
+					"teacher": "Козлов Д.М.",
+					"room": "402",
+					"type": "lecture"
+				}
+			]
+		}
 	},
 	{
 		"first_layer": {
-			"id": "ctl00_head_10025",
-			"text": "Факультет среднего профессионального образования",
-			"href": "javascript:__doPostBack('ctl00$head$10025','')"
-		},
-		"second_layer": [
-			{
-				"id": "ctl00_head_Право и организация социального обеспечения1",
-				"text": "Право и организация социального обеспечения",
-				"href": "javascript:__doPostBack('ctl00$head$Право и организация социального обеспечения1','')"
-			},
-			{
-				"id": "ctl00_head_Товароведение и экспертиза качества потребительских товаров1",
-				"text": "Товароведение и экспертиза качества потребительских товаров",
-				"href": "javascript:__doPostBack('ctl00$head$Товароведение и экспертиза качества потребительских товаров1','')"
-			},
-			{
-				"id": "ctl00_head_Торговое дело1",
-				"text": "Торговое дело",
-				"href": "javascript:__doPostBack('ctl00$head$Торговое дело1','')"
-			},
-			{
-				"id": "ctl00_head_Экономика и бухгалтерский учет (по отраслям)1",
-				"text": "Экономика и бухгалтерский учет (по отраслям)",
-				"href": "javascript:__doPostBack('ctl00$head$Экономика и бухгалтерский учет (по отраслям)1','')"
-			},
-			{
-				"id": "ctl00_head_Юриспруденция1",
-				"text": "Юриспруденция",
-				"href": "javascript:__doPostBack('ctl00$head$Юриспруденция1','')"
-			}
-		],
-		"third_layer": [
-			{
-				"content": [
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					}
-				]
-			}
-		]
+			"id": "2",
+			"text": "П-С231, 3 курс, Право и организация социального обеспечения, Факультет среднего профессионального образования",
+			"schedule": [
+				{
+					"id": "class-5",
+					"day": "Понедельник",
+					"time": "13:00-14:30",
+					"subject": "Математика",
+					"teacher": "Петрова С.И.",
+					"room": "203",
+					"type": "lecture"
+				},
+				{
+					"id": "class-6",
+					"day": "Вторник",
+					"time": "10:45-12:15",
+					"subject": "Программирование",
+					"teacher": "Иванов А.П.",
+					"room": "101",
+					"type": "practice"
+				},
+				{
+					"id": "class-7",
+					"day": "Четверг",
+					"time": "9:00-10:30",
+					"subject": "Базы данных",
+					"teacher": "Сидоров В.К.",
+					"room": "305",
+					"type": "lecture"
+				}
+			]
+		}
 	},
 	{
 		"first_layer": {
-			"id": "ctl00_head_10024",
-			"text": "Финансово-экономический факультет",
-			"href": "javascript:__doPostBack('ctl00$head$10024','')"
-		},
-		"second_layer": [
-			{
-				"id": "ctl00_head_Гостиничное дело2",
-				"text": "Гостиничное дело (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Гостиничное дело2','')"
-			},
-			{
-				"id": "ctl00_head_Менеджмент2",
-				"text": "Менеджмент (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Менеджмент2','')"
-			},
-			{
-				"id": "ctl00_head_Прикладная информатика2",
-				"text": "Прикладная информатика (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Прикладная информатика2','')"
-			},
-			{
-				"id": "ctl00_head_Технология продукции и организация общественного питания2",
-				"text": "Технология продукции и организация общественного питания (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Технология продукции и организация общественного питания2','')"
-			},
-			{
-				"id": "ctl00_head_Торговое дело2",
-				"text": "Торговое дело (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Торговое дело2','')"
-			},
-			{
-				"id": "ctl00_head_Экономика2",
-				"text": "Экономика (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Экономика2','')"
-			}
-		],
-		"third_layer": [
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					},
-					{
-						"id": "ctl00_head_4",
-						"text": "4 курс",
-						"href": "javascript:__doPostBack('ctl00$head$4','')"
-					},
-					{
-						"id": "ctl00_head_5",
-						"text": "5 курс",
-						"href": "javascript:__doPostBack('ctl00$head$5','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					},
-					{
-						"id": "ctl00_head_4",
-						"text": "4 курс",
-						"href": "javascript:__doPostBack('ctl00$head$4','')"
-					},
-					{
-						"id": "ctl00_head_5",
-						"text": "5 курс",
-						"href": "javascript:__doPostBack('ctl00$head$5','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					},
-					{
-						"id": "ctl00_head_4",
-						"text": "4 курс",
-						"href": "javascript:__doPostBack('ctl00$head$4','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					},
-					{
-						"id": "ctl00_head_4",
-						"text": "4 курс",
-						"href": "javascript:__doPostBack('ctl00$head$4','')"
-					}
-				]
-			}
-		]
-	},
-	{
-		"first_layer": {
-			"id": "ctl00_head_10023",
-			"text": "Юридический факультет",
-			"href": "javascript:__doPostBack('ctl00$head$10023','')"
-		},
-		"second_layer": [
-			{
-				"id": "ctl00_head_Реклама и связи с общественностью2",
-				"text": "Реклама и связи с общественностью (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Реклама и связи с общественностью2','')"
-			},
-			{
-				"id": "ctl00_head_Сервис2",
-				"text": "Сервис (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Сервис2','')"
-			},
-			{
-				"id": "ctl00_head_Туризм2",
-				"text": "Туризм (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Туризм2','')"
-			},
-			{
-				"id": "ctl00_head_Юриспруденция21",
-				"text": "Юриспруденция (бакалавриат)",
-				"href": "javascript:__doPostBack('ctl00$head$Юриспруденция2','')"
-			}
-		],
-		"third_layer": [
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					}
-				]
-			},
-			{
-				"content": [
-					{
-						"id": "ctl00_head_1",
-						"text": "1 курс",
-						"href": "javascript:__doPostBack('ctl00$head$1','')"
-					},
-					{
-						"id": "ctl00_head_2",
-						"text": "2 курс",
-						"href": "javascript:__doPostBack('ctl00$head$2','')"
-					},
-					{
-						"id": "ctl00_head_3",
-						"text": "3 курс",
-						"href": "javascript:__doPostBack('ctl00$head$3','')"
-					},
-					{
-						"id": "ctl00_head_4",
-						"text": "4 курс",
-						"href": "javascript:__doPostBack('ctl00$head$4','')"
-					},
-					{
-						"id": "ctl00_head_5",
-						"text": "5 курс",
-						"href": "javascript:__doPostBack('ctl00$head$5','')"
-					}
-				]
-			}
-		]
+			"id": "3",
+			"text": "Юридический факультет"
+		}
 	}
 ]

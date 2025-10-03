@@ -5,3 +5,4 @@ export * from './P/P';
 export * from './Table/Table';
 export * from './Aside/Aside';
 export * from './Select_comp/Select_comp';
+export * from './ScheduleTable/ScheduleTable';
