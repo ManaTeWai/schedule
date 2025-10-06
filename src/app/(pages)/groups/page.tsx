@@ -103,7 +103,7 @@ export default function Groups() {
 			)}
 
 			{!selected && (
-				<Paper sx={{ p: 3, textAlign: "center", mt: 2, width: "100%" }}>
+				<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
 					<Typography variant="h6" color="textSecondary">
 						Выберите группу для отображения расписания
 					</Typography>

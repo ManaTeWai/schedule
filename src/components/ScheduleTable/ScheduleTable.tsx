@@ -1,5 +1,21 @@
-import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Chip, Box, Typography } from "@mui/material";
+"use client";
+
+import {
+	Table,
+	TableBody,
+	TableCell,
+	TableContainer,
+	TableHead,
+	TableRow,
+	Paper,
+	Chip,
+	Box,
+	Typography,
+	useMediaQuery,
+	useTheme,
+} from "@mui/material";
 import { ClassSchedule } from "@/types";
+import { P } from "@/components";
 
 interface ScheduleTableProps {
 	schedule: ClassSchedule[];
@@ -32,6 +48,9 @@ const getTypeLabel = (type: string) => {
 };
 
 export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
+	const theme = useTheme();
+	const isMobile = useMediaQuery(theme.breakpoints.down("md"));
+
 	if (!schedule || schedule.length === 0) {
 		return (
 			<Paper sx={{ p: 3, textAlign: "center", mt: 2 }}>
@@ -68,28 +87,62 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 						</Typography>
 					</Box>
 					<TableContainer>
-						<Table>
-							<TableHead>
-								<TableRow>
-									<TableCell sx={{ width: "20%" }}>Время</TableCell>
-									<TableCell sx={{ width: "25%" }}>Дисциплина</TableCell>
-									<TableCell sx={{ width: "25%" }}>Преподаватель</TableCell>
-									<TableCell sx={{ width: "15%" }}>Аудитория</TableCell>
-									<TableCell sx={{ width: "15%" }}>Тип занятия</TableCell>
-								</TableRow>
-							</TableHead>
+						<Table sx={!isMobile ? { tableLayout: "fixed" } : {}}>
+							{isMobile ? (
+								<TableHead>
+									<TableRow>
+										<TableCell sx={{ width: "20%" }}>Время</TableCell>
+										<TableCell sx={{ width: "50%" }}>
+											<P size="medium">Дисциплина</P>
+											<P size="small">Преподаватель</P>
+											<P size="small">Аудитория</P>
+										</TableCell>
+										<TableCell sx={{ width: "30%", textAlign: "center" }}>Тип занятия</TableCell>
+									</TableRow>
+								</TableHead>
+							) : (
+								<TableHead>
+									<TableRow>
+										<TableCell sx={{ width: "20%" }}>Время</TableCell>
+										<TableCell sx={{ width: "25%" }}>Дисциплина</TableCell>
+										<TableCell sx={{ width: "25%" }}>Преподаватель</TableCell>
+										<TableCell sx={{ width: "15%" }}>Аудитория</TableCell>
+										<TableCell sx={{ width: "15%", textAlign: "center" }}>Тип занятия</TableCell>
+									</TableRow>
+								</TableHead>
+							)}
 							<TableBody>
 								{groupedByDay[day].map((classItem) => (
 									<TableRow key={classItem.id} sx={{ "&:last-child td, &:last-child th": { border: 0 } }}>
-										<TableCell component="th" scope="row">
-											{classItem.time}
-										</TableCell>
-										<TableCell>{classItem.subject}</TableCell>
-										<TableCell>{classItem.teacher}</TableCell>
-										<TableCell>{classItem.room}</TableCell>
-										<TableCell>
-											<Chip label={getTypeLabel(classItem.type)} color={getTypeColor(classItem.type)} size="small" variant="outlined" />
-										</TableCell>
+										{isMobile ? (
+											// Мобильная версия
+											<>
+												<TableCell component="th" scope="row" sx={{ width: "20%" }}>
+													{classItem.time}
+												</TableCell>
+												<TableCell sx={{ width: "50%" }}>
+													<P size="medium">{classItem.subject}</P>
+													<P size="small">{classItem.teacher}</P>
+													<P size="small">{classItem.room}</P>
+												</TableCell>
+												<TableCell sx={{ width: "30%", textAlign: "center" }}>
+													<Chip label={getTypeLabel(classItem.type)} color={getTypeColor(classItem.type)} size="small" variant="outlined" />
+												</TableCell>
+											</>
+										) : (
+											// Десктопная версия
+											<>
+												<TableCell sx={{ width: "20%" }} component="th" scope="row">
+													{classItem.time}
+												</TableCell>
+												<TableCell sx={{ width: "25%" }}>{classItem.subject}</TableCell>
+												<TableCell sx={{ width: "25%" }}>{classItem.teacher}</TableCell>
+												<TableCell sx={{ width: "15%" }}>{classItem.room}</TableCell>
+												<TableCell sx={{ width: "15%", textAlign: "center" }}>
+													<Chip label={getTypeLabel(classItem.type)} color={getTypeColor(classItem.type)} size="small" variant="outlined" />
+												</TableCell>
+											</>
+										)}
 									</TableRow>
 								))}
 							</TableBody>
