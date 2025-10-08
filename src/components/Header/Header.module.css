@@ -59,14 +59,14 @@
 }
 
 @media (width <= 768px) {
-    .header {
-        height: 40px;
-        margin: 0 25px;
-    }
+	.header {
+		height: 40px;
+		margin: 0 25px;
+	}
 
-    .mode_btn {
-        display: none !important;
-    }
+	.mode_btn {
+		display: none !important;
+	}
 
 	.mobile_nav {
 		position: fixed;
@@ -78,7 +78,7 @@
 		height: calc(100vh - 60px);
 		margin-top: 0;
 		list-style-type: none;
-		background-color: rgb(224 224 224 / 70%);
+		background-color: rgb(224 224 224 / 90%);
 	}
 
 	.mobile_li {

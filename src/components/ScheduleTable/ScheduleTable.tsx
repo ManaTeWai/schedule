@@ -10,12 +10,11 @@ import {
 	Paper,
 	Chip,
 	Box,
-	Typography,
 	useMediaQuery,
 	useTheme,
 } from "@mui/material";
 import { ClassSchedule } from "@/types";
-import { P } from "@/components";
+import { P, Htag } from "@/components";
 
 interface ScheduleTableProps {
 	schedule: ClassSchedule[];
@@ -54,9 +53,9 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 	if (!schedule || schedule.length === 0) {
 		return (
 			<Paper sx={{ p: 3, textAlign: "center", mt: 2 }}>
-				<Typography variant="h6" color="textSecondary">
+				<Htag tag="h3" color="textSecondary">
 					Расписание не найдено
-				</Typography>
+				</Htag>
 			</Paper>
 		);
 	}
@@ -82,14 +81,14 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 			{sortedDays.map((day) => (
 				<Paper key={day} sx={{ mb: 3, overflow: "hidden" }}>
 					<Box sx={{ p: 2, bgcolor: "grey.100", borderBottom: "1px solid", borderColor: "divider" }}>
-						<Typography variant="h6" component="h3">
+						<Htag tag="h3">
 							{day}
-						</Typography>
+						</Htag>
 					</Box>
 					<TableContainer>
 						<Table sx={!isMobile ? { tableLayout: "fixed" } : {}}>
 							{isMobile ? (
-								<TableHead>
+								<TableHead sx={{ bgcolor: "grey.100" }}>
 									<TableRow>
 										<TableCell sx={{ width: "20%" }}>Время</TableCell>
 										<TableCell sx={{ width: "50%" }}>
@@ -101,7 +100,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 									</TableRow>
 								</TableHead>
 							) : (
-								<TableHead>
+								<TableHead sx={{ bgcolor: "grey.100" }}>
 									<TableRow>
 										<TableCell sx={{ width: "20%" }}>Время</TableCell>
 										<TableCell sx={{ width: "25%" }}>Дисциплина</TableCell>
