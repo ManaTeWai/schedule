@@ -5,7 +5,7 @@ export interface ClassSchedule {
   subject: string;
   teacher: string;
   room: string;
-  type: 'lecture' | 'practice' | 'lab';
+  type: 'lecture' | 'practice' | 'lab' | 'Другое';
   lessonTime?: string;
   lessonType?: string;
 }

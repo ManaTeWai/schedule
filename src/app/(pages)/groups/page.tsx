@@ -59,9 +59,9 @@ export default function Groups() {
 					day: lesson.day,
 					time: lesson.lessonTime || lesson.time || "",
 					subject: lesson.subject,
-					type: (["lecture", "practice", "lab"].includes((lesson.lessonType || lesson.type)?.toLowerCase?.())
+					type: (["lecture", "practice", "lab", "Другое"].includes((lesson.lessonType || lesson.type)?.toLowerCase?.())
 						? (lesson.lessonType || lesson.type)?.toLowerCase?.()
-						: "lecture") as "lecture" | "practice" | "lab",
+						: "Другое") as "lecture" | "practice" | "lab" | "Другое",
 					room: lesson.room,
 					teacher: lesson.teacher,
 				})),
