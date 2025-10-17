@@ -1,6 +1,3 @@
-// utils/prepareOptions.ts
-import data from "@/app/parsed_data_tr1.json";
-
 interface RawItem {
   level: number;
   clickedText: string;

@@ -1,14 +1,6 @@
 "use client";
 
-import {
-	Autocomplete,
-	TextField,
-	CircularProgress,
-	Button,
-	Box,
-	Typography,
-	Paper,
-} from "@mui/material";
+import { Autocomplete, TextField, CircularProgress, Button, Box, Typography, Paper } from "@mui/material";
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import styles from "@/app/page.module.css";
@@ -65,9 +57,11 @@ export default function Groups() {
 				schedule: match.schedule.lessons.map((lesson, index) => ({
 					id: index.toString(),
 					day: lesson.day,
-					time: lesson.lessonTime,
+					time: lesson.lessonTime || lesson.time || "",
 					subject: lesson.subject,
-					type: lesson.lessonType || "Другое",
+					type: (["lecture", "practice", "lab"].includes((lesson.lessonType || lesson.type)?.toLowerCase?.())
+						? (lesson.lessonType || lesson.type)?.toLowerCase?.()
+						: "lecture") as "lecture" | "practice" | "lab",
 					room: lesson.room,
 					teacher: lesson.teacher,
 				})),

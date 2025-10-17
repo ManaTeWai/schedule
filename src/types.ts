@@ -6,6 +6,8 @@ export interface ClassSchedule {
   teacher: string;
   room: string;
   type: 'lecture' | 'practice' | 'lab';
+  lessonTime?: string;
+  lessonType?: string;
 }
 
 export interface Group {
