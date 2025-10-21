@@ -22,6 +22,8 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 			return "practice";
 		case "Физическая культура":
 			return "physical";
+		case "Лабораторное занятие":
+			return "lab";
 		default:
 			return "default";
 	}
