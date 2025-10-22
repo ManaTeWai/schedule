@@ -27,6 +27,8 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 			return "lab";
 		case "Лаб":
 			return "lab";
+		case "КонсЭкз":
+			return "exam"
 		default:
 			return "default";
 	}
@@ -43,6 +45,8 @@ const getTypeColor = (lessonType?: string) => {
 			return "success";
 		case "lab":
 			return "success";
+		case "exam":
+			return "warning";
 		default:
 			return "default";
 	}
@@ -59,6 +63,8 @@ const getTypeLabel = (lessonType?: string) => {
 			return "Физкультура";
 		case "lab":
 			return "Лаб. работа";
+		case "exam":
+			return "Экзамен";
 		default:
 			return "Другое";
 	}
