@@ -1,0 +1,11 @@
+.table th {
+	line-height: 0;
+}
+
+.table th p {
+	margin-bottom: 10px;
+}
+
+.table td p {
+	margin-bottom: 10px;
+}

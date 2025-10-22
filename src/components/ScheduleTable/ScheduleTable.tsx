@@ -3,6 +3,7 @@
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Chip, Box, useMediaQuery, useTheme } from "@mui/material";
 import { ClassSchedule } from "@/types";
 import { P, Htag } from "@/components";
+import styles from './ScheduleTable.module.css'
 
 interface ScheduleTableProps {
 	schedule: ClassSchedule[];
@@ -23,6 +24,8 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 		case "Физическая культура":
 			return "physical";
 		case "Лабораторное занятие":
+			return "lab";
+		case "Лаб":
 			return "lab";
 		default:
 			return "default";
@@ -98,7 +101,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 					<Box sx={{ p: 2, bgcolor: "grey.100", borderBottom: "1px solid", borderColor: "divider" }}>
 						<Htag tag="h3">{day}</Htag>
 					</Box>
-					<TableContainer>
+					<TableContainer className={styles.table}>
 						<Table sx={!isMobile ? { tableLayout: "fixed" } : {}}>
 							{isMobile ? (
 								<TableHead sx={{ bgcolor: "grey.100" }}>
@@ -118,7 +121,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 										<TableCell sx={{ width: "20%" }}>Время</TableCell>
 										<TableCell sx={{ width: "25%" }}>Дисциплина</TableCell>
 										<TableCell sx={{ width: "25%" }}>Преподаватель</TableCell>
-										<TableCell sx={{ width: "15%" }}>Аудитория</TableCell>
+										<TableCell sx={{ width: "15%", textAlign: "center" }}>Аудитория</TableCell>
 										<TableCell sx={{ width: "15%", textAlign: "center" }}>Тип занятия</TableCell>
 									</TableRow>
 								</TableHead>
@@ -154,7 +157,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 													</TableCell>
 													<TableCell sx={{ width: "25%" }}>{classItem.subject}</TableCell>
 													<TableCell sx={{ width: "25%" }}>{classItem.teacher}</TableCell>
-													<TableCell sx={{ width: "15%" }}>{classItem.room}</TableCell>
+													<TableCell sx={{ width: "15%", textAlign: "center" }}>{classItem.room}</TableCell>
 													<TableCell sx={{ width: "15%", textAlign: "center" }}>
 														<Chip
 															label={getTypeLabel(classItem.lessonType)}
