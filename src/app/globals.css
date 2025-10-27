@@ -3,6 +3,9 @@
 	--text-color: black; /* Цвет текста */
 	--bg-color: #e0e0e0;
 	--aside-bg-color: #f0f0f0;
+	--aside-width: 250px;
+	--header-height: 48px;
+	--footer-height: 48px;
 }
 
 @font-face {
@@ -32,22 +35,38 @@ ul {
 .aside {
 	padding: 10px 0;
 	background-color: var(--aside-bg-color);
-	grid-area: aside;
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 100vh;
+	width: var(--aside-width);
+	overflow: auto;
 }
 
 .header {
 	padding: 10px 0;
 	background-color: var(--bg-color);
-	grid-area: header;
+	position: fixed;
+	left: var(--aside-width);
+	right: 0;
+	top: 0;
+	z-index: 10;
 }
 
 .main {
-	grid-area: main;
+	position: fixed;
+	inset: var(--header-height) 0 var(--footer-height) var(--aside-width);
+	overflow: auto;
+	padding: 16px;
 }
 
 .footer {
-	grid-area: footer;
 	background-color: var(--bg-color);
+	position: fixed;
+	left: var(--aside-width);
+	right: 0;
+	bottom: 0;
+	z-index: 10;
 }
 
 a {
@@ -56,11 +75,32 @@ a {
 }
 
 @media (width <= 768px) {
+	html,
 	body {
+		display: grid;
+		overflow-x: hidden;
+		width: 100vw;
+		height: 100vh;
+		margin: 0;
+		scroll-behavior: smooth;
 		grid-template: "header" auto "main" 1fr "footer" auto / 1fr;
 	}
 
 	.aside {
 		display: none;
+		position: static;
+		width: auto;
+	}
+
+	.header,
+	.footer,
+	.main {
+		position: static;
+		inset: auto;
+		height: auto;
+	}
+
+	.main {
+		overflow: auto;
 	}
 }
