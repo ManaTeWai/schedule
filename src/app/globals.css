@@ -57,7 +57,7 @@ ul {
 	position: fixed;
 	inset: var(--header-height) 0 var(--footer-height) var(--aside-width);
 	overflow: auto;
-	padding: 16px;
+	padding-top: 16px;
 }
 
 .footer {
