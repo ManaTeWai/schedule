@@ -9,3 +9,10 @@
 .table td p {
 	margin-bottom: 10px;
 }
+
+@media (width <= 768px) {
+	.table th {
+		padding: 10px;
+		text-align: center;
+	}
+}
