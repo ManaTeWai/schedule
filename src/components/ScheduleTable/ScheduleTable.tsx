@@ -134,9 +134,9 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 							) : (
 								<TableHead sx={{ bgcolor: "grey.100" }}>
 									<TableRow>
-										<TableCell sx={{ width: "20%" }}>Время</TableCell>
-										<TableCell sx={{ width: "25%" }}>Дисциплина</TableCell>
-										<TableCell sx={{ width: "25%" }}>Преподаватель</TableCell>
+										<TableCell sx={{ width: "10%" }}>Время</TableCell>
+										<TableCell sx={{ width: "45%" }}>Дисциплина</TableCell>
+										<TableCell sx={{ width: "15%" }}>Преподаватель</TableCell>
 										<TableCell sx={{ width: "15%", textAlign: "center" }}>Аудитория</TableCell>
 										<TableCell sx={{ width: "15%", textAlign: "center" }}>Тип занятия</TableCell>
 									</TableRow>
@@ -168,11 +168,11 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 										) : (
 											// Десктопная версия
 											<>
-												<TableCell sx={{ width: "20%" }} component="th" scope="row">
+												<TableCell sx={{ width: "10%" }} component="th" scope="row">
 													{classItem.lessonTime}
 												</TableCell>
-												<TableCell sx={{ width: "25%" }}>{classItem.subject}</TableCell>
-												<TableCell sx={{ width: "25%" }}>{classItem.teacher}</TableCell>
+												<TableCell sx={{ width: "45%" }}>{classItem.subject}</TableCell>
+												<TableCell sx={{ width: "15%" }}>{classItem.teacher}</TableCell>
 												<TableCell sx={{ width: "15%", textAlign: "center" }}>{classItem.room}</TableCell>
 												<TableCell sx={{ width: "15%", textAlign: "center" }}>
 													<Chip
