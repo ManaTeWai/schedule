@@ -3,10 +3,12 @@
 import type { JSX } from "react";
 import styles from "./Select.module.css";
 import Link from "next/link";
-import { ToggleButton, ToggleButtonGroup, Box, InputLabel, MenuItem, FormControl, Select, SelectChangeEvent } from "@mui/material";
+import { ToggleButton, ToggleButtonGroup, Box, Button } from "@mui/material";
+import cn from "classnames";
 import { useState, useEffect } from "react";
 import { Htag } from "@/components";
 import { usePathname } from "next/navigation";
+import HouseOutlinedIcon from "@mui/icons-material/HouseOutlined";
 
 export const Select_comp = (): JSX.Element => {
 	const pathname = usePathname();
@@ -28,14 +30,9 @@ export const Select_comp = (): JSX.Element => {
 		}
 	};
 
-	const [year, setYear] = useState("2025");
-
-	const handleYear = (event: SelectChangeEvent) => {
-		setYear(event.target.value as string);
-	};
 	return (
 		<div className={styles.top}>
-			<div className={styles.btns}>
+			<div className={cn(styles.btns, "mb")}>
 				<Htag tag="h3">Расписание</Htag>
 				<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
 					<Link href="/groups">
@@ -51,16 +48,28 @@ export const Select_comp = (): JSX.Element => {
 					</Link>
 				</ToggleButtonGroup>
 			</div>
-			<Box sx={{ minWidth: 120 }}>
-				<FormControl fullWidth>
-					<InputLabel id="demo-simple-select-label">Год</InputLabel>
-					<Select labelId="demo-simple-select-label" id="demo-simple-select" value={year} label="Age" onChange={handleYear}>
-						<MenuItem value={2023}>2023-2024</MenuItem>
-						<MenuItem value={2024}>2024-2025</MenuItem>
-						<MenuItem value={2025}>2025-2026</MenuItem>
-					</Select>
-				</FormControl>
-			</Box>
+			{pathname !== "/" && (
+				<Box className={"mb"} sx={{ minWidth: 120 }}>
+					<Link href="/">
+						<Button
+							variant="outlined"
+							startIcon={<HouseOutlinedIcon fontSize="small" />}
+							sx={{
+								border: "1px solid rgba(0, 0, 0, 0.12)",
+								color: "var(--text-color)",
+								backgroundColor: "transparent",
+								"&:hover": {
+									color: "rgba(0, 0, 0, 0.87)",
+									backgroundColor: "rgba(0, 0, 0, 0.08)",
+									border: "1px solid rgba(0, 0, 0, 0.12)",
+								},
+							}}
+						>
+							Вернуться на главную
+						</Button>
+					</Link>
+				</Box>
+			)}
 		</div>
 	);
 };
