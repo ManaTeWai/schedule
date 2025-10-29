@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Divider, ListItemIcon, MenuList, MenuItem, ListItemText } from "@mui/material";
 import CalendarMonthOutlinedIcon from "@mui/icons-material/CalendarMonthOutlined";
 import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
+import { P } from "@/components";
 
 export const Aside = (): JSX.Element => {
 	return (
@@ -25,7 +26,7 @@ export const Aside = (): JSX.Element => {
 								}}
 							/>
 						</ListItemIcon>
-						<ListItemText>Расписание</ListItemText>
+						<ListItemText><P>Расписание</P></ListItemText>
 					</MenuItem>
 				</Link>
 				<Divider />
@@ -39,7 +40,7 @@ export const Aside = (): JSX.Element => {
 								}}
 							/>
 						</ListItemIcon>
-						<ListItemText>Основной сайт</ListItemText>
+						<ListItemText><P>Основной сайт</P></ListItemText>
 					</MenuItem>
 				</Link>
 			</MenuList>

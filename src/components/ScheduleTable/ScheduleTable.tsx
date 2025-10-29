@@ -115,30 +115,44 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 			{sortedDays.map((day) => (
 				<Paper key={day} sx={{ mb: 3, overflow: "hidden" }}>
 					<Box sx={{ p: 2, bgcolor: "grey.100", borderBottom: "1px solid", borderColor: "divider" }}>
-						<Htag tag="h3">{day}</Htag>
+						<Htag tag="h2">{day}</Htag>
 					</Box>
 					<TableContainer className={styles.table}>
 						<Table sx={!isMobile ? { tableLayout: "fixed" } : {}}>
 							{isMobile ? (
 								<TableHead sx={{ bgcolor: "grey.100" }}>
 									<TableRow>
-										<TableCell sx={{ width: "20%" }}>Время</TableCell>
+										<TableCell sx={{ width: "20%" }}>
+											<P size="medium">Время</P>
+										</TableCell>
 										<TableCell sx={{ width: "50%" }}>
 											<P size="medium">Дисциплина</P>
-											<P size="small">Преподаватель</P>
-											<P size="small">Аудитория</P>
+											<P size="medium">Преподаватель</P>
+											<P size="medium">Аудитория</P>
 										</TableCell>
-										<TableCell sx={{ width: "30%", textAlign: "center" }}>Тип занятия</TableCell>
+										<TableCell sx={{ width: "30%", textAlign: "center" }}>
+											<P>Тип занятия</P>
+										</TableCell>
 									</TableRow>
 								</TableHead>
 							) : (
 								<TableHead sx={{ bgcolor: "grey.100" }}>
 									<TableRow>
-										<TableCell sx={{ width: "10%" }}>Время</TableCell>
-										<TableCell sx={{ width: "45%" }}>Дисциплина</TableCell>
-										<TableCell sx={{ width: "15%" }}>Преподаватель</TableCell>
-										<TableCell sx={{ width: "15%", textAlign: "center" }}>Аудитория</TableCell>
-										<TableCell sx={{ width: "15%", textAlign: "center" }}>Тип занятия</TableCell>
+										<TableCell sx={{ width: "10%" }}>
+											<P size="medium">Время</P>
+										</TableCell>
+										<TableCell sx={{ width: "45%" }}>
+											<P size="medium">Дисциплина</P>
+										</TableCell>
+										<TableCell sx={{ width: "15%" }}>
+											<P size="medium">Преподаватель</P>
+										</TableCell>
+										<TableCell sx={{ width: "15%", textAlign: "center" }}>
+											<P size="medium">Аудитория</P>
+										</TableCell>
+										<TableCell sx={{ width: "15%", textAlign: "center" }}>
+											<P size="medium">Тип занятия</P>
+										</TableCell>
 									</TableRow>
 								</TableHead>
 							)}
@@ -149,18 +163,18 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 											// Мобильная версия
 											<>
 												<TableCell component="th" scope="row" sx={{ width: "20%" }}>
-													{classItem.lessonTime}
+													<P size="medium">{classItem.lessonTime}</P>
 												</TableCell>
 												<TableCell sx={{ width: "50%" }}>
-													<P size="medium">{classItem.subject}</P>
-													<P size="small">{classItem.teacher}</P>
-													<P size="small">{classItem.room}</P>
+													<P size="large">{classItem.subject}</P>
+													<P size="medium">{classItem.teacher}</P>
+													<P size="medium">{classItem.room}</P>
 												</TableCell>
 												<TableCell sx={{ width: "30%", textAlign: "center" }}>
 													<Chip
 														label={getTypeLabel(classItem.lessonType)}
 														color={getTypeColor(classItem.lessonType)}
-														size="small"
+														size="medium"
 														variant="outlined"
 													/>
 												</TableCell>
@@ -169,16 +183,22 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 											// Десктопная версия
 											<>
 												<TableCell sx={{ width: "10%" }} component="th" scope="row">
-													{classItem.lessonTime}
+													<P size="medium">{classItem.lessonTime}</P>
 												</TableCell>
-												<TableCell sx={{ width: "45%" }}>{classItem.subject}</TableCell>
-												<TableCell sx={{ width: "15%" }}>{classItem.teacher}</TableCell>
-												<TableCell sx={{ width: "15%", textAlign: "center" }}>{classItem.room}</TableCell>
-												<TableCell sx={{ width: "15%", textAlign: "center" }}>
+												<TableCell sx={{ width: "55%" }}>
+													<P size="large">{classItem.subject}</P>
+												</TableCell>
+												<TableCell sx={{ width: "15%" }}>
+													<P size="medium">{classItem.teacher}</P>
+												</TableCell>
+												<TableCell sx={{ width: "10%", textAlign: "center" }}>
+													<P size="medium">{classItem.room}</P>
+												</TableCell>
+												<TableCell sx={{ width: "10%", textAlign: "center" }}>
 													<Chip
 														label={getTypeLabel(classItem.lessonType)}
 														color={getTypeColor(classItem.lessonType)}
-														size="small"
+														size="medium"
 														variant="outlined"
 													/>
 												</TableCell>

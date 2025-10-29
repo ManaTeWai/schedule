@@ -1,11 +1,12 @@
 import type { JSX } from "react";
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper } from "@mui/material";
+import styles from "./Table.module.css";
 
 export const Table_comp = (): JSX.Element => {
 	return (
 		<Paper sx={{ width: "100%" }}>
 			<TableContainer>
-				<Table stickyHeader aria-label="table">
+				<Table stickyHeader aria-label="table" className={styles.main_table}>
 					<TableHead>
 						<TableRow>
 							<TableCell sx={{ bgcolor: "grey.100" }} colSpan={2}></TableCell>

@@ -3,9 +3,7 @@
 import styles from "./Header.module.css";
 import type { JSX } from "react";
 import { Htag } from "@/components";
-import LightModeOutlinedIcon from "@mui/icons-material/LightModeOutlined";
-import DarkModeOutlinedIcon from "@mui/icons-material/DarkModeOutlined";
-import { IconButton, Divider, ListItemIcon, MenuList, MenuItem, ListItemText } from "@mui/material";
+import { Divider, ListItemIcon, MenuList, MenuItem, ListItemText } from "@mui/material";
 import { useState, useEffect, useRef, createContext, useContext } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -40,21 +38,11 @@ export const Header = (): JSX.Element => {
 		}
 	}, [isOpen]);
 
-	const { isDarkMode, toggleTheme } = useTheme();
 	return (
 		<header className={styles.header} ref={menuRef}>
 			<Link href="/" onClick={CloseMenu}>
 				<Htag tag="h1">Электронное расписание (Beta)</Htag>
 			</Link>
-			{/* <IconButton
-				aria-label={isDarkMode ? "light_mode" : "dark_mode"}
-				onClick={toggleTheme}
-				sx={{
-					color: "var(--text-color)",
-				}}
-			>
-				{isDarkMode ? <LightModeOutlinedIcon /> : <DarkModeOutlinedIcon />}
-			</IconButton> */}
 			<div className={`${styles.burger} ${isOpen ? styles.open : ""}`} onClick={toggleMenu}>
 				<div></div>
 				<div></div>

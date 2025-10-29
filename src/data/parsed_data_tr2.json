@@ -1,0 +1,32 @@
+[
+  {
+    "level": 0,
+    "clickedText": "Государственно-правовых дисциплин",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10253"
+  },
+  {
+    "level": 0,
+    "clickedText": "Гражданско-правовых дисциплин",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252"
+  },
+  {
+    "level": 0,
+    "clickedText": "Информационных технологий и естественнонаучных дисциплин",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265"
+  },
+  {
+    "level": 0,
+    "clickedText": "Социально-гуманитарных дисциплин",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264"
+  },
+  {
+    "level": 0,
+    "clickedText": "Товароведения и технологии общественного питания",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074"
+  },
+  {
+    "level": 0,
+    "clickedText": "Экономики и управления",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070"
+  }
+]
