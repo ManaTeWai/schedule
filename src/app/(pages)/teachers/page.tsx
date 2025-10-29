@@ -6,31 +6,24 @@ import styles from "@/app/page.module.css";
 import { prepareOptions } from "@/utils/prepareOptions";
 import localData from "@/data/parsed_data_tr2.json";
 import { useState, useEffect } from "react";
-import { Group, ClassSchedule } from "@/types";
+import { Teachers_d } from "@/types";
 
 interface RawItem {
 	level: number;
 	clickedText: string;
-	from: string;
 	landedUrl: string;
-	title: string;
-	schedule?: {
-		hasSchedule: boolean;
-		message: string;
-		lessons: ClassSchedule[];
-	};
+	from: string;
 }
 
-export default function Groups() {
-	const [options, setOptions] = useState<Group[]>([]);
-	const [selected, setSelected] = useState<Group | null>(null);
+export default function Teachers() {
+	const [options, setOptions] = useState<Teachers_d[]>([]);
+	const [selected, setSelected] = useState<Teachers_d | null>(null);
 	const [loading, setLoading] = useState<boolean>(true);
 	useEffect(() => {
 		// Преобразуем JSON в список для Autocomplete
 		const prepared = prepareOptions(localData as RawItem[]).map((item) => ({
 			id: item.url,
 			name: item.name,
-			schedule: [],
 		}));
 
 		setOptions(prepared);
@@ -38,31 +31,10 @@ export default function Groups() {
 	}, []);
 
 	// eslint-disable-next-line @typescript-eslint/no-explicit-any
-	const handleChange1 = (_: any, value: Group | null) => {
+	const handleChange1 = (_: any, value: Teachers_d | null) => {
 		if (!value) {
 			setSelected(null);
 			return;
-		}
-
-		// Находим объект с расписанием по URL
-		const fullData = localData as RawItem[];
-		const match = fullData.find((item) => item.landedUrl === value.id && item.schedule?.hasSchedule);
-
-		if (match?.schedule?.lessons) {
-			setSelected({
-				...value,
-				schedule: match.schedule.lessons.map((lesson, index) => ({
-					id: index.toString(),
-					day: lesson.day,
-					lessonTime: lesson.lessonTime,
-					lessonType: lesson.lessonType,
-					subject: lesson.subject,
-					room: lesson.room,
-					teacher: lesson.teacher,
-				})),
-			});
-		} else {
-			setSelected({ ...value, schedule: [] });
 		}
 
 		console.log("Выбрана группа:", value.name);
@@ -102,7 +74,7 @@ export default function Groups() {
 					<Typography variant="h5" gutterBottom>
 						Расписание преподавателя: {selected.name}
 					</Typography>
-					<ScheduleTable schedule={selected.schedule} />
+					{/* <ScheduleTable schedule={selected.schedule} /> */}
 				</Box>
 			)}
 

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Divider, ListItemIcon, MenuList, MenuItem, ListItemText } from "@mui/material";
 import CalendarMonthOutlinedIcon from "@mui/icons-material/CalendarMonthOutlined";
 import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
+import ReportProblemIcon from '@mui/icons-material/ReportProblem';
 import { P } from "@/components";
 
 export const Aside = (): JSX.Element => {
@@ -26,7 +27,9 @@ export const Aside = (): JSX.Element => {
 								}}
 							/>
 						</ListItemIcon>
-						<ListItemText><P>Расписание</P></ListItemText>
+						<ListItemText>
+							<P>Расписание</P>
+						</ListItemText>
 					</MenuItem>
 				</Link>
 				<Divider />
@@ -40,7 +43,25 @@ export const Aside = (): JSX.Element => {
 								}}
 							/>
 						</ListItemIcon>
-						<ListItemText><P>Основной сайт</P></ListItemText>
+						<ListItemText>
+							<P>Основной сайт</P>
+						</ListItemText>
+					</MenuItem>
+				</Link>
+				<Divider />
+				<Link href="https://t.me/ManaTeWai?text=Здравствуйте,%20хочу%20сообщить%20об%20ошибке%20в%20электронном%20расписании.">
+					<MenuItem>
+						<ListItemIcon>
+							<ReportProblemIcon
+								fontSize="small"
+								sx={{
+									color: "var(--text-color)",
+								}}
+							/>
+						</ListItemIcon>
+						<ListItemText>
+							<P>Сообщение об ошибке</P>
+						</ListItemText>
 					</MenuItem>
 				</Link>
 			</MenuList>

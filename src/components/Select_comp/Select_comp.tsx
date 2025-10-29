@@ -1,7 +1,7 @@
 "use client";
 
 import type { JSX } from "react";
-import styles from "./Select.module.css";
+import styles from "./Select_comp.module.css";
 import Link from "next/link";
 import { ToggleButton, ToggleButtonGroup, Box, Button } from "@mui/material";
 import cn from "classnames";
@@ -33,7 +33,7 @@ export const Select_comp = (): JSX.Element => {
 	return (
 		<div className={styles.top}>
 			<div className={cn(styles.btns, "mb")}>
-				<Htag tag="h3">Расписание</Htag>
+				<Htag tag="h2">Расписание</Htag>
 				<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
 					<Link href="/groups">
 						<ToggleButton value="groups" aria-label="По группам">

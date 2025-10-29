@@ -14,6 +14,15 @@ export interface Group {
 	schedule: ClassSchedule[];
 }
 
+export interface Teachers_d {
+	id: string;
+	name: string;
+}
+
 export interface GroupsData {
 	groups: Group[];
+}
+
+export interface TeachersData {
+	teachers: Teachers_d[];
 }

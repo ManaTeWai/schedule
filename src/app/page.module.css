@@ -33,3 +33,9 @@
 		width: 90vw;
 	}
 }
+
+@media (width <= 400px) {
+	.main {
+		overflow-x: hidden;
+	}
+}

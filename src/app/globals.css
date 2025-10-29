@@ -106,5 +106,6 @@ a {
 
 	.main {
 		overflow: auto;
+		overflow-x: hidden;
 	}
 }
