@@ -4,7 +4,7 @@ import { Htag, P } from "@/components";
 import styles from "./page.module.css";
 import Button from "@mui/material/Button";
 
-export default function GlobalError({ error, reset }: { error: Error & { digest?: string }; reset: () => void }) {
+export default function GlobalError({ reset }: { error: Error & { digest?: string }; reset: () => void }) {
 	return (
 		<main className={styles.not_found}>
 			<div>
