@@ -57,7 +57,7 @@ ul {
 	position: fixed;
 	inset: var(--header-height) 0 var(--footer-height) var(--aside-width);
 	overflow: auto;
-	padding-top: 16px;
+	margin-top: 20px;
 }
 
 .footer {
@@ -81,13 +81,12 @@ a {
 @media (width <= 768px) {
 	html,
 	body {
-		display: grid;
+		display: block;
 		overflow-x: hidden;
-		width: 100vw;
-		height: 100vh;
+		width: 100%;
+		height: auto;
 		margin: 0;
 		scroll-behavior: smooth;
-		grid-template: "header" auto "main" 1fr "footer" auto / 1fr;
 	}
 
 	.aside {
@@ -104,8 +103,12 @@ a {
 		height: auto;
 	}
 
+	.footer {
+		display: none;
+	}
+
 	.main {
-		overflow: auto;
+		overflow: visible;
 		overflow-x: hidden;
 	}
 }
