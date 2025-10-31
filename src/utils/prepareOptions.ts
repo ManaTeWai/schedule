@@ -36,10 +36,10 @@ export const prepareOptions = (items: RawItem[]): Option[] => {
 			const faculty = findByLanded(specialty?.from);
 
 			// Формируем читаемое имя от верхнего уровня к нижнему
-			const nameParts = [faculty?.clickedText, specialty?.clickedText, course?.clickedText, group.clickedText].filter(Boolean);
+			const nameParts = [group.clickedText, course?.clickedText, specialty?.clickedText, faculty?.clickedText].filter(Boolean);
 
 			result.push({
-				name: nameParts.join(" / "),
+				name: nameParts.join(", "),
 				url: group.landedUrl,
 			});
 		});

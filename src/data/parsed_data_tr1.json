@@ -1,20 +1,24 @@
 [
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=1",
     "level": 0,
     "clickedText": "Факультет второго высшего образования",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Государственное и муниципальное управление (магистратура)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=1",
     "level": 3,
     "clickedText": "ГМУм-С251(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=1&g=8296",
@@ -146,6 +150,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=1",
     "level": 3,
     "clickedText": "ГМУм-С251з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=1&g=8300&fd=%d0%93%d0%9c%d0%a3%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -197,31 +202,37 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Менеджмент (магистратура)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%823"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%823",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%823&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Прикладная информатика (магистратура)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03&k=1",
     "level": 3,
     "clickedText": "ПИНм-С251з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03&k=1&g=8494&fd=%d0%9f%d0%98%d0%9d%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -265,16 +276,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Технология продукции и организация общественного питания (магистратура)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3&k=1",
     "level": 3,
     "clickedText": "ТППм-С251з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3&k=1&g=8495&fd=%d0%a2%d0%9f%d0%9f%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -326,21 +340,25 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Торговое дело (магистратура)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3&k=1",
     "level": 3,
     "clickedText": "КТДм-С251з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3&k=1&g=8301&fd=%d0%9a%d0%a2%d0%94%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -384,21 +402,25 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Экономика (магистратура)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1",
     "level": 3,
     "clickedText": "ЭКм-С251з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1&g=8273&fd=%d0%ad%d0%9a%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -442,6 +464,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1",
     "level": 3,
     "clickedText": "ЭКм-С251(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1&g=8295",
@@ -549,6 +572,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1",
     "level": 3,
     "clickedText": "ЭКм-С251б(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1&g=8487",
@@ -656,6 +680,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1",
     "level": 3,
     "clickedText": "ЭКм-С251зб(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1&g=8488&fd=%d0%ad%d0%9a%d0%bc-%d0%a1251%d0%b7%d0%b1&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -699,11 +724,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=2",
     "level": 3,
     "clickedText": "ЭКм-С241б(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=2&g=7961",
@@ -811,26 +838,31 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Юриспруденция (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С241зп(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=7960&fd=%d0%ae%d0%a0-%d0%a1241%d0%b7%d0%bf&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -1250,11 +1282,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С231зп(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7752&fd=%d0%ae%d0%a0-%d0%a1231%d0%b7%d0%bf&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -1265,21 +1299,25 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "4 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Юриспруденция (магистратура)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
     "level": 3,
     "clickedText": "ЮРм-С251ГП(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8274",
@@ -1403,6 +1441,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
     "level": 3,
     "clickedText": "ЮРм-С251ГПз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8297&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9f%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -1438,6 +1477,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
     "level": 3,
     "clickedText": "ЮРм-С251ГМВз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8298&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9c%d0%92%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -1489,6 +1529,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
     "level": 3,
     "clickedText": "ЮРм-С251ГПзб(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8489&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9f%d0%b7%d0%b1&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -1524,6 +1565,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
     "level": 3,
     "clickedText": "ЮРм-С251ГМВзб(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8490&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9c%d0%92%d0%b7%d0%b1&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -1575,11 +1617,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=2",
     "level": 3,
     "clickedText": "ЮРм-С241ГП(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=2&g=7962",
@@ -1687,26 +1731,31 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=1",
     "level": 0,
     "clickedText": "Факультет среднего профессионального образования",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10025"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10025",
     "level": 1,
     "clickedText": "Право и организация социального обеспечения",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3",
     "level": 3,
     "clickedText": "П-С231 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3&g=7480",
@@ -1894,6 +1943,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3",
     "level": 3,
     "clickedText": "П-С232 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3&g=7481",
@@ -2105,6 +2155,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3",
     "level": 3,
     "clickedText": "П-С231зс (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3&g=7714&fd=%d0%9f-%d0%a1231%d0%b7%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -2212,6 +2263,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3",
     "level": 3,
     "clickedText": "П-С231з (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%9f%d1%80%d0%b0%d0%b2%d0%be%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be%20%d0%be%d0%b1%d0%b5%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d1%8f1&k=3&g=7715&fd=%d0%9f-%d0%a1231%d0%b7%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -2647,16 +2699,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10025",
     "level": 1,
     "clickedText": "Товароведение и экспертиза качества потребительских товаров",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%a2%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b8%20%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0%20%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0%20%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d1%85%20%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b21"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%a2%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b8%20%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0%20%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0%20%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d1%85%20%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b21",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%a2%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b8%20%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0%20%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0%20%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d1%85%20%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b21&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%a2%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b8%20%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0%20%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0%20%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d1%85%20%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b21&k=3",
     "level": 3,
     "clickedText": "Т-С231 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%a2%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b8%20%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0%20%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0%20%d0%bf%d0%be%d1%82%d1%80%d0%b5%d0%b1%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d1%85%20%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b21&k=3&g=7476",
@@ -2876,16 +2931,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10025",
     "level": 1,
     "clickedText": "Торговое дело",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=1",
     "level": 3,
     "clickedText": "ТОР-С251 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=1&g=8303",
@@ -3049,11 +3107,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=2",
     "level": 3,
     "clickedText": "ТОР-С241 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=2&g=7831",
@@ -3257,6 +3317,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=2",
     "level": 3,
     "clickedText": "ТОР-С241 (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be1&k=2&g=7831&fd=%d0%a2%d0%9e%d0%a0-%d0%a1241%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -3316,16 +3377,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10025",
     "level": 1,
     "clickedText": "Экономика и бухгалтерский учет (по отраслям)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1",
     "level": 3,
     "clickedText": "Э-С251 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1&g=8253",
@@ -3489,6 +3553,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1",
     "level": 3,
     "clickedText": "Э-С251с (11)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1&g=8254",
@@ -3724,6 +3789,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1",
     "level": 3,
     "clickedText": "Э-С251с (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1&g=8254&fd=%d0%ad-%d0%a1251%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -3783,6 +3849,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1",
     "level": 3,
     "clickedText": "Э-С251зс (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1&g=8613&fd=%d0%ad-%d0%a1251%d0%b7%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -3866,11 +3933,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
     "level": 3,
     "clickedText": "Э-С241 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=7833",
@@ -4106,6 +4175,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
     "level": 3,
     "clickedText": "Э-С241 (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=7833&fd=%d0%ad-%d0%a1241%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -4181,6 +4251,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
     "level": 3,
     "clickedText": "Э-С241с (11)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=7836",
@@ -4344,6 +4415,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
     "level": 3,
     "clickedText": "Э-С241с (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=7836&fd=%d0%ad-%d0%a1241%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -4419,6 +4491,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
     "level": 3,
     "clickedText": "Э-С241з (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=8124&fd=%d0%ad-%d0%a1241%d0%b7%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -4454,6 +4527,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
     "level": 3,
     "clickedText": "Э-С241зс (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=8125&fd=%d0%ad-%d0%a1241%d0%b7%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -4481,11 +4555,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3",
     "level": 3,
     "clickedText": "Э-С231 (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3&g=7475",
@@ -4649,6 +4725,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3",
     "level": 3,
     "clickedText": "Э-С231 (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3&g=7475&fd=%d0%ad-%d0%a1231%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -4724,6 +4801,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3",
     "level": 3,
     "clickedText": "Э-С231зс (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3&g=7478&fd=%d0%ad-%d0%a1231%d0%b7%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -4751,16 +4829,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10025",
     "level": 1,
     "clickedText": "Юриспруденция",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
     "clickedText": "Ю-С251ПО (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8305",
@@ -4932,6 +5013,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
     "clickedText": "Ю-С251СА (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8306",
@@ -5111,6 +5193,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
     "clickedText": "Ю-С251сПО (11)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8307",
@@ -5298,81 +5381,18 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
     "clickedText": "Ю-С251сПО (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8307&fd=%d0%ae-%d0%a1251%d1%81%d0%9f%d0%9e%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "22 декабря 2025 г., понедельник",
-          "lessonTime": "3\n12:25",
-          "subject": "Административное право",
-          "lessonType": "КонсЭкз",
-          "room": "405",
-          "teacher": ""
-        },
-        {
-          "day": "23 декабря 2025 г., вторник",
-          "lessonTime": "1\n08:30",
-          "subject": "Теория государства и права",
-          "lessonType": "КонсЭкз",
-          "room": "340",
-          "teacher": ""
-        },
-        {
-          "day": "23 декабря 2025 г., вторник",
-          "lessonTime": "2\n10:15",
-          "subject": "Административное право",
-          "lessonType": "Экз у",
-          "room": "340",
-          "teacher": ""
-        },
-        {
-          "day": "24 декабря 2025 г., среда",
-          "lessonTime": "2\n10:15",
-          "subject": "Теория государства и права",
-          "lessonType": "Экз у",
-          "room": "405",
-          "teacher": ""
-        },
-        {
-          "day": "25 декабря 2025 г., четверг",
-          "lessonTime": "312:25",
-          "subject": "История России",
-          "lessonType": "КонсЭкз",
-          "room": "503",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "26 декабря 2025 г., пятница",
-          "lessonTime": "108:30",
-          "subject": "История России",
-          "lessonType": "Экз у",
-          "room": "414",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "26 декабря 2025 г., пятница",
-          "lessonTime": "210:15",
-          "subject": "Гражданское право",
-          "lessonType": "КонсЭкз",
-          "room": "206",
-          "teacher": "преп. Кириченко А.Е."
-        },
-        {
-          "day": "27 декабря 2025 г., суббота",
-          "lessonTime": "210:15",
-          "subject": "Гражданское право",
-          "lessonType": "Экз у",
-          "room": "206",
-          "teacher": "преп. Кириченко А.Е."
-        }
-      ]
+      "lessons": []
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
     "clickedText": "Ю-С251сСА (11)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8308",
@@ -5560,16 +5580,75 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
     "clickedText": "Ю-С251зПО (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8309&fd=%d0%ae-%d0%a1251%d0%b7%d0%9f%d0%9e%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": []
+      "lessons": [
+        {
+          "day": "31 октября 2025 г., пятница",
+          "lessonTime": "4\n14:35",
+          "subject": "Литература",
+          "lessonType": "ПрЗ",
+          "room": "414",
+          "teacher": "ст. преп. Шереметова Е.Д."
+        },
+        {
+          "day": "31 октября 2025 г., пятница",
+          "lessonTime": "5\n16:20",
+          "subject": "Русский язык 9",
+          "lessonType": "ПрЗ",
+          "room": "411",
+          "teacher": "ст. преп. Шереметова Е.Д."
+        },
+        {
+          "day": "31 октября 2025 г., пятница",
+          "lessonTime": "6\n18:05",
+          "subject": "Математика 9",
+          "lessonType": "ПрЗ",
+          "room": "315",
+          "teacher": "ст. преп. Евенко И.А."
+        },
+        {
+          "day": "31 октября 2025 г., пятница",
+          "lessonTime": "7\n19:50",
+          "subject": "Математика 9",
+          "lessonType": "ПрЗ",
+          "room": "319",
+          "teacher": "ст. преп. Евенко И.А."
+        },
+        {
+          "day": "01 ноября 2025 г., суббота",
+          "lessonTime": "2\n10:15",
+          "subject": "География",
+          "lessonType": "Лек",
+          "room": "503",
+          "teacher": "ст. преп. Маркарова М.А."
+        },
+        {
+          "day": "01 ноября 2025 г., суббота",
+          "lessonTime": "3\n12:00",
+          "subject": "География",
+          "lessonType": "ПрЗ",
+          "room": "503",
+          "teacher": "ст. преп. Маркарова М.А."
+        },
+        {
+          "day": "01 ноября 2025 г., суббота",
+          "lessonTime": "4\n14:10",
+          "subject": "Информатика 9",
+          "lessonType": "Лаб",
+          "room": "345",
+          "teacher": "ст. преп. Маркарова М.А."
+        }
+      ]
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
     "clickedText": "Ю-С251зсПО (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8310&fd=%d0%ae-%d0%a1251%d0%b7%d1%81%d0%9f%d0%9e%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -5645,11 +5724,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
     "clickedText": "Ю-С241ПО (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7834",
@@ -5853,6 +5934,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
     "clickedText": "Ю-С241ПО (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7834&fd=%d0%ae-%d0%a1241%d0%9f%d0%9e%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -5928,225 +6010,18 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
     "clickedText": "Ю-С241СА (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7835",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Понедельник",
-          "lessonTime": "3\nЧисл.",
-          "subject": "История России",
-          "lessonType": "Лекционное занятие",
-          "room": "308",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3\nЗнам.",
-          "subject": "История России",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "4",
-          "subject": "Гражданское право",
-          "lessonType": "Лекционное занятие",
-          "room": "308",
-          "teacher": "преп. Кириченко А.Е."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "5",
-          "subject": "Документационное обеспечение управления",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "2\nЗнам.",
-          "subject": "Конституционное право России",
-          "lessonType": "Лекционное занятие",
-          "room": "308",
-          "teacher": "ст. преп. Лейба Л.В."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "3\nЗнам.",
-          "subject": "Административное право",
-          "lessonType": "Лекционное занятие",
-          "room": "308",
-          "teacher": ""
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "4\nЗнам.",
-          "subject": "Теория государства и права",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": ""
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2\nЧисл.",
-          "subject": "Теория государства и права",
-          "lessonType": "Практическое занятие",
-          "room": "334",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2\nЗнам.",
-          "subject": "Основы финансовой грамотности",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3",
-          "subject": "Иностранный язык в профессиональной деятельности",
-          "lessonType": "Практическое занятие",
-          "room": "201",
-          "teacher": "ст. преп. Харченко Е.А."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4\nЧисл.",
-          "subject": "Административное право",
-          "lessonType": "Практическое занятие",
-          "room": "334",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4\nЗнам.",
-          "subject": "Документационное обеспечение управления",
-          "lessonType": "Практическое занятие",
-          "room": "315",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "5\nЧисл.",
-          "subject": "Основы финансовой грамотности",
-          "lessonType": "Практическое занятие",
-          "room": "411",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "5\nЗнам.",
-          "subject": "Административное право",
-          "lessonType": "Практическое занятие",
-          "room": "334",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "2\nЧисл.",
-          "subject": "Конституционное право России",
-          "lessonType": "Практическое занятие",
-          "room": "324",
-          "teacher": "ст. преп. Лейба Л.В."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "2\nЗнам.",
-          "subject": "Конституционное право России",
-          "lessonType": "Практическое занятие",
-          "room": "334",
-          "teacher": "ст. преп. Лейба Л.В."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "3\nЧисл.",
-          "subject": "История России",
-          "lessonType": "Практическое занятие",
-          "room": "503",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "4\nЧисл.",
-          "subject": "Документационное обеспечение управления",
-          "lessonType": "Практическое занятие",
-          "room": "411",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "2\nЧисл.",
-          "subject": "Административное право",
-          "lessonType": "Практическое занятие",
-          "room": "340",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "2\nЗнам.",
-          "subject": "Теория государства и права",
-          "lessonType": "Практическое занятие",
-          "room": "324",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "3\nЧисл.",
-          "subject": "Гражданское право",
-          "lessonType": "Практическое занятие",
-          "room": "206",
-          "teacher": "ст. преп. Рузаева О.В."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "3\nЗнам.",
-          "subject": "Гражданское право",
-          "lessonType": "Практическое занятие",
-          "room": "340",
-          "teacher": "ст. преп. Рузаева О.В."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "4",
-          "subject": "Физическая культура",
-          "lessonType": "Физическая культура",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "ст. преп. Панкова Е.А."
-        },
-        {
-          "day": "Суббота",
-          "lessonTime": "3\nЧисл.",
-          "subject": "Гражданское право",
-          "lessonType": "Практическое занятие",
-          "room": "206",
-          "teacher": "ст. преп. Рузаева О.В."
-        },
-        {
-          "day": "Суббота",
-          "lessonTime": "4\nЗнам.",
-          "subject": "Конституционное право России",
-          "lessonType": "Практическое занятие",
-          "room": "334",
-          "teacher": "ст. преп. Лейба Л.В."
-        },
-        {
-          "day": "Суббота",
-          "lessonTime": "5\nЗнам.",
-          "subject": "Теория государства и права",
-          "lessonType": "Практическое занятие",
-          "room": "405",
-          "teacher": "ст. преп. Соловцова Е.А."
-        }
-      ]
+      "lessons": []
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
     "clickedText": "Ю-С241сПО (11)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7837",
@@ -6326,6 +6201,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
     "clickedText": "Ю-С242ПО (9)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7935",
@@ -6537,6 +6413,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
     "clickedText": "Ю-С241зПО (9)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=8126&fd=%d0%ae-%d0%a1241%d0%b7%d0%9f%d0%9e%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -6572,6 +6449,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
     "clickedText": "Ю-С241зсПО (11)(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=8127&fd=%d0%ae-%d0%a1241%d0%b7%d1%81%d0%9f%d0%9e%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -6631,31 +6509,37 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=1",
     "level": 0,
     "clickedText": "Финансово-экономический факультет",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
     "level": 1,
     "clickedText": "Гостиничное дело (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%93%d0%be%d1%81%d1%82%d0%b8%d0%bd%d0%b8%d1%87%d0%bd%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%93%d0%be%d1%81%d1%82%d0%b8%d0%bd%d0%b8%d1%87%d0%bd%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%93%d0%be%d1%81%d1%82%d0%b8%d0%bd%d0%b8%d1%87%d0%bd%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
     "level": 1,
     "clickedText": "Менеджмент (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=1",
     "level": 3,
     "clickedText": "МТ-С251(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=1&g=8264",
@@ -6851,6 +6735,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=1",
     "level": 3,
     "clickedText": "МТ-С251оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=1&g=8265",
@@ -6982,6 +6867,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=1",
     "level": 3,
     "clickedText": "МТ-С251озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=1&g=8266",
@@ -7121,11 +7007,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=2",
     "level": 3,
     "clickedText": "МТ-С241озб(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=2&g=7958",
@@ -7241,6 +7129,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=2",
     "level": 3,
     "clickedText": "МТ-С241озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=2&g=7959",
@@ -7356,6 +7245,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=2",
     "level": 3,
     "clickedText": "МТ-С241оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=2&g=8010",
@@ -7471,11 +7361,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=3",
     "level": 3,
     "clickedText": "МТ-С231оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=3&g=7474",
@@ -7583,6 +7475,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=3",
     "level": 3,
     "clickedText": "МТ-С231озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=3&g=7667",
@@ -7674,11 +7567,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822",
     "level": 2,
     "clickedText": "4 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=4"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=4",
     "level": 3,
     "clickedText": "МТ-С221оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=4&g=7068",
@@ -7770,11 +7665,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822",
     "level": 2,
     "clickedText": "5 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5",
     "level": 3,
     "clickedText": "МТ-С211оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5&g=6808",
@@ -7850,6 +7747,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5",
     "level": 3,
     "clickedText": "МТ-С211оз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5&g=6808&fd=%d0%9c%d0%a2-%d0%a1211%d0%be%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -7877,16 +7775,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
     "level": 1,
     "clickedText": "Прикладная информатика (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1",
     "level": 3,
     "clickedText": "ПИН-С251(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1&g=8255",
@@ -8082,6 +7983,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1",
     "level": 3,
     "clickedText": "ПИН-С251б(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1&g=8369",
@@ -8277,11 +8179,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ПИН-С241б(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2&g=7953",
@@ -8485,6 +8389,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ПИН-С241з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2&g=7974&fd=%d0%9f%d0%98%d0%9d-%d0%a1241%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -8976,6 +8881,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ПИН-С241зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2&g=7975&fd=%d0%9f%d0%98%d0%9d-%d0%a1241%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -9339,214 +9245,24 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ПИН-С241(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2&g=8000",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Понедельник",
-          "lessonTime": "2\nЧисл.",
-          "subject": "Иностранный язык",
-          "lessonType": "Практическое занятие",
-          "room": "409",
-          "teacher": "доц. Павленко С.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3",
-          "subject": "Базы данных",
-          "lessonType": "Лекционное занятие",
-          "room": "506",
-          "teacher": "доц. Литвинова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3\nЗнам.",
-          "subject": "Иностранный язык",
-          "lessonType": "Практическое занятие",
-          "room": "339",
-          "teacher": "доц. Павленко С.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "4",
-          "subject": "Кредитная кооперация",
-          "lessonType": "Лекционное занятие",
-          "room": "414",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "4\nЗнам.",
-          "subject": "Кредитная кооперация",
-          "lessonType": "Практическое занятие",
-          "room": "414",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "5\nЗнам.",
-          "subject": "Базы данных",
-          "lessonType": "Лабораторное занятие",
-          "room": "345",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "4",
-          "subject": "Самоменеджмент",
-          "lessonType": "Лекционное занятие",
-          "room": "315",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "5",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "Лекционное занятие",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "1",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "Практическое занятие",
-          "room": "345",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2",
-          "subject": "Экономика организации (предприятия)",
-          "lessonType": "Лекционное занятие",
-          "room": "402",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2\nЗнам.",
-          "subject": "Экономика организации (предприятия)",
-          "lessonType": "Практическое занятие",
-          "room": "402",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3",
-          "subject": "Бухгалтерский учет с применением цифровых технологий",
-          "lessonType": "Лекционное занятие",
-          "room": "402",
-          "teacher": "доц. Ковалева В.Д."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3",
-          "subject": "Бухгалтерский учет с применением цифровых технологий",
-          "lessonType": "Лекционное занятие",
-          "room": "404",
-          "teacher": "доц. Ковалева В.Д."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "342",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "343",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "1",
-          "subject": "Программирование",
-          "lessonType": "Лекционное занятие",
-          "room": "305",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "2",
-          "subject": "Программирование",
-          "lessonType": "Лабораторное занятие",
-          "room": "305",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "3\nЧисл.",
-          "subject": "Самоменеджмент",
-          "lessonType": "Практическое занятие",
-          "room": "402",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "3\nЗнам.",
-          "subject": "Самоменеджмент",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "4",
-          "subject": "Элективная дисциплина по физической культуре и спорту – Атлетическая гимнастика",
-          "lessonType": "Практическое занятие",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "доц. Бавтрюков И.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "3",
-          "subject": "Бухгалтерский учет с применением цифровых технологий",
-          "lessonType": "Практическое занятие",
-          "room": "402",
-          "teacher": "доц. Ковалева В.Д."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "4",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "Практическое занятие",
-          "room": "503",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5",
-          "subject": "Правоведение",
-          "lessonType": "Лекционное занятие",
-          "room": "405",
-          "teacher": "доц. Печалов А.К."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5\nЗнам.",
-          "subject": "Правоведение",
-          "lessonType": "Практическое занятие",
-          "room": "405",
-          "teacher": "доц. Печалов А.К."
-        }
-      ]
+      "lessons": []
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ПИН-С231з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3&g=7470&fd=%d0%9f%d0%98%d0%9d-%d0%a1231%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -9862,6 +9578,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ПИН-С231зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3&g=7754&fd=%d0%9f%d0%98%d0%9d-%d0%a1231%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -9872,11 +9589,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "4 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=4"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ПИН-С221з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=4&g=7061&fd=%d0%9f%d0%98%d0%9d-%d0%a1221%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -9887,26 +9606,31 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "5 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=5"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
     "level": 1,
     "clickedText": "Технология продукции и организация общественного питания (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ТПП-С241з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=2&g=7972&fd=%d0%a2%d0%9f%d0%9f-%d0%a1241%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -10374,6 +10098,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ТПП-С241зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=2&g=7973&fd=%d0%a2%d0%9f%d0%9f-%d0%a1241%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -10729,11 +10454,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ТПП-С231з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=3&g=7468&fd=%d0%a2%d0%9f%d0%9f-%d0%a1231%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -11041,6 +10768,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ТПП-С231зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=3&g=7756&fd=%d0%a2%d0%9f%d0%9f-%d0%a1231%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -11051,11 +10779,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "4 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=4"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=4",
     "level": 3,
     "clickedText": "ТПП-С221з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=4&g=7307&fd=%d0%a2%d0%9f%d0%9f-%d0%a1221%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -11107,16 +10837,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
     "level": 1,
     "clickedText": "Торговое дело (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2&k=1",
     "level": 3,
     "clickedText": "КТД-С251оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be2&k=1&g=8293",
@@ -11248,16 +10981,19 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
     "level": 1,
     "clickedText": "Экономика (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1",
     "level": 3,
     "clickedText": "ЭКБ-С251озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1&g=8260",
@@ -11381,6 +11117,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1",
     "level": 3,
     "clickedText": "ЭК-С251(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1&g=8261",
@@ -11576,6 +11313,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1",
     "level": 3,
     "clickedText": "ЭКБА-С251оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1&g=8262",
@@ -11707,6 +11445,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1",
     "level": 3,
     "clickedText": "ЭКБА-С251озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=1&g=8263",
@@ -11830,11 +11569,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ЭКБ-С241озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2&g=7954",
@@ -12006,6 +11747,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ЭК-С241б(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2&g=7955",
@@ -12193,6 +11935,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ЭКБА-С241оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2&g=7956",
@@ -12308,6 +12051,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ЭКБА-С241озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2&g=7957",
@@ -12447,6 +12191,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2",
     "level": 3,
     "clickedText": "ЭК-С241(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=2&g=8002",
@@ -12634,11 +12379,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ЭК-С231(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3&g=7463",
@@ -12834,6 +12581,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ЭКБА-С231оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3&g=7473",
@@ -12925,6 +12673,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ЭК-С231у(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3&g=7655",
@@ -13048,6 +12797,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ЭК-С231у(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3&g=7655&fd=%d0%ad%d0%9a-%d0%a1231%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -13123,6 +12873,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ЭКБА-С231озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3&g=7668",
@@ -13230,6 +12981,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3",
     "level": 3,
     "clickedText": "ЭКБ-С231озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=3&g=7669",
@@ -13353,11 +13105,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02",
     "level": 2,
     "clickedText": "4 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ЭКБ-С221озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7064",
@@ -13393,6 +13147,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ЭКБ-С221озу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7064&fd=%d0%ad%d0%9a%d0%91-%d0%a1221%d0%be%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -13436,6 +13191,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ЭКБА-С221оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7065",
@@ -13543,6 +13299,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ЭКБА-С221озу(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7066",
@@ -13570,6 +13327,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ЭКБА-С221озу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7066&fd=%d0%ad%d0%9a%d0%91%d0%90-%d0%a1221%d0%be%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -13613,6 +13371,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ЭК-С221(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7067",
@@ -13728,6 +13487,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
     "clickedText": "ЭК-С221(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7067&fd=%d0%ad%d0%9a-%d0%a1221&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -13787,56 +13547,67 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=1",
     "level": 0,
     "clickedText": "Юридический факультет",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10023"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10023",
     "level": 1,
     "clickedText": "Реклама и связи с общественностью (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%a0%d0%b5%d0%ba%d0%bb%d0%b0%d0%bc%d0%b0%20%d0%b8%20%d1%81%d0%b2%d1%8f%d0%b7%d0%b8%20%d1%81%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d1%8c%d1%8e2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%a0%d0%b5%d0%ba%d0%bb%d0%b0%d0%bc%d0%b0%20%d0%b8%20%d1%81%d0%b2%d1%8f%d0%b7%d0%b8%20%d1%81%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d1%8c%d1%8e2",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%a0%d0%b5%d0%ba%d0%bb%d0%b0%d0%bc%d0%b0%20%d0%b8%20%d1%81%d0%b2%d1%8f%d0%b7%d0%b8%20%d1%81%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d1%8c%d1%8e2&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10023",
     "level": 1,
     "clickedText": "Сервис (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%a1%d0%b5%d1%80%d0%b2%d0%b8%d1%812"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%a1%d0%b5%d1%80%d0%b2%d0%b8%d1%812",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%a1%d0%b5%d1%80%d0%b2%d0%b8%d1%812&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%a1%d0%b5%d1%80%d0%b2%d0%b8%d1%812",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%a1%d0%b5%d1%80%d0%b2%d0%b8%d1%812&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10023",
     "level": 1,
     "clickedText": "Туризм (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%a2%d1%83%d1%80%d0%b8%d0%b7%d0%bc2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%a2%d1%83%d1%80%d0%b8%d0%b7%d0%bc2",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%a2%d1%83%d1%80%d0%b8%d0%b7%d0%bc2&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10023",
     "level": 1,
     "clickedText": "Юриспруденция (бакалавриат)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1",
     "level": 3,
     "clickedText": "ЮР-С251(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1&g=8268",
@@ -14072,6 +13843,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1",
     "level": 3,
     "clickedText": "ЮР-С251у(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1&g=8269",
@@ -14307,6 +14079,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1",
     "level": 3,
     "clickedText": "ЮР-С251оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1&g=8270",
@@ -14454,6 +14227,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1",
     "level": 3,
     "clickedText": "ЮР-С252оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=1&g=8501",
@@ -14601,11 +14375,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "2 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С241(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=7968",
@@ -14793,6 +14569,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С241у(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=7969",
@@ -15044,6 +14821,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С241оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=8006",
@@ -15175,6 +14953,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С242оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=8007",
@@ -15306,6 +15085,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С241зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=8082&fd=%d0%ae%d0%a0-%d0%a1241%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -15725,6 +15505,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С242зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=8083&fd=%d0%ae%d0%a0-%d0%a1242%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -16144,6 +15925,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С243зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=8084&fd=%d0%ae%d0%a0-%d0%a1243%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -16563,6 +16345,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2",
     "level": 3,
     "clickedText": "ЮР-С244зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=2&g=8085&fd=%d0%ae%d0%a0-%d0%a1244%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -16982,11 +16765,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "3 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С231(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7465",
@@ -17182,6 +16967,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С231оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7466",
@@ -17313,6 +17099,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С231у(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7643",
@@ -17516,6 +17303,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С231у(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7643&fd=%d0%ae%d0%a0-%d0%a1231%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -17591,6 +17379,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С232оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7650",
@@ -17722,6 +17511,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С231зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7758&fd=%d0%ae%d0%a0-%d0%a1231%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -17732,6 +17522,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С232зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7759&fd=%d0%ae%d0%a0-%d0%a1232%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -17742,6 +17533,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С233зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7760&fd=%d0%ae%d0%a0-%d0%a1233%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -17752,6 +17544,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
     "level": 3,
     "clickedText": "ЮР-С234зу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7761&fd=%d0%ae%d0%a0-%d0%a1234%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -17762,11 +17555,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "4 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4",
     "level": 3,
     "clickedText": "ЮР-С221(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4&g=7070",
@@ -17946,6 +17741,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4",
     "level": 3,
     "clickedText": "ЮР-С221(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4&g=7070&fd=%d0%ae%d0%a0-%d0%a1221&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -18005,6 +17801,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4",
     "level": 3,
     "clickedText": "ЮР-С221оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4&g=7073",
@@ -18136,6 +17933,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4",
     "level": 3,
     "clickedText": "ЮР-С222оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=4&g=7573",
@@ -18267,11 +18065,13 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "5 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5"
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
     "level": 3,
     "clickedText": "ЮР-С211оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6793",
@@ -18331,6 +18131,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
     "level": 3,
     "clickedText": "ЮР-С211оз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6793&fd=%d0%ae%d0%a0-%d0%a1211%d0%be%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
@@ -18374,6 +18175,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
     "level": 3,
     "clickedText": "ЮР-С212оз(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6794",
@@ -18433,6 +18235,7 @@
     }
   },
   {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
     "level": 3,
     "clickedText": "ЮР-С212оз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6794&fd=%d0%ae%d0%a0-%d0%a1212%d0%be%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
