@@ -28,19 +28,21 @@ export const prepareOptions = (items: RawItem[]): Option[] => {
 	const result: Option[] = [];
 
 	// Берём элементы уровня 3 (группы) и ищем их родителей по цепочке
-	items.filter((i) => i.level === 3).forEach((group) => {
-		const course = findByLanded(group.from);
-		const specialty = findByLanded(course?.from);
-		const faculty = findByLanded(specialty?.from);
+	items
+		.filter((i) => i.level === 3)
+		.forEach((group) => {
+			const course = findByLanded(group.from);
+			const specialty = findByLanded(course?.from);
+			const faculty = findByLanded(specialty?.from);
 
-		// Формируем читаемое имя от верхнего уровня к нижнему
-		const nameParts = [faculty?.clickedText, specialty?.clickedText, course?.clickedText, group.clickedText].filter(Boolean);
+			// Формируем читаемое имя от верхнего уровня к нижнему
+			const nameParts = [faculty?.clickedText, specialty?.clickedText, course?.clickedText, group.clickedText].filter(Boolean);
 
-		result.push({
-			name: nameParts.join(" / "),
-			url: group.landedUrl,
+			result.push({
+				name: nameParts.join(" / "),
+				url: group.landedUrl,
+			});
 		});
-	});
 
 	return result;
 };
