@@ -163,7 +163,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 											// Мобильная версия
 											<>
 												<TableCell component="th" scope="row" sx={{ width: "20%", textAlign: "center" }}>
-													<P size="medium">{classItem.lessonTime}</P>
+													<P size="medium" html={classItem.lessonTime} />
 												</TableCell>
 												<TableCell sx={{ width: "50%" }}>
 													<P size="large">{classItem.subject}</P>
@@ -183,7 +183,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 											// Десктопная версия
 											<>
 												<TableCell sx={{ width: "10%", textAlign: "center" }} component="th" scope="row">
-													<P size="medium">{classItem.lessonTime}</P>
+													<P size="medium" html={classItem.lessonTime} />
 												</TableCell>
 												<TableCell sx={{ width: "55%" }}>
 													<P size="large">{classItem.subject}</P>
