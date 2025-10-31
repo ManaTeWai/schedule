@@ -122,7 +122,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 							{isMobile ? (
 								<TableHead sx={{ bgcolor: "grey.100" }}>
 									<TableRow>
-										<TableCell sx={{ width: "20%" }}>
+										<TableCell sx={{ width: "20%", textAlign: "center" }}>
 											<P size="medium">Время</P>
 										</TableCell>
 										<TableCell sx={{ width: "50%" }}>
@@ -138,7 +138,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 							) : (
 								<TableHead sx={{ bgcolor: "grey.100" }}>
 									<TableRow>
-										<TableCell sx={{ width: "10%" }}>
+										<TableCell sx={{ width: "10%", textAlign: "center" }}>
 											<P size="medium">Время</P>
 										</TableCell>
 										<TableCell sx={{ width: "45%" }}>
@@ -162,7 +162,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 										{isMobile ? (
 											// Мобильная версия
 											<>
-												<TableCell component="th" scope="row" sx={{ width: "20%" }}>
+												<TableCell component="th" scope="row" sx={{ width: "20%", textAlign: "center" }}>
 													<P size="medium">{classItem.lessonTime}</P>
 												</TableCell>
 												<TableCell sx={{ width: "50%" }}>
@@ -182,7 +182,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 										) : (
 											// Десктопная версия
 											<>
-												<TableCell sx={{ width: "10%" }} component="th" scope="row">
+												<TableCell sx={{ width: "10%", textAlign: "center" }} component="th" scope="row">
 													<P size="medium">{classItem.lessonTime}</P>
 												</TableCell>
 												<TableCell sx={{ width: "55%" }}>
