@@ -31,6 +31,10 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 			return "exam";
 		case "Экз у":
 			return "exam";
+		case "КонсИтогЭкз":
+			return "exam";
+		case "Экз квал":
+			return "exam";
 		case "ДЗач":
 			return "pass";
 		case "Зач":

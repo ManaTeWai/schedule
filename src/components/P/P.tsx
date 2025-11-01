@@ -11,7 +11,6 @@ export const P = ({ size = "medium", children, className, html, ...props }: PPro
 		[styles.large]: size == "large",
 	});
 
-	// Если передан html — вставляем его через dangerouslySetInnerHTML
 	if (html) {
 		return <p className={classNames} dangerouslySetInnerHTML={{ __html: html }} {...props} />;
 	}
