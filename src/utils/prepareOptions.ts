@@ -11,31 +11,45 @@ interface Option {
 }
 
 export const prepareOptions = (items: RawItem[]): Option[] => {
-	// Нормализуем URL для сопоставления — убираем параметр k, конечные пробелы и т.п.
-	const normalize = (u?: string) => (u || "").trim().replace(/([?&])k=\d+$/, "");
+	// Нормализуем URL: удаляем параметр k и лишние завершающие слеши, декодируем
+	const normalize = (u?: string) => {
+		if (!u) return "";
+		try {
+			const url = new URL(u);
+			url.searchParams.delete("k");
+			const pathname = url.pathname.replace(/\/+$/, "");
+			const search = url.search ? url.search : "";
+			return decodeURIComponent(url.origin + pathname + search);
+		} catch {
+			return (u || "")
+				.replace(/([?&])k=\d+/g, "")
+				.trim()
+				.replace(/\/+$/, "");
+		}
+	};
 
-	const findByLanded = (target?: string) => {
+	const findByLandedAndLevel = (target?: string, level?: number) => {
 		if (!target) return undefined;
 		const t = normalize(target);
-		// 1) точное совпадение нормализованных URL
-		const exact = items.find((i) => normalize(i.landedUrl) === t);
+		const exact = items.find((i) => (level === undefined || i.level === level) && normalize(i.landedUrl) === t);
 		if (exact) return exact;
-		// 2) если точного нет — поиск по включению одного в другой (защитный матч)
-		const included = items.find((i) => t.includes(normalize(i.landedUrl)) || normalize(i.landedUrl).includes(t));
+		const included = items.find(
+			(i) => (level === undefined || i.level === level) && (t.includes(normalize(i.landedUrl)) || normalize(i.landedUrl).includes(t))
+		);
 		return included;
 	};
 
 	const result: Option[] = [];
 
-	// Берём элементы уровня 3 (группы) и ищем их родителей по цепочке
+	// Берём элементы уровня 3 (группы) и ищем их родителей строго по уровням: 2 -> 1 -> 0
 	items
 		.filter((i) => i.level === 3)
 		.forEach((group) => {
-			const course = findByLanded(group.from);
-			const specialty = findByLanded(course?.from);
-			const faculty = findByLanded(specialty?.from);
+			const course = findByLandedAndLevel(group.from, 2);
+			const specialty = findByLandedAndLevel(course?.from, 1);
+			const faculty = findByLandedAndLevel(specialty?.from, 0);
 
-			// Формируем читаемое имя от верхнего уровня к нижнему
+			// Формируем имя в порядке: Группа / Курс / Направление / Факультет
 			const nameParts = [group.clickedText, course?.clickedText, specialty?.clickedText, faculty?.clickedText].filter(Boolean);
 
 			result.push({
