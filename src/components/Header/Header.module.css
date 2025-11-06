@@ -6,10 +6,6 @@
 	margin: 10px 25px;
 }
 
-.mobile_menu {
-	position: relative;
-}
-
 .burger {
 	z-index: 10;
 	display: none;
@@ -56,6 +52,10 @@
 
 .mobile_nav {
 	display: none;
+}
+
+.mobile_nav ul :nth-child(2) {
+	justify-content: center;
 }
 
 @media (width <= 768px) {

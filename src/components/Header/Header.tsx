@@ -71,18 +71,18 @@ export const Header = (): JSX.Element => {
 
 				<MenuList sx={{ width: 320, maxWidth: "100%" }}>
 					<Divider />
+					<MenuItem>
+						<button
+							onClick={() => {
+								const current = resolvedTheme ?? theme;
+								setTheme(current === "dark" ? "light" : "dark");
+							}}
+						>
+							{(resolvedTheme ?? theme) === "dark" ? <LightModeIcon /> : <DarkModeIcon />}
+						</button>
+					</MenuItem>
+					<Divider />
 					<Link href="/" onClick={CloseMenu}>
-						<MenuItem>
-							<button
-								onClick={() => {
-									const current = resolvedTheme ?? theme;
-									setTheme(current === "dark" ? "light" : "dark");
-								}}
-							>
-								{(resolvedTheme ?? theme) === "dark" ? <LightModeIcon /> : <DarkModeIcon />}
-							</button>
-						</MenuItem>
-						<Divider />
 						<MenuItem>
 							<ListItemIcon>
 								<CalendarMonthOutlinedIcon
