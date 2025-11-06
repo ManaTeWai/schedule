@@ -36,13 +36,40 @@ export const Select_comp = (): JSX.Element => {
 				<Htag tag="h2">Расписание</Htag>
 				<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
 					<Link href="/groups">
-						<ToggleButton value="groups" aria-label="По группам">
+						<ToggleButton
+							value="groups"
+							aria-label="По группам"
+							sx={{
+								borderRight: "1px solid var(--text-color)",
+								"&[aria-pressed='true'], &[aria-selected='true']": {
+									backgroundColor: "rgba(0, 0, 0, 0.16)",
+									color: "var(--text-color)",
+									borderRight: "1px solid var(--text-color)",
+								},
+								"&:hover": {
+									backgroundColor: "rgba(0, 0, 0, 0.1)",
+								},
+							}}
+						>
 							ПО ГРУППАМ
 						</ToggleButton>
 					</Link>
 
 					<Link href="/teachers">
-						<ToggleButton value="teachers" aria-label="По преподавателям">
+						<ToggleButton
+							value="teachers"
+							aria-label="По преподавателям"
+							sx={{
+								borderLeft: "1px solid var(--text-color)",
+								"&[aria-pressed='true'], &[aria-selected='true']": {
+									backgroundColor: "rgba(0, 0, 0, 0.16)",
+									color: "var(--text-color)",
+								},
+								"&:hover": {
+									backgroundColor: "rgba(0, 0, 0, 0.1)",
+								},
+							}}
+						>
 							ПО ПРЕПОДАВАТЕЛЯМ
 						</ToggleButton>
 					</Link>
@@ -55,13 +82,12 @@ export const Select_comp = (): JSX.Element => {
 							variant="outlined"
 							startIcon={<HouseOutlinedIcon fontSize="small" />}
 							sx={{
-								border: "1px solid rgba(0, 0, 0, 0.12)",
+								border: "1px solid var(--text-color)",
 								color: "var(--text-color)",
 								backgroundColor: "transparent",
 								"&:hover": {
-									color: "rgba(0, 0, 0, 0.87)",
 									backgroundColor: "rgba(0, 0, 0, 0.08)",
-									border: "1px solid rgba(0, 0, 0, 0.12)",
+									border: "1px solid var(--text-color)",
 								},
 							}}
 						>

@@ -8,7 +8,7 @@ export default function GlobalError({ reset }: { error: Error & { digest?: strin
 	return (
 		<main className={styles.not_found}>
 			<div>
-				<Htag tag="h1">500 - Ошибка сервера</Htag>
+				<Htag tag="h1" className={"mb"}>500 - Ошибка сервера</Htag>
 				<P>Что-то пошло не так. Пожалуйста, попробуйте позже.</P>
 				<Button
 					onClick={() => reset()}

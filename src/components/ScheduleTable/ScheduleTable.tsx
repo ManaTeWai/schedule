@@ -118,13 +118,13 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 		<Box sx={{ mt: 3 }}>
 			{sortedDays.map((day) => (
 				<Paper key={day} sx={{ mb: 3, overflow: "hidden" }}>
-					<Box sx={{ p: 2, bgcolor: "grey.100", borderBottom: "1px solid", borderColor: "divider" }}>
+					<Box sx={{ p: 2, bgcolor: "var(--gray)", borderBottom: "1px solid var(--text-color)", borderColor: "divider" }}>
 						<Htag tag="h2">{day}</Htag>
 					</Box>
 					<TableContainer className={styles.table}>
 						<Table sx={!isMobile ? { tableLayout: "fixed" } : {}}>
 							{isMobile ? (
-								<TableHead sx={{ bgcolor: "grey.100" }}>
+								<TableHead sx={{ bgcolor: "var(--gray)" }}>
 									<TableRow>
 										<TableCell sx={{ width: "20%", textAlign: "center" }}>
 											<P size="medium">Время</P>
@@ -140,7 +140,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 									</TableRow>
 								</TableHead>
 							) : (
-								<TableHead sx={{ bgcolor: "grey.100" }}>
+								<TableHead sx={{ bgcolor: "var(--gray)" }}>
 									<TableRow>
 										<TableCell sx={{ width: "10%", textAlign: "center" }}>
 											<P size="medium">Время</P>

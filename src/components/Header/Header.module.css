@@ -78,7 +78,7 @@
 		height: calc(100vh - 60px);
 		margin-top: 0;
 		list-style-type: none;
-		background-color: rgb(224 224 224 / 90%);
+		background-color: var(--background-color);
 	}
 
 	.mobile_li {
@@ -102,5 +102,9 @@
 
 	.burger {
 		display: flex;
+	}
+
+	.theme_switcher {
+		display: none;
 	}
 }
