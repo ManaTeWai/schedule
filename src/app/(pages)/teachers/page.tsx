@@ -3,41 +3,58 @@
 import { Select_comp, ScheduleTable } from "@/components";
 import { Autocomplete, TextField, CircularProgress, Box, Typography, Paper } from "@mui/material";
 import styles from "@/app/page.module.css";
-import { prepareOptions } from "@/utils/prepareOptions";
 import localData from "@/data/parsed_data_tr2.json";
 import { useState, useEffect } from "react";
-import { Teachers_d } from "@/types";
+import { ClassSchedule } from "@/types";
+import { prepareOptionsTR2 } from "@/utils/prepareOptions";
 
 interface RawItem {
 	level: number;
 	clickedText: string;
 	landedUrl: string;
 	from: string;
+	schedule?: {
+		hasSchedule: boolean;
+		message?: string;
+		lessons?: ClassSchedule[];
+	};
+}
+
+interface Option {
+	name: string;
+	url: string;
 }
 
 export default function Teachers() {
-	const [options, setOptions] = useState<Teachers_d[]>([]);
-	const [selected, setSelected] = useState<Teachers_d | null>(null);
+	const [options, setOptions] = useState<Option[]>([]);
+	const [selected, setSelected] = useState<Option | null>(null);
+	const [selectedSchedule, setSelectedSchedule] = useState<ClassSchedule[] | null>(null);
 	const [loading, setLoading] = useState<boolean>(true);
+
 	useEffect(() => {
-		// Преобразуем JSON в список для Autocomplete
-		const prepared = prepareOptions(localData as RawItem[]).map((item) => ({
-			id: item.url,
-			name: item.name,
-		}));
+		const raw = localData as RawItem[];
+
+		// Используем подготовитель, похожий на prepareOptions, но для tr2
+		const prepared = prepareOptionsTR2(raw);
 
 		setOptions(prepared);
 		setLoading(false);
 	}, []);
 
 	// eslint-disable-next-line @typescript-eslint/no-explicit-any
-	const handleChange1 = (_: any, value: Teachers_d | null) => {
+	const handleChange1 = (_: any, value: Option | null) => {
 		if (!value) {
 			setSelected(null);
+			setSelectedSchedule(null);
 			return;
 		}
 
-		console.log("Выбрана группа:", value.name);
+		setSelected(value);
+		// Найдём в исходных данных расписание по landedUrl
+		const raw = localData as RawItem[];
+		const found = raw.find((r) => r.landedUrl === value.url);
+		setSelectedSchedule(found?.schedule?.lessons ?? null);
+		console.log("Выбран преподаватель:", value.name);
 	};
 	return (
 		<main className={styles.main}>
@@ -74,7 +91,7 @@ export default function Teachers() {
 					<Typography variant="h5" gutterBottom>
 						Расписание преподавателя: {selected.name}
 					</Typography>
-					{/* <ScheduleTable schedule={selected.schedule} /> */}
+					<ScheduleTable schedule={selectedSchedule ?? []} />
 				</Box>
 			)}
 

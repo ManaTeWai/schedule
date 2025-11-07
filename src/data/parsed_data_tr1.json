@@ -76,14 +76,6 @@
         },
         {
           "day": "Среда",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лекционное занятие",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "Среда",
           "lessonTime": "6<br>Числ.",
           "subject": "Организация научных исследований в профессиональной деятельности",
           "lessonType": "Практическое занятие",
@@ -137,66 +129,6 @@
           "lessonType": "Практическое занятие",
           "room": "405",
           "teacher": "ст. преп. Плотников В.Ю."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Философия и методология науки",
-          "lessonType": "Лекционное занятие",
-          "room": "503",
-          "teacher": "доц. Печалова Л.В."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=1",
-    "level": 3,
-    "clickedText": "ГМУм-С251з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%93%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b5%20%d0%b8%20%d0%bc%d1%83%d0%bd%d0%b8%d1%86%d0%b8%d0%bf%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5%20%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b53&k=1&g=8300&fd=%d0%93%d0%9c%d0%a3%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Актуальные проблемы государственного и муниципального управления",
-          "lessonType": "ПрЗ",
-          "room": "342",
-          "teacher": "доц. Салпагаров Р.У."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "Лек",
-          "room": "342",
-          "teacher": "доц. Салпагаров Р.У."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "342",
-          "teacher": "доц. Салпагаров Р.У."
         }
       ]
     }
@@ -232,50 +164,6 @@
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03&k=1"
   },
   {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03&k=1",
-    "level": 3,
-    "clickedText": "ПИНм-С251з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b03&k=1&g=8494&fd=%d0%9f%d0%98%d0%9d%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "506",
-          "teacher": "доц. Литвинова Л.В."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "308",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "308",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Экономическая теория (продвинутый уровень)",
-          "lessonType": "ПрЗ",
-          "room": "308",
-          "teacher": "доц. Абросимова Т.Ф."
-        }
-      ]
-    }
-  },
-  {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10026",
     "level": 1,
     "clickedText": "Технология продукции и организация общественного питания (магистратура)",
@@ -286,58 +174,6 @@
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3&k=1"
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3&k=1",
-    "level": 3,
-    "clickedText": "ТППм-С251з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3&k=1&g=8495&fd=%d0%a2%d0%9f%d0%9f%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Моделирование и проектирование продуктов питания и технологических процессов",
-          "lessonType": "Лаб",
-          "room": "302",
-          "teacher": "доц. Трегубова Н.В."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "Лек",
-          "room": "212",
-          "teacher": "доц. Трегубова Н.В."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Организация производства продукции здорового питания",
-          "lessonType": "ПрЗ",
-          "room": "212",
-          "teacher": "доц. Трегубова Н.В."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "308",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "301",
-          "teacher": "доц. Трегубова Н.В."
-        }
-      ]
-    }
   },
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f3",
@@ -358,50 +194,6 @@
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3&k=1"
   },
   {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3&k=1",
-    "level": 3,
-    "clickedText": "КТДм-С251з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3&k=1&g=8301&fd=%d0%9a%d0%a2%d0%94%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "Лек",
-          "room": "302",
-          "teacher": "проф. Садовой В.В."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "302",
-          "teacher": "проф. Садовой В.В."
-        }
-      ]
-    }
-  },
-  {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%a2%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%be%d0%b5%20%d0%b4%d0%b5%d0%bb%d0%be3",
     "level": 2,
     "clickedText": "2 курс",
@@ -418,50 +210,6 @@
     "level": 2,
     "clickedText": "1 курс",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1"
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1",
-    "level": 3,
-    "clickedText": "ЭКм-С251з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1&g=8273&fd=%d0%ad%d0%9a%d0%bc-%d0%a1251%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "Лек",
-          "room": "342",
-          "teacher": "доц. Салпагаров Р.У."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "342",
-          "teacher": "доц. Салпагаров Р.У."
-        }
-      ]
-    }
   },
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1",
@@ -514,14 +262,6 @@
         },
         {
           "day": "Среда",
-          "lessonTime": "5<br>",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лекционное занятие",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "Среда",
           "lessonTime": "6<br>",
           "subject": "Организация научных исследований в профессиональной деятельности",
           "lessonType": "Практическое занятие",
@@ -559,14 +299,6 @@
           "lessonType": "Практическое занятие",
           "room": "403",
           "teacher": "доц. Дариенко Ж.Ю."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>",
-          "subject": "Философия и методология науки",
-          "lessonType": "Лекционное занятие",
-          "room": "503",
-          "teacher": "доц. Печалова Л.В."
         }
       ]
     }
@@ -622,14 +354,6 @@
         },
         {
           "day": "Среда",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лекционное занятие",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "Среда",
           "lessonTime": "6<br>Числ.",
           "subject": "Организация научных исследований в профессиональной деятельности",
           "lessonType": "Практическое занятие",
@@ -667,58 +391,6 @@
           "lessonType": "Практическое занятие",
           "room": "403",
           "teacher": "доц. Дариенко Ж.Ю."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Философия и методология науки",
-          "lessonType": "Лекционное занятие",
-          "room": "503",
-          "teacher": "доц. Печалова Л.В."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1",
-    "level": 3,
-    "clickedText": "ЭКм-С251зб(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b03&k=1&g=8488&fd=%d0%ad%d0%9a%d0%bc-%d0%a1251%d0%b7%d0%b1&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "Лек",
-          "room": "342",
-          "teacher": "доц. Салпагаров Р.У."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "342",
-          "teacher": "доц. Салпагаров Р.У."
         }
       ]
     }
@@ -738,14 +410,6 @@
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
-        {
-          "day": "Вторник",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Стратегическое управление бизнес-процессами в организации",
-          "lessonType": "Лекционное занятие",
-          "room": "410",
-          "teacher": "проф. Гладилин А.В."
-        },
         {
           "day": "Среда",
           "lessonTime": "4<br>Числ.",
@@ -1288,17 +952,6 @@
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3"
   },
   {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
-    "level": 3,
-    "clickedText": "ЮР-С231зп(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7752&fd=%d0%ae%d0%a0-%d0%a1231%d0%b7%d0%bf&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": false,
-      "message": "Расписание отсутствует",
-      "lessons": []
-    }
-  },
-  {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "4 курс",
@@ -1358,14 +1011,6 @@
           "teacher": "проф. Глаз Ю.А."
         },
         {
-          "day": "Среда",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лекционное занятие",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
           "day": "Четверг",
           "lessonTime": "3<br>Знам.",
           "subject": "Актуальные проблемы гражданского и предпринимательского права",
@@ -1420,198 +1065,6 @@
           "lessonType": "Лекционное занятие",
           "room": "503",
           "teacher": "проф. Келеман Л.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "319",
-          "teacher": "доц. Морозов А.Ю."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Философия и методология науки",
-          "lessonType": "Лекционное занятие",
-          "room": "503",
-          "teacher": "доц. Печалова Л.В."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
-    "level": 3,
-    "clickedText": "ЮРм-С251ГПз(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8297&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9f%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
-          "subject": "Юридическая техника применения и толкования права",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "доц. Морозов А.Ю."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
-    "level": 3,
-    "clickedText": "ЮРм-С251ГМВз(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8298&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9c%d0%92%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Правовое обеспечение государственной и муниципальной службы",
-          "lessonType": "ПрЗ",
-          "room": "405",
-          "teacher": "доц. Матинян М.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
-          "subject": "Юридическая техника применения и толкования права",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "доц. Морозов А.Ю."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "доц. Морозов А.Ю."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
-    "level": 3,
-    "clickedText": "ЮРм-С251ГПзб(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8489&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9f%d0%b7%d0%b1&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
-          "subject": "Юридическая техника применения и толкования права",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "доц. Морозов А.Ю."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1",
-    "level": 3,
-    "clickedText": "ЮРм-С251ГМВзб(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10026&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f3&k=1&g=8490&fd=%d0%ae%d0%a0%d0%bc-%d0%a1251%d0%93%d0%9c%d0%92%d0%b7%d0%b1&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Командная работа и лидерство",
-          "lessonType": "ПрЗ",
-          "room": "404",
-          "teacher": "проф. Глаз Ю.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Правовое обеспечение государственной и муниципальной службы",
-          "lessonType": "ПрЗ",
-          "room": "405",
-          "teacher": "доц. Матинян М.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
-          "subject": "Юридическая техника применения и толкования права",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "доц. Морозов А.Ю."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Организация научных исследований в профессиональной деятельности",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "доц. Морозов А.Ю."
         }
       ]
     }
@@ -1717,14 +1170,6 @@
           "subject": "Использование объектов интеллектуальной собственности в гражданском обороте",
           "lessonType": "Практическое занятие",
           "room": "319",
-          "teacher": "доц. Грязнов Д.Г."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Использование объектов интеллектуальной собственности в гражданском обороте",
-          "lessonType": "Лекционное занятие",
-          "room": "411",
           "teacher": "доц. Грязнов Д.Г."
         }
       ]
@@ -2163,78 +1608,6 @@
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Менеджмент",
-          "lessonType": "ДЗач",
-          "room": "409",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
-          "subject": "Семейное право",
-          "lessonType": "ДЗач",
-          "room": "343",
-          "teacher": "преп. Кириченко А.Е."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Методика подготовки процессуальных документов",
-          "lessonType": "ПрЗ",
-          "room": "343",
-          "teacher": "преп. Кириченко А.Е."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Правовые основы медико-социальной экспертизы",
-          "lessonType": "ПрЗ",
-          "room": "411",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Правовые основы медико-социальной экспертизы",
-          "lessonType": "ПрЗ",
-          "room": "411",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "5<br>15:55",
-          "subject": "Гражданский процесс",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "преп. Кириченко А.Е."
-        },
-        {
-          "day": "05 ноября 2025 г., среда",
-          "lessonTime": "4<br>14:35",
-          "subject": "Информационные технологии в профессиональной деятельности",
-          "lessonType": "ДЗач",
-          "room": "305",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "05 ноября 2025 г., среда",
-          "lessonTime": "5<br>16:20",
-          "subject": "Основы экологического права",
-          "lessonType": "КонсЭкз",
-          "room": "324",
-          "teacher": "ст. преп. Лейба Л.В."
-        },
-        {
-          "day": "06 ноября 2025 г., четверг",
-          "lessonTime": "5<br>16:20",
-          "subject": "Основы экологического права",
-          "lessonType": "Экз у",
-          "room": "410",
-          "teacher": "ст. преп. Лейба Л.В."
-        },
         {
           "day": "07 ноября 2025 г., пятница",
           "lessonTime": "5<br>16:20",
@@ -2725,7 +2098,7 @@
           "subject": "Иностранный язык",
           "lessonType": "Практическое занятие",
           "room": "339",
-          "teacher": ""
+          "teacher": "ст. преп. Поднекс Е.А."
         },
         {
           "day": "Понедельник",
@@ -3045,7 +2418,7 @@
           "subject": "Иностранный язык 9",
           "lessonType": "Практическое занятие",
           "room": "339",
-          "teacher": ""
+          "teacher": "ст. преп. Поднекс Е.А."
         },
         {
           "day": "Пятница",
@@ -3151,7 +2524,7 @@
           "subject": "Иностранный язык в профессиональной деятельности",
           "lessonType": "Практическое занятие",
           "room": "339",
-          "teacher": ""
+          "teacher": "ст. преп. Поднекс Е.А."
         },
         {
           "day": "Вторник",
@@ -3735,7 +3108,7 @@
           "subject": "Иностранный язык в профессиональной деятельности",
           "lessonType": "Практическое занятие",
           "room": "339",
-          "teacher": ""
+          "teacher": "ст. преп. Поднекс Е.А."
         },
         {
           "day": "Пятница",
@@ -3844,90 +3217,6 @@
           "lessonType": "Экз у",
           "room": "414",
           "teacher": "доц. Сатучиева Х.А."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1",
-    "level": 3,
-    "clickedText": "Э-С251зс (11)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=1&g=8613&fd=%d0%ad-%d0%a1251%d0%b7%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Основы бухгалтерского учета",
-          "lessonType": "ПрЗ",
-          "room": "403",
-          "teacher": "ст. преп. Буланкина Н.Н."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Основы бухгалтерского учета",
-          "lessonType": "ПрЗ",
-          "room": "403",
-          "teacher": "ст. преп. Буланкина Н.Н."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Безопасность жизнедеятельности",
-          "lessonType": "ПрЗ",
-          "room": "201",
-          "teacher": "ст. преп. Панкова Е.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Документационное обеспечение управления",
-          "lessonType": "ПрЗ",
-          "room": "403",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
-          "subject": "Безопасность жизнедеятельности",
-          "lessonType": "Лек",
-          "room": "304",
-          "teacher": "ст. преп. Панкова Е.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Безопасность жизнедеятельности",
-          "lessonType": "ПрЗ",
-          "room": "304",
-          "teacher": "ст. преп. Панкова Е.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Статистика",
-          "lessonType": "ПрЗ",
-          "room": "402",
-          "teacher": "доц. Дариенко Ж.Ю."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Статистика",
-          "lessonType": "ПрЗ",
-          "room": "402",
-          "teacher": "доц. Дариенко Ж.Ю."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "5<br>15:55",
-          "subject": "История потребительской кооперации России",
-          "lessonType": "ПрЗ",
-          "room": "503",
-          "teacher": "доц. Печалова Л.В."
         }
       ]
     }
@@ -4321,7 +3610,7 @@
           "subject": "Иностранный язык в профессиональной деятельности",
           "lessonType": "Практическое занятие",
           "room": "409",
-          "teacher": ""
+          "teacher": "ст. преп. Поднекс Е.А."
         },
         {
           "day": "Среда",
@@ -4486,70 +3775,6 @@
           "lessonType": "Экз квал",
           "room": "342",
           "teacher": "доц. Ковалева В.Д."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
-    "level": 3,
-    "clickedText": "Э-С241з (9)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=8124&fd=%d0%ad-%d0%a1241%d0%b7%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Индивидуальный проект",
-          "lessonType": "Зач",
-          "room": "305",
-          "teacher": "ст. преп. Маркарова М.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Основы безопасности и защиты Родины",
-          "lessonType": "ДЗач",
-          "room": "414",
-          "teacher": "ст. преп. Федорцов М.Ю."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Иностранный язык 9",
-          "lessonType": "ДЗач",
-          "room": "409",
-          "teacher": "ст. преп. Харченко Е.А."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2",
-    "level": 3,
-    "clickedText": "Э-С241зс (11)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=2&g=8125&fd=%d0%ad-%d0%a1241%d0%b7%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Информационные технологии в профессиональной деятельности",
-          "lessonType": "ДЗач",
-          "room": "305",
-          "teacher": "ст. преп. Маркарова М.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Основы финансовой грамотности",
-          "lessonType": "ДЗач",
-          "room": "410",
-          "teacher": "преп. Бельтикова Д.Н."
         }
       ]
     }
@@ -4801,34 +4026,6 @@
     }
   },
   {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3",
-    "level": 3,
-    "clickedText": "Э-С231зс (11)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b0%20%d0%b8%20%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9%20%d1%83%d1%87%d0%b5%d1%82%20(%d0%bf%d0%be%20%d0%be%d1%82%d1%80%d0%b0%d1%81%d0%bb%d1%8f%d0%bc)1&k=3&g=7478&fd=%d0%ad-%d0%a1231%d0%b7%d1%81%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Документационное обеспечение управления",
-          "lessonType": "ДЗач",
-          "room": "315",
-          "teacher": "преп. Бельтикова Д.Н."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "Иностранный язык в профессиональной деятельности",
-          "lessonType": "ДЗач",
-          "room": "411",
-          "teacher": "ст. преп. Вакансия с.п."
-        }
-      ]
-    }
-  },
-  {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10025",
     "level": 1,
     "clickedText": "Юриспруденция",
@@ -4887,7 +4084,7 @@
           "subject": "Иностранный язык 9",
           "lessonType": "Практическое занятие",
           "room": "339",
-          "teacher": ""
+          "teacher": "ст. преп. Поднекс Е.А."
         },
         {
           "day": "Вторник",
@@ -5647,143 +4844,75 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
     "level": 3,
-    "clickedText": "Ю-С251зПО (9)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8309&fd=%d0%ae-%d0%a1251%d0%b7%d0%9f%d0%9e%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
+    "clickedText": "Ю-С251сСА (11)(сессия)",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8308&fd=%d0%ae-%d0%a1251%d1%81%d0%a1%d0%90%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
         {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Литература",
-          "lessonType": "ПрЗ",
-          "room": "414",
-          "teacher": "ст. преп. Шереметова Е.Д."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Русский язык 9",
-          "lessonType": "ПрЗ",
-          "room": "411",
-          "teacher": "ст. преп. Шереметова Е.Д."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Математика 9",
-          "lessonType": "ПрЗ",
-          "room": "315",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Математика 9",
-          "lessonType": "ПрЗ",
+          "day": "22 декабря 2025 г., понедельник",
+          "lessonTime": "3<br>12:25",
+          "subject": "Гражданское право",
+          "lessonType": "КонсЭкз",
           "room": "319",
-          "teacher": "ст. преп. Евенко И.А."
+          "teacher": "преп. Кириченко А.Е."
         },
         {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "2<br>10:15",
-          "subject": "География",
-          "lessonType": "Лек",
-          "room": "503",
-          "teacher": "ст. преп. Маркарова М.А."
+          "day": "23 декабря 2025 г., вторник",
+          "lessonTime": "3<br>12:25",
+          "subject": "Гражданское право",
+          "lessonType": "Экз у",
+          "room": "206",
+          "teacher": "преп. Кириченко А.Е."
         },
         {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "География",
-          "lessonType": "ПрЗ",
-          "room": "503",
-          "teacher": "ст. преп. Маркарова М.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Информатика 9",
-          "lessonType": "Лаб",
-          "room": "345",
-          "teacher": "ст. преп. Маркарова М.А."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1",
-    "level": 3,
-    "clickedText": "Ю-С251зсПО (11)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=1&g=8310&fd=%d0%ae-%d0%a1251%d0%b7%d1%81%d0%9f%d0%9e%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
+          "day": "23 декабря 2025 г., вторник",
           "lessonTime": "4<br>14:35",
-          "subject": "Административное право",
-          "lessonType": "Лек",
-          "room": "324",
+          "subject": "Теория государства и права",
+          "lessonType": "КонсЭкз",
+          "room": "405",
           "teacher": "ст. преп. Соловцова Е.А."
         },
         {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
+          "day": "24 декабря 2025 г., среда",
+          "lessonTime": "3<br>12:25",
           "subject": "Теория государства и права",
-          "lessonType": "Лек",
-          "room": "324",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "История России",
-          "lessonType": "ПрЗ",
-          "room": "503",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Теория государства и права",
-          "lessonType": "ПрЗ",
+          "lessonType": "Экз у",
           "room": "334",
           "teacher": "ст. преп. Соловцова Е.А."
         },
         {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "1<br>08:30",
+          "day": "24 декабря 2025 г., среда",
+          "lessonTime": "4<br>14:35",
           "subject": "Административное право",
-          "lessonType": "ПрЗ",
+          "lessonType": "КонсЭкз",
           "room": "340",
           "teacher": "ст. преп. Соловцова Е.А."
         },
         {
-          "day": "01 ноября 2025 г., суббота",
+          "day": "25 декабря 2025 г., четверг",
+          "lessonTime": "3<br>12:25",
+          "subject": "Административное право",
+          "lessonType": "Экз у",
+          "room": "324",
+          "teacher": "ст. преп. Соловцова Е.А."
+        },
+        {
+          "day": "26 декабря 2025 г., пятница",
+          "lessonTime": "4<br>14:35",
+          "subject": "История России",
+          "lessonType": "КонсЭкз",
+          "room": "414",
+          "teacher": "доц. Сатучиева Х.А."
+        },
+        {
+          "day": "27 декабря 2025 г., суббота",
           "lessonTime": "2<br>10:15",
-          "subject": "Теория государства и права",
-          "lessonType": "ПрЗ",
-          "room": "340",
-          "teacher": "ст. преп. Соловцова Е.А."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Семейное право",
-          "lessonType": "Лек",
-          "room": "206",
-          "teacher": "ст. преп. Зиновьева Т.Н."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "4<br>14:10",
-          "subject": "Семейное право",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "ст. преп. Зиновьева Т.Н."
+          "subject": "История России",
+          "lessonType": "Экз у",
+          "room": "414",
+          "teacher": "доц. Сатучиева Х.А."
         }
       ]
     }
@@ -6297,6 +5426,82 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
+    "clickedText": "Ю-С241СА (9)(сессия)",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7835&fd=%d0%ae-%d0%a1241%d0%a1%d0%90%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "22 декабря 2025 г., понедельник",
+          "lessonTime": "4<br>14:35",
+          "subject": "Административное право",
+          "lessonType": "КонсЭкз",
+          "room": "405",
+          "teacher": "ст. преп. Соловцова Е.А."
+        },
+        {
+          "day": "23 декабря 2025 г., вторник",
+          "lessonTime": "2<br>10:15",
+          "subject": "История России",
+          "lessonType": "КонсЭкз",
+          "room": "503",
+          "teacher": "доц. Сатучиева Х.А."
+        },
+        {
+          "day": "23 декабря 2025 г., вторник",
+          "lessonTime": "3<br>12:25",
+          "subject": "Административное право",
+          "lessonType": "Экз у",
+          "room": "405",
+          "teacher": "ст. преп. Соловцова Е.А."
+        },
+        {
+          "day": "24 декабря 2025 г., среда",
+          "lessonTime": "1<br>08:30",
+          "subject": "История России",
+          "lessonType": "Экз у",
+          "room": "414",
+          "teacher": "доц. Сатучиева Х.А."
+        },
+        {
+          "day": "25 декабря 2025 г., четверг",
+          "lessonTime": "4<br>14:35",
+          "subject": "Теория государства и права",
+          "lessonType": "КонсЭкз",
+          "room": "405",
+          "teacher": "ст. преп. Соловцова Е.А."
+        },
+        {
+          "day": "26 декабря 2025 г., пятница",
+          "lessonTime": "2<br>10:15",
+          "subject": "Теория государства и права",
+          "lessonType": "Экз у",
+          "room": "324",
+          "teacher": "ст. преп. Соловцова Е.А."
+        },
+        {
+          "day": "26 декабря 2025 г., пятница",
+          "lessonTime": "3<br>12:25",
+          "subject": "Гражданское право",
+          "lessonType": "КонсЭкз",
+          "room": "343",
+          "teacher": "ст. преп. Рузаева О.В."
+        },
+        {
+          "day": "27 декабря 2025 г., суббота",
+          "lessonTime": "2<br>10:15",
+          "subject": "Гражданское право",
+          "lessonType": "Экз у",
+          "room": "319",
+          "teacher": "ст. преп. Рузаева О.В."
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
+    "level": 3,
     "clickedText": "Ю-С241сПО (11)(расписание на семестр)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7837",
     "schedule": {
@@ -6333,7 +5538,7 @@
           "subject": "Иностранный язык в профессиональной деятельности",
           "lessonType": "Практическое занятие",
           "room": "339",
-          "teacher": ""
+          "teacher": "ст. преп. Поднекс Е.А."
         },
         {
           "day": "Вторник",
@@ -6470,6 +5675,66 @@
           "lessonType": "Практическое занятие",
           "room": "403",
           "teacher": "преп. Бельтикова Д.Н."
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
+    "level": 3,
+    "clickedText": "Ю-С241сПО (11)(сессия)",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7837&fd=%d0%ae-%d0%a1241%d1%81%d0%9f%d0%9e%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "22 декабря 2025 г., понедельник",
+          "lessonTime": "4<br>14:35",
+          "subject": "Корпоративное право",
+          "lessonType": "КонсЭкз",
+          "room": "206",
+          "teacher": "преп. Кириченко А.Е."
+        },
+        {
+          "day": "23 декабря 2025 г., вторник",
+          "lessonTime": "2<br>10:15",
+          "subject": "Корпоративное право",
+          "lessonType": "Экз у",
+          "room": "324",
+          "teacher": "преп. Кириченко А.Е."
+        },
+        {
+          "day": "23 декабря 2025 г., вторник",
+          "lessonTime": "3<br>12:25",
+          "subject": "Арбитражный процесс",
+          "lessonType": "КонсЭкз",
+          "room": "324",
+          "teacher": "ст. преп. Рузаева О.В."
+        },
+        {
+          "day": "24 декабря 2025 г., среда",
+          "lessonTime": "1<br>08:30",
+          "subject": "Договоры в предпринимательской деятельности",
+          "lessonType": "КонсЭкз",
+          "room": "206",
+          "teacher": "ст. преп. Рузаева О.В."
+        },
+        {
+          "day": "24 декабря 2025 г., среда",
+          "lessonTime": "2<br>10:15",
+          "subject": "Арбитражный процесс",
+          "lessonType": "Экз у",
+          "room": "206",
+          "teacher": "ст. преп. Рузаева О.В."
+        },
+        {
+          "day": "26 декабря 2025 г., пятница",
+          "lessonTime": "2<br>10:15",
+          "subject": "Договоры в предпринимательской деятельности",
+          "lessonType": "Экз у",
+          "room": "319",
+          "teacher": "ст. преп. Рузаева О.В."
         }
       ]
     }
@@ -6689,95 +5954,75 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
     "level": 3,
-    "clickedText": "Ю-С241зПО (9)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=8126&fd=%d0%ae-%d0%a1241%d0%b7%d0%9f%d0%9e%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
+    "clickedText": "Ю-С242ПО (9)(сессия)",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=7935&fd=%d0%ae-%d0%a1242%d0%9f%d0%9e%20(9)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
         {
-          "day": "31 октября 2025 г., пятница",
+          "day": "22 декабря 2025 г., понедельник",
           "lessonTime": "3<br>12:25",
-          "subject": "Индивидуальный проект",
-          "lessonType": "Зач",
-          "room": "409",
-          "teacher": "ст. преп. Шереметова Е.Д."
+          "subject": "Гражданское право",
+          "lessonType": "КонсЭкз",
+          "room": "324",
+          "teacher": "ст. преп. Рузаева О.В."
         },
         {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Основы безопасности и защиты Родины",
-          "lessonType": "ДЗач",
-          "room": "504",
-          "teacher": "ст. преп. Федорцов М.Ю."
-        },
-        {
-          "day": "01 ноября 2025 г., суббота",
-          "lessonTime": "3<br>12:00",
-          "subject": "Иностранный язык 9",
-          "lessonType": "ДЗач",
-          "room": "504",
-          "teacher": "ст. преп. Харченко Е.А."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2",
-    "level": 3,
-    "clickedText": "Ю-С241зсПО (11)(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10025&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f1&k=2&g=8127&fd=%d0%ae-%d0%a1241%d0%b7%d1%81%d0%9f%d0%9e%20(11)&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "3<br>12:25",
-          "subject": "Физическая культура",
-          "lessonType": "ПрЗ",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "ст. преп. Панкова Е.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Гражданский процесс",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "преп. Беспалова А.И."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Трудовое право",
-          "lessonType": "ПрЗ",
-          "room": "206",
-          "teacher": "ст. преп. Зиновьева Т.Н."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Судоустройство и правоохранительные органы",
-          "lessonType": "ПрЗ",
+          "day": "23 декабря 2025 г., вторник",
+          "lessonTime": "1<br>08:30",
+          "subject": "Теория государства и права",
+          "lessonType": "КонсЭкз",
           "room": "340",
           "teacher": "ст. преп. Соловцова Е.А."
         },
         {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "7<br>19:50",
-          "subject": "Уголовное право",
-          "lessonType": "ПрЗ",
-          "room": "340",
-          "teacher": "ст. преп. Плотников В.Ю."
+          "day": "23 декабря 2025 г., вторник",
+          "lessonTime": "2<br>10:15",
+          "subject": "Гражданское право",
+          "lessonType": "Экз у",
+          "room": "206",
+          "teacher": "ст. преп. Рузаева О.В."
         },
         {
-          "day": "01 ноября 2025 г., суббота",
+          "day": "24 декабря 2025 г., среда",
           "lessonTime": "2<br>10:15",
-          "subject": "Русский язык и культура речи",
-          "lessonType": "ДЗач",
-          "room": "410",
-          "teacher": "ст. преп. Гордиенко Е.С."
+          "subject": "История России",
+          "lessonType": "КонсЭкз",
+          "room": "201",
+          "teacher": "доц. Сатучиева Х.А."
+        },
+        {
+          "day": "24 декабря 2025 г., среда",
+          "lessonTime": "3<br>12:25",
+          "subject": "Теория государства и права",
+          "lessonType": "Экз у",
+          "room": "334",
+          "teacher": "ст. преп. Соловцова Е.А."
+        },
+        {
+          "day": "25 декабря 2025 г., четверг",
+          "lessonTime": "5<br>16:20",
+          "subject": "История России",
+          "lessonType": "Экз у",
+          "room": "414",
+          "teacher": "доц. Сатучиева Х.А."
+        },
+        {
+          "day": "26 декабря 2025 г., пятница",
+          "lessonTime": "3<br>12:25",
+          "subject": "Административное право",
+          "lessonType": "КонсЭкз",
+          "room": "340",
+          "teacher": "ст. преп. Соловцова Е.А."
+        },
+        {
+          "day": "27 декабря 2025 г., суббота",
+          "lessonTime": "3<br>12:00",
+          "subject": "Административное право",
+          "lessonType": "Экз у",
+          "room": "405",
+          "teacher": "ст. преп. Соловцова Е.А."
         }
       ]
     }
@@ -7947,96 +7192,12 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5",
     "level": 3,
-    "clickedText": "МТ-С211оз(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5&g=6808",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Среда",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Маркетинговое консультирование",
-          "lessonType": "Лекционное занятие",
-          "room": "302",
-          "teacher": "проф. Садовой В.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Маркетинг в отраслях и сферах деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "302",
-          "teacher": "доц. Дудникова О.А."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "7<br>Знам.",
-          "subject": "Маркетинг в отраслях и сферах деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "302",
-          "teacher": "доц. Дудникова О.А."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Маркетинговое консультирование",
-          "lessonType": "Практическое занятие",
-          "room": "302",
-          "teacher": "ст. преп. Денисенко В.С."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Маркетинг в отраслях и сферах деятельности",
-          "lessonType": "Практическое занятие",
-          "room": "302",
-          "teacher": "ст. преп. Денисенко В.С."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "7<br>Знам.",
-          "subject": "Интернет-маркетинг",
-          "lessonType": "Лекционное занятие",
-          "room": "301",
-          "teacher": "проф. Садовой В.В."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Интернет-маркетинг",
-          "lessonType": "Практическое занятие",
-          "room": "302",
-          "teacher": "ст. преп. Денисенко В.С."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Маркетинг в отраслях и сферах деятельности",
-          "lessonType": "Практическое занятие",
-          "room": "302",
-          "teacher": "ст. преп. Денисенко В.С."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5",
-    "level": 3,
     "clickedText": "МТ-С211оз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9c%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%822&k=5&g=6808&fd=%d0%9c%d0%a2-%d0%a1211%d0%be%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
-        {
-          "day": "06 ноября 2025 г., четверг",
-          "lessonTime": "5<br>16:20",
-          "subject": "Маркетинг в отраслях и сферах деятельности",
-          "lessonType": "КонсЭкз",
-          "room": "301",
-          "teacher": "доц. Дудникова О.А."
-        },
         {
           "day": "07 ноября 2025 г., пятница",
           "lessonTime": "5<br>16:20",
@@ -8052,1004 +7213,7 @@
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
     "level": 1,
     "clickedText": "Прикладная информатика (бакалавриат)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02"
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
-    "level": 2,
-    "clickedText": "1 курс",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1"
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1",
-    "level": 3,
-    "clickedText": "ПИН-С251(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1&g=8255",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Понедельник",
-          "lessonTime": "1<br>Знам.",
-          "subject": "Информатика",
-          "lessonType": "Лабораторное занятие",
-          "room": "506",
-          "teacher": "доц. Литвинова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "2<br>",
-          "subject": "Математика",
-          "lessonType": "Практическое занятие",
-          "room": "315",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3<br>",
-          "subject": "Командообразование",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3<br>",
-          "subject": "Командообразование",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "4<br>",
-          "subject": "История России",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "2<br>",
-          "subject": "Иностранный язык",
-          "lessonType": "Практическое занятие",
-          "room": "201",
-          "teacher": "ст. преп. Харченко Е.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "3<br>",
-          "subject": "История России",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Элективная дисциплина по физической культуре и спорту – Атлетическая гимнастика",
-          "lessonType": "Практическое занятие",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "ст. преп. Маруашвили Д.Д."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "1<br>",
-          "subject": "Экономическая теория",
-          "lessonType": "Лекционное занятие",
-          "room": "342",
-          "teacher": "доц. Иониди Л.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2<br>",
-          "subject": "Математика",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2<br>",
-          "subject": "Математика",
-          "lessonType": "Лекционное занятие",
-          "room": "342",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3<br>",
-          "subject": "Финансовая грамотность",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Кабанова О.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3<br>",
-          "subject": "Финансовая грамотность",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "доц. Кабанова О.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4<br>",
-          "subject": "Кооперативное движение",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "1<br>",
-          "subject": "Культура речи и деловое общение",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "проф. Келеман Л.А."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "2<br>",
-          "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "доц. Состин Д.И."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "3<br>",
-          "subject": "Основы российской государственности",
-          "lessonType": "Лекционное занятие",
-          "room": "343",
-          "teacher": "доц. Состин Д.И."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "4<br>",
-          "subject": "Экономическая теория",
-          "lessonType": "Практическое занятие",
-          "room": "342",
-          "teacher": "доц. Иониди Л.В."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "5<br>",
-          "subject": "Физическая культура и спорт",
-          "lessonType": "Физическая культура",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "доц. Бавтрюков И.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "1<br>",
-          "subject": "Культура речи и деловое общение",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "ст. преп. Шереметова Е.Д."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "2<br>",
-          "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Состин Д.И."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "3<br>",
-          "subject": "Кооперативное движение",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "4<br>",
-          "subject": "Информатика",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Литвинова Л.В."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1",
-    "level": 3,
-    "clickedText": "ПИН-С251б(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=1&g=8369",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Понедельник",
-          "lessonTime": "1<br>Знам.",
-          "subject": "Информатика",
-          "lessonType": "Лабораторное занятие",
-          "room": "506",
-          "teacher": "доц. Литвинова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "2<br>",
-          "subject": "Математика",
-          "lessonType": "Практическое занятие",
-          "room": "315",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3<br>Числ.",
-          "subject": "Командообразование",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3<br>Знам.",
-          "subject": "Командообразование",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "4<br>",
-          "subject": "История России",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "2<br>Знам.",
-          "subject": "Иностранный язык",
-          "lessonType": "Практическое занятие",
-          "room": "201",
-          "teacher": "ст. преп. Харченко Е.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "3<br>Знам.",
-          "subject": "История России",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "доц. Сатучиева Х.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Элективная дисциплина по физической культуре и спорту – Атлетическая гимнастика",
-          "lessonType": "Практическое занятие",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "ст. преп. Маруашвили Д.Д."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "1<br>",
-          "subject": "Экономическая теория",
-          "lessonType": "Лекционное занятие",
-          "room": "342",
-          "teacher": "доц. Иониди Л.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2<br>Числ.",
-          "subject": "Математика",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2<br>Знам.",
-          "subject": "Математика",
-          "lessonType": "Лекционное занятие",
-          "room": "342",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3<br>Числ.",
-          "subject": "Финансовая грамотность",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Кабанова О.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3<br>Знам.",
-          "subject": "Финансовая грамотность",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "доц. Кабанова О.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4<br>",
-          "subject": "Кооперативное движение",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "1<br>Числ.",
-          "subject": "Культура речи и деловое общение",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "проф. Келеман Л.А."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "2<br>Числ.",
-          "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "доц. Состин Д.И."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "3<br>Числ.",
-          "subject": "Основы российской государственности",
-          "lessonType": "Лекционное занятие",
-          "room": "343",
-          "teacher": "доц. Состин Д.И."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Экономическая теория",
-          "lessonType": "Практическое занятие",
-          "room": "342",
-          "teacher": "доц. Иониди Л.В."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Физическая культура и спорт",
-          "lessonType": "Физическая культура",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "доц. Бавтрюков И.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "1<br>Знам.",
-          "subject": "Культура речи и деловое общение",
-          "lessonType": "Практическое занятие",
-          "room": "304",
-          "teacher": "ст. преп. Шереметова Е.Д."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "2<br>Знам.",
-          "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Состин Д.И."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "3<br>",
-          "subject": "Кооперативное движение",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "4<br>Числ.",
-          "subject": "Информатика",
-          "lessonType": "Лекционное занятие",
-          "room": "304",
-          "teacher": "доц. Литвинова Л.В."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
-    "level": 2,
-    "clickedText": "2 курс",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2"
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
-    "level": 3,
-    "clickedText": "ПИН-С241б(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2&g=7953",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
-    "level": 3,
-    "clickedText": "ПИН-С241з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2&g=7974&fd=%d0%9f%d0%98%d0%9d-%d0%a1241%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
-    "level": 3,
-    "clickedText": "ПИН-С241зу(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2",
-    "level": 3,
-    "clickedText": "ПИН-С241(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=2&g=8000",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Понедельник",
-          "lessonTime": "2<br>Числ.",
-          "subject": "Иностранный язык",
-          "lessonType": "Практическое занятие",
-          "room": "409",
-          "teacher": "доц. Павленко С.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3<br>",
-          "subject": "Базы данных",
-          "lessonType": "Лекционное занятие",
-          "room": "506",
-          "teacher": "доц. Литвинова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "3<br>Знам.",
-          "subject": "Иностранный язык",
-          "lessonType": "Практическое занятие",
-          "room": "339",
-          "teacher": "доц. Павленко С.А."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "4<br>",
-          "subject": "Кредитная кооперация",
-          "lessonType": "Лекционное занятие",
-          "room": "414",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Кредитная кооперация",
-          "lessonType": "Практическое занятие",
-          "room": "414",
-          "teacher": "доц. Печалова Л.В."
-        },
-        {
-          "day": "Понедельник",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Базы данных",
-          "lessonType": "Лабораторное занятие",
-          "room": "345",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "4<br>",
-          "subject": "Самоменеджмент",
-          "lessonType": "Лекционное занятие",
-          "room": "315",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "Вторник",
-          "lessonTime": "5<br>",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "Лекционное занятие",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "1<br>",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "Практическое занятие",
-          "room": "345",
-          "teacher": "ст. преп. Евенко И.А."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2<br>",
-          "subject": "Экономика организации (предприятия)",
-          "lessonType": "Лекционное занятие",
-          "room": "402",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "2<br>Знам.",
-          "subject": "Экономика организации (предприятия)",
-          "lessonType": "Практическое занятие",
-          "room": "402",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3<br>",
-          "subject": "Бухгалтерский учет с применением цифровых технологий",
-          "lessonType": "Лекционное занятие",
-          "room": "402",
-          "teacher": "доц. Ковалева В.Д."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "3<br>",
-          "subject": "Бухгалтерский учет с применением цифровых технологий",
-          "lessonType": "Лекционное занятие",
-          "room": "404",
-          "teacher": "доц. Ковалева В.Д."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4<br>",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "342",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "4<br>",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "343",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "1<br>",
-          "subject": "Программирование",
-          "lessonType": "Лекционное занятие",
-          "room": "305",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "2<br>",
-          "subject": "Программирование",
-          "lessonType": "Лабораторное занятие",
-          "room": "305",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "3<br>Числ.",
-          "subject": "Самоменеджмент",
-          "lessonType": "Практическое занятие",
-          "room": "402",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "3<br>Знам.",
-          "subject": "Самоменеджмент",
-          "lessonType": "Практическое занятие",
-          "room": "308",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "4<br>",
-          "subject": "Элективная дисциплина по физической культуре и спорту – Атлетическая гимнастика",
-          "lessonType": "Практическое занятие",
-          "room": "ДСП \"Спартак\"",
-          "teacher": "доц. Бавтрюков И.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "3<br>",
-          "subject": "Бухгалтерский учет с применением цифровых технологий",
-          "lessonType": "Практическое занятие",
-          "room": "402",
-          "teacher": "доц. Ковалева В.Д."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "4<br>",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "Практическое занятие",
-          "room": "503",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>",
-          "subject": "Правоведение",
-          "lessonType": "Лекционное занятие",
-          "room": "405",
-          "teacher": "доц. Печалов А.К."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Правоведение",
-          "lessonType": "Практическое занятие",
-          "room": "405",
-          "teacher": "доц. Печалов А.К."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
-    "level": 2,
-    "clickedText": "3 курс",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3"
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3",
-    "level": 3,
-    "clickedText": "ПИН-С231з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3&g=7470&fd=%d0%9f%d0%98%d0%9d-%d0%a1231%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "17 ноября 2025 г., понедельник",
-          "lessonTime": "6<br>18:05",
-          "subject": "Менеджмент",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "17 ноября 2025 г., понедельник",
-          "lessonTime": "7<br>19:50",
-          "subject": "Менеджмент",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "18 ноября 2025 г., вторник",
-          "lessonTime": "4<br>14:35",
-          "subject": "Предпринимательская деятельность",
-          "lessonType": "Лек",
-          "room": "403",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "18 ноября 2025 г., вторник",
-          "lessonTime": "5<br>16:20",
-          "subject": "Менеджмент",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "18 ноября 2025 г., вторник",
-          "lessonTime": "6<br>18:05",
-          "subject": "Иностранный язык",
-          "lessonType": "ПрЗ",
-          "room": "339",
-          "teacher": "доц. Павленко С.А."
-        },
-        {
-          "day": "18 ноября 2025 г., вторник",
-          "lessonTime": "7<br>19:50",
-          "subject": "Информационный менеджмент",
-          "lessonType": "Лек",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "19 ноября 2025 г., среда",
-          "lessonTime": "3<br>12:25",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "Лек",
-          "room": "306",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "19 ноября 2025 г., среда",
-          "lessonTime": "4<br>14:35",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "Лек",
-          "room": "306",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "20 ноября 2025 г., четверг",
-          "lessonTime": "5<br>16:20",
-          "subject": "Информационный менеджмент",
-          "lessonType": "Лаб",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "20 ноября 2025 г., четверг",
-          "lessonTime": "6<br>18:05",
-          "subject": "Информационный менеджмент",
-          "lessonType": "Лаб",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "21 ноября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "ПрЗ",
-          "room": "305",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "21 ноября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Информационный менеджмент",
-          "lessonType": "Лек",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "24 ноября 2025 г., понедельник",
-          "lessonTime": "5<br>16:20",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "ПрЗ",
-          "room": "305",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "24 ноября 2025 г., понедельник",
-          "lessonTime": "6<br>18:05",
-          "subject": "Менеджмент",
-          "lessonType": "ПрЗ",
-          "room": "315",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "24 ноября 2025 г., понедельник",
-          "lessonTime": "7<br>19:50",
-          "subject": "Предпринимательская деятельность",
-          "lessonType": "ПрЗ",
-          "room": "342",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "25 ноября 2025 г., вторник",
-          "lessonTime": "4<br>14:35",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "Лек",
-          "room": "305",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "25 ноября 2025 г., вторник",
-          "lessonTime": "5<br>16:20",
-          "subject": "Основы информационной безопасности",
-          "lessonType": "ПрЗ",
-          "room": "305",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "25 ноября 2025 г., вторник",
-          "lessonTime": "6<br>18:05",
-          "subject": "Менеджмент",
-          "lessonType": "Лек",
-          "room": "315",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "25 ноября 2025 г., вторник",
-          "lessonTime": "7<br>19:50",
-          "subject": "Менеджмент",
-          "lessonType": "ПрЗ",
-          "room": "315",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "26 ноября 2025 г., среда",
-          "lessonTime": "4<br>14:35",
-          "subject": "Предпринимательская деятельность",
-          "lessonType": "Лек",
-          "room": "404",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "26 ноября 2025 г., среда",
-          "lessonTime": "5<br>16:20",
-          "subject": "Иностранный язык",
-          "lessonType": "ПрЗ",
-          "room": "339",
-          "teacher": "доц. Павленко С.А."
-        },
-        {
-          "day": "26 ноября 2025 г., среда",
-          "lessonTime": "6<br>18:05",
-          "subject": "Менеджмент",
-          "lessonType": "ПрЗ",
-          "room": "315",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "26 ноября 2025 г., среда",
-          "lessonTime": "7<br>19:50",
-          "subject": "Информационный менеджмент",
-          "lessonType": "Лаб",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "27 ноября 2025 г., четверг",
-          "lessonTime": "4<br>14:35",
-          "subject": "Предпринимательская деятельность",
-          "lessonType": "ПрЗ",
-          "room": "402",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "27 ноября 2025 г., четверг",
-          "lessonTime": "5<br>16:20",
-          "subject": "Информационный менеджмент",
-          "lessonType": "Лек",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "27 ноября 2025 г., четверг",
-          "lessonTime": "6<br>18:05",
-          "subject": "Информационный менеджмент",
-          "lessonType": "Лаб",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "28 ноября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Информационные технологии",
-          "lessonType": "КонсЭкз",
-          "room": "305",
-          "teacher": "ст. преп. Андреенко Д.Б."
-        },
-        {
-          "day": "01 декабря 2025 г., понедельник",
-          "lessonTime": "4<br>14:35",
-          "subject": "Информационные технологии",
-          "lessonType": "Экз у",
-          "room": "305",
-          "teacher": "ст. преп. Андреенко Д.Б."
-        },
-        {
-          "day": "01 декабря 2025 г., понедельник",
-          "lessonTime": "5<br>16:20",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "КонсЭкз",
-          "room": "414",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "02 декабря 2025 г., вторник",
-          "lessonTime": "5<br>16:20",
-          "subject": "Цифровая экономика",
-          "lessonType": "Зач",
-          "room": "403",
-          "teacher": "доц. Жиренко Г.Н."
-        },
-        {
-          "day": "03 декабря 2025 г., среда",
-          "lessonTime": "4<br>14:35",
-          "subject": "Базы данных",
-          "lessonType": "КонсЭкз",
-          "room": "305",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "03 декабря 2025 г., среда",
-          "lessonTime": "5<br>16:20",
-          "subject": "Психология и педагогика профессиональной деятельности",
-          "lessonType": "Экз у",
-          "room": "503",
-          "teacher": "доц. Прохорова И.С."
-        },
-        {
-          "day": "04 декабря 2025 г., четверг",
-          "lessonTime": "7<br>19:50",
-          "subject": "Экономика организации (предприятия)",
-          "lessonType": "КонсЭкз",
-          "room": "308",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "05 декабря 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Базы данных",
-          "lessonType": "Экз у",
-          "room": "305",
-          "teacher": "доц. Турко С.А."
-        },
-        {
-          "day": "08 декабря 2025 г., понедельник",
-          "lessonTime": "5<br>16:20",
-          "subject": "Экономика организации (предприятия)",
-          "lessonType": "Экз у",
-          "room": "315",
-          "teacher": "доц. Белугин Ю.Н."
-        },
-        {
-          "day": "09 декабря 2025 г., вторник",
-          "lessonTime": "5<br>16:20",
-          "subject": "Иностранный язык",
-          "lessonType": "Зач",
-          "room": "339",
-          "teacher": "доц. Павленко С.А."
-        },
-        {
-          "day": "10 декабря 2025 г., среда",
-          "lessonTime": "4<br>14:35",
-          "subject": "Архитектура предприятия",
-          "lessonType": "КонсЭкз",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        },
-        {
-          "day": "11 декабря 2025 г., четверг",
-          "lessonTime": "4<br>14:35",
-          "subject": "Архитектура предприятия",
-          "lessonType": "Экз у",
-          "room": "345",
-          "teacher": "доц. Бутова О.О."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3",
-    "level": 3,
-    "clickedText": "ПИН-С231зу(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=3&g=7754&fd=%d0%9f%d0%98%d0%9d-%d0%a1231%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": false,
-      "message": "Расписание отсутствует",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
-    "level": 2,
-    "clickedText": "4 курс",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=4"
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=4",
-    "level": 3,
-    "clickedText": "ПИН-С221з(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=4&g=7061&fd=%d0%9f%d0%98%d0%9d-%d0%a1221%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": false,
-      "message": "Расписание отсутствует",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02",
-    "level": 2,
-    "clickedText": "5 курс",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%9f%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f%20%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%b8%d0%ba%d0%b02&k=5"
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024"
   },
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=s&f=10024",
@@ -10208,17 +8372,6 @@
     }
   },
   {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=3",
-    "level": 3,
-    "clickedText": "ТПП-С231зу(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=3&g=7756&fd=%d0%a2%d0%9f%d0%9f-%d0%a1231%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": false,
-      "message": "Расписание отсутствует",
-      "lessons": []
-    }
-  },
-  {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "4 курс",
@@ -10230,50 +8383,9 @@
     "clickedText": "ТПП-С221з(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%a2%d0%b5%d1%85%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f%20%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d0%b8%20%d0%b8%20%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f%20%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be%20%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f2&k=4&g=7307&fd=%d0%a2%d0%9f%d0%9f-%d0%a1221%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "4<br>14:35",
-          "subject": "Технология продукции общественного питания",
-          "lessonType": "КонсЭкз",
-          "room": "301",
-          "teacher": "доц. Дудникова О.А."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "5<br>16:20",
-          "subject": "Организация производства и обслуживания на предприятиях общественного питания",
-          "lessonType": "Лек",
-          "room": "301",
-          "teacher": "проф. Садовой В.В."
-        },
-        {
-          "day": "31 октября 2025 г., пятница",
-          "lessonTime": "6<br>18:05",
-          "subject": "Организация производства и обслуживания на предприятиях общественного питания",
-          "lessonType": "ПрЗ",
-          "room": "301",
-          "teacher": "проф. Садовой В.В."
-        },
-        {
-          "day": "05 ноября 2025 г., среда",
-          "lessonTime": "5<br>16:20",
-          "subject": "Технология продукции общественного питания",
-          "lessonType": "Экз у",
-          "room": "302",
-          "teacher": "доц. Дудникова О.А."
-        },
-        {
-          "day": "06 ноября 2025 г., четверг",
-          "lessonTime": "5<br>16:20",
-          "subject": "Организация производства и обслуживания на предприятиях общественного питания",
-          "lessonType": "Зач",
-          "room": "302",
-          "teacher": "проф. Садовой В.В."
-        }
-      ]
+      "hasSchedule": false,
+      "message": "Расписание отсутствует",
+      "lessons": []
     }
   },
   {
@@ -12553,56 +10665,12 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
-    "clickedText": "ЭКБ-С221озу(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7064",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Среда",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Аудит",
-          "lessonType": "Лекционное занятие",
-          "room": "402",
-          "teacher": "доц. Клочко А.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Учет на предприятиях малого бизнеса",
-          "lessonType": "Лекционное занятие",
-          "room": "403",
-          "teacher": "доц. Клочко А.В."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Особенности учета в торговле, общественном питании и услугах",
-          "lessonType": "Лекционное занятие",
-          "room": "403",
-          "teacher": "доц. Ковалева В.Д."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
-    "level": 3,
     "clickedText": "ЭКБ-С221озу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7064&fd=%d0%ad%d0%9a%d0%91-%d0%a1221%d0%be%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
-        {
-          "day": "05 ноября 2025 г., среда",
-          "lessonTime": "4<br>14:35",
-          "subject": "Особенности учета в торговле, общественном питании и услугах",
-          "lessonType": "КонсЭкз",
-          "room": "201",
-          "teacher": "доц. Ковалева В.Д."
-        },
         {
           "day": "07 ноября 2025 г., пятница",
           "lessonTime": "4<br>14:35",
@@ -12741,48 +10809,12 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
     "level": 3,
-    "clickedText": "ЭКБА-С221озу(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7066",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Среда",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Планирование на предприятии",
-          "lessonType": "Лекционное занятие",
-          "room": "402",
-          "teacher": "доц. Абросимова Т.Ф."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "4<br>Знам.",
-          "subject": "Бюджетирование и анализ затрат в организации",
-          "lessonType": "Лекционное занятие",
-          "room": "201",
-          "teacher": "доц. Кабанова О.В."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4",
-    "level": 3,
     "clickedText": "ЭКБА-С221озу(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10024&s=%d0%ad%d0%ba%d0%be%d0%bd%d0%be%d0%bc%d0%b8%d0%ba%d0%b02&k=4&g=7066&fd=%d0%ad%d0%9a%d0%91%d0%90-%d0%a1221%d0%be%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
-        {
-          "day": "06 ноября 2025 г., четверг",
-          "lessonTime": "4<br>14:35",
-          "subject": "Бюджетирование и анализ затрат в организации",
-          "lessonType": "КонсЭкз",
-          "room": "402",
-          "teacher": "доц. Кабанова О.В."
-        },
         {
           "day": "07 ноября 2025 г., пятница",
           "lessonTime": "5<br>16:20",
@@ -13099,8 +11131,8 @@
           "day": "Понедельник",
           "lessonTime": "5<br>Знам.",
           "subject": "Теория государства и права",
-          "lessonType": "Лекционное занятие",
-          "room": "404",
+          "lessonType": "Практическое занятие",
+          "room": "405",
           "teacher": "проф. Фоминская М.Д."
         },
         {
@@ -13529,6 +11561,14 @@
       "lessons": [
         {
           "day": "Вторник",
+          "lessonTime": "5<br>Знам.",
+          "subject": "Теория государства и права",
+          "lessonType": "Лекционное занятие",
+          "room": "405",
+          "teacher": "проф. Фоминская М.Д."
+        },
+        {
+          "day": "Вторник",
           "lessonTime": "6<br>Знам.",
           "subject": "Основы российской государственности",
           "lessonType": "Лекционное занятие",
@@ -13675,6 +11715,14 @@
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
+        {
+          "day": "Вторник",
+          "lessonTime": "5<br>Знам.",
+          "subject": "Теория государства и права",
+          "lessonType": "Лекционное занятие",
+          "room": "405",
+          "teacher": "проф. Фоминская М.Д."
+        },
         {
           "day": "Вторник",
           "lessonTime": "6<br>Знам.",
@@ -16951,50 +14999,6 @@
     }
   },
   {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
-    "level": 3,
-    "clickedText": "ЮР-С231зу(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7758&fd=%d0%ae%d0%a0-%d0%a1231%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": false,
-      "message": "Расписание отсутствует",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
-    "level": 3,
-    "clickedText": "ЮР-С232зу(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7759&fd=%d0%ae%d0%a0-%d0%a1232%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": false,
-      "message": "Расписание отсутствует",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
-    "level": 3,
-    "clickedText": "ЮР-С233зу(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7760&fd=%d0%ae%d0%a0-%d0%a1233%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": []
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3",
-    "level": 3,
-    "clickedText": "ЮР-С234зу(сессия)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=3&g=7761&fd=%d0%ae%d0%a0-%d0%a1234%d0%b7%d1%83&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
-    "schedule": {
-      "hasSchedule": false,
-      "message": "Расписание отсутствует",
-      "lessons": []
-    }
-  },
-  {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=k&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2",
     "level": 2,
     "clickedText": "4 курс",
@@ -17513,80 +15517,12 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
     "level": 3,
-    "clickedText": "ЮР-С211оз(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6793",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Среда",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Жилищное право",
-          "lessonType": "Лекционное занятие",
-          "room": "324",
-          "teacher": "доц. Морозов А.Ю."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "7<br>Знам.",
-          "subject": "Жилищное право",
-          "lessonType": "Практическое занятие",
-          "room": "324",
-          "teacher": "доц. Морозов А.Ю."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Международное частное право",
-          "lessonType": "Лекционное занятие",
-          "room": "343",
-          "teacher": "доц. Бирюков А.А."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "7<br>Знам.",
-          "subject": "Международное частное право",
-          "lessonType": "Практическое занятие",
-          "room": "343",
-          "teacher": "доц. Бирюков А.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Основы оперативно-розыскной деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "334",
-          "teacher": "ст. преп. Плотников В.Ю."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Основы оперативно-розыскной деятельности",
-          "lessonType": "Практическое занятие",
-          "room": "334",
-          "teacher": "ст. преп. Плотников В.Ю."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
-    "level": 3,
     "clickedText": "ЮР-С211оз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6793&fd=%d0%ae%d0%a0-%d0%a1211%d0%be%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
-        {
-          "day": "06 ноября 2025 г., четверг",
-          "lessonTime": "7<br>19:50",
-          "subject": "Международное частное право",
-          "lessonType": "КонсЭкз",
-          "room": "206",
-          "teacher": "доц. Бирюков А.А."
-        },
         {
           "day": "07 ноября 2025 г., пятница",
           "lessonTime": "4<br>14:35",
@@ -17617,80 +15553,12 @@
   {
     "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
     "level": 3,
-    "clickedText": "ЮР-С212оз(расписание на семестр)",
-    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gweek&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6794",
-    "schedule": {
-      "hasSchedule": true,
-      "message": "Расписание найдено",
-      "lessons": [
-        {
-          "day": "Среда",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Жилищное право",
-          "lessonType": "Лекционное занятие",
-          "room": "324",
-          "teacher": "доц. Морозов А.Ю."
-        },
-        {
-          "day": "Среда",
-          "lessonTime": "7<br>Знам.",
-          "subject": "Жилищное право",
-          "lessonType": "Практическое занятие",
-          "room": "324",
-          "teacher": "доц. Морозов А.Ю."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Международное частное право",
-          "lessonType": "Лекционное занятие",
-          "room": "343",
-          "teacher": "доц. Бирюков А.А."
-        },
-        {
-          "day": "Четверг",
-          "lessonTime": "7<br>Знам.",
-          "subject": "Международное частное право",
-          "lessonType": "Практическое занятие",
-          "room": "343",
-          "teacher": "доц. Бирюков А.А."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "5<br>Знам.",
-          "subject": "Основы оперативно-розыскной деятельности",
-          "lessonType": "Лекционное занятие",
-          "room": "334",
-          "teacher": "ст. преп. Плотников В.Ю."
-        },
-        {
-          "day": "Пятница",
-          "lessonTime": "6<br>Знам.",
-          "subject": "Основы оперативно-розыскной деятельности",
-          "lessonType": "Практическое занятие",
-          "room": "334",
-          "teacher": "ст. преп. Плотников В.Ю."
-        }
-      ]
-    }
-  },
-  {
-    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=g&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5",
-    "level": 3,
     "clickedText": "ЮР-С212оз(сессия)",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=gz&f=10023&s=%d0%ae%d1%80%d0%b8%d1%81%d0%bf%d1%80%d1%83%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d1%8f2&k=5&g=6794&fd=%d0%ae%d0%a0-%d0%a1212%d0%be%d0%b7&td=(%d1%81%d0%b5%d1%81%d1%81%d0%b8%d1%8f)",
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
       "lessons": [
-        {
-          "day": "06 ноября 2025 г., четверг",
-          "lessonTime": "7<br>19:50",
-          "subject": "Международное частное право",
-          "lessonType": "КонсЭкз",
-          "room": "206",
-          "teacher": "доц. Бирюков А.А."
-        },
         {
           "day": "07 ноября 2025 г., пятница",
           "lessonTime": "5<br>16:20",

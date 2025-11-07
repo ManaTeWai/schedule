@@ -65,3 +65,45 @@ export const prepareOptions = (items: RawItem[]): Option[] => {
 
 	return result;
 };
+
+// Аналогичная функция для данных tr2: формирует список преподавателей в формате
+// "Преподаватель, кафедра" (parent через поле `from`). Возвращает [{ name, url }]
+export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
+	const normalize = (u?: string) => {
+		if (!u) return "";
+		const trimmed = (u || "").trim();
+		try {
+			const url = new URL(trimmed);
+			url.searchParams.delete("k");
+			const pathname = url.pathname.replace(/\/+$/, "");
+			const search = url.search ? url.search : "";
+			return decodeURIComponent(url.origin + pathname + search);
+		} catch {
+			return trimmed.replace(/([?&])k=\d+/g, "").replace(/\/+$/, "");
+		}
+	};
+
+	// карта нормализованного landedUrl -> элемент только для уровня 1 (кафедры)
+	const deptMap = new Map<string, RawItem>();
+	items.filter((it) => it.level === 1).forEach((it) => deptMap.set(normalize(it.landedUrl), it));
+
+	const result: Option[] = [];
+
+	// Берём элементы уровня 2 (преподаватели) и для каждого добавляем parent.clickedText если есть
+	items
+		.filter((i) => i.level === 2)
+		.forEach((t) => {
+			const target = normalize(t.from);
+			// сначала пробуем точное совпадение среди кафедр
+			let parent = deptMap.get(target);
+			if (!parent) {
+				// резервный поиск по включению — только среди кафедр
+				parent = items.find((it) => it.level === 1 && (target.includes(normalize(it.landedUrl)) || normalize(it.landedUrl).includes(target)));
+			}
+
+			const nameParts = [t.clickedText, parent?.clickedText].filter(Boolean);
+			result.push({ name: nameParts.join(", "), url: t.landedUrl });
+		});
+
+	return result;
+};

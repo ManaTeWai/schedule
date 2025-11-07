@@ -1,32 +1,5808 @@
 [
   {
-    "level": 0,
+    "from": "  https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=2",
+    "level": 1,
     "clickedText": "Государственно-правовых дисциплин",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10253"
   },
   {
-    "level": 0,
+    "from": "  https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=2",
+    "level": 1,
     "clickedText": "Гражданско-правовых дисциплин",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252"
   },
   {
-    "level": 0,
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "д.ю.н., проф. Шевчук Светлана Степановна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=68081",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Объекты и субъекты гражданских прав",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Объекты и субъекты гражданских прав",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., проф. Быкодорова Анджела Федоровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=68082",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Семейное право",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Семейное право",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., доц. Бирюков Александр Александрович",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=173994",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Актуальные проблемы гражданского и предпринимательского права",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Международное частное право",
+          "lessonType": "Консультация перед экзаменом ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Международное частное право",
+          "lessonType": "Экзамен устно ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Международное частное право",
+          "lessonType": "Экзамен устно ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Международное частное право",
+          "lessonType": "Лекционное занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Международное частное право",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Правовое регулирование несостоятельности (банкротства)",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "5",
+          "subject": "Современное состояние и тенденции развития международного частного права",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "6",
+          "subject": "Правовое регулирование корпоративных отношений",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "7",
+          "subject": "Правовое регулирование корпоративных отношений",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Актуальные проблемы гражданского и предпринимательского права",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Актуальные проблемы гражданского и предпринимательского права",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., доц. Бычко Марина Алексеевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=142247",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Гражданское право",
+          "lessonType": "Лекционное занятие ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Гражданское право",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., доц. Грязнов Денис Геннадьевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=135013",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Проблемы страхового права",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Использование объектов интеллектуальной собственности в гражданском обороте",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Предпринимательское право",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Трудовое право",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Проблемы страхового права",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Предпринимательское право",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Трудовое право",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., доц. Журавлева Ольга Викторовна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=165565",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Гражданский процесс",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Наследование отдельных видов имущества",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Юридическая клиника",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Гражданский процесс",
+          "lessonType": "Лекционное занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Наследование отдельных видов имущества",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Гражданский процесс",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Наследование отдельных видов имущества",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., доц. Лесниченко Инна Павловна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=166389",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Кооперативное право",
+          "lessonType": "Практическое занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Кооперативное право",
+          "lessonType": "Лекционное занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Кооперативное право",
+          "lessonType": "Лекционное занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., доц. Морозов Александр Юрьевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=122286",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Жилищное право",
+          "lessonType": "Лекционное занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Юридическая техника",
+          "lessonType": "Лекционное занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Юридическая техника применения и толкования права",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Международное право",
+          "lessonType": "Лекционное занятие ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Жилищное право",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Юридическая техника",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Международное право",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Юридическая техника применения и толкования права",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Юридическая техника применения и толкования права",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Международное право",
+          "lessonType": "Практическое занятие ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Адвокатура и нотариат",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "к.ю.н., доц. Решетняк Владимир Ильич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=160943",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Арбитражный процесс",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Арбитражный процесс",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "ст. преп. Рузаева Ольга Витальевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=173996",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Договоры в предпринимательской деятельности",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Арбитражный процесс",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Арбитражный процесс",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Договоры в предпринимательской деятельности",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Договоры в предпринимательской деятельности",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Арбитражный процесс",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Арбитражный процесс",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Договоры в предпринимательской деятельности",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "преп. Беспалова Анастасия Игоревна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=173993",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Правовое обеспечение профессиональной деятельности",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Юридическое представительство",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Юридическое представительство",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Адвокатура и нотариат",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Римское право",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Правовое обеспечение профессиональной деятельности",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Кооперативное право",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Юридическое представительство",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Юридическое представительство",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10252",
+    "level": 2,
+    "clickedText": "преп. Кириченко Альбина Евгеньевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10252&p=161178",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Гражданское право",
+          "lessonType": "Лекционное занятие Ю С ПО Ю С СА Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Трудовое право",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Трудовое право",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Корпоративное право",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Трудовое право",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Гражданское право",
+          "lessonType": "Лекционное занятие Ю С ПО Ю С СА Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Корпоративное право",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Трудовое право",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Трудовое право",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Корпоративное право",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Трудовое право",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Гражданское право",
+          "lessonType": "Практическое занятие Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "  https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=2",
+    "level": 1,
     "clickedText": "Информационных технологий и естественнонаучных дисциплин",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265"
   },
   {
-    "level": 0,
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265",
+    "level": 2,
+    "clickedText": "к.пед.н., доц. Боголюбова Ирина Анатольевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10265&p=122398",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Физика",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265",
+    "level": 2,
+    "clickedText": "к.психол.н., доц. Литвинова Лариса Викторовна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10265&p=154851",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Информатика",
+          "lessonType": "Лекционное занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Базы данных",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Информатика",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лабораторное занятие МТ С озб МТ С оз МТ С озу ЭКБА С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Информатика",
+          "lessonType": "Лабораторное занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Информатика",
+          "lessonType": "Лабораторное занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Информатика",
+          "lessonType": "Лабораторное занятие МТ С ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озб МТ С озу ЭКБА С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265",
+    "level": 2,
+    "clickedText": "к.т.н., доц. Турко Сергей Александрович",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10265&p=3290",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лабораторное занятие ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Информатика",
+          "lessonType": "Лабораторное занятие КТД С оз МТ С оз ЭКБА С оз ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лекционное занятие ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лабораторное занятие ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Информатика",
+          "lessonType": "Лекционное занятие КТД С оз МТ С оз ЭКБА С оз ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265",
+    "level": 2,
+    "clickedText": "к.ф.-м.н., доц. Бутова Ольга Олеговна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10265&p=3120",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Информационные технологии в юридической деятельности",
+          "lessonType": "Лекционное занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Эконометрика",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Математика",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Эконометрика",
+          "lessonType": "Лабораторное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Эконометрика",
+          "lessonType": "Лабораторное занятие ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Программирование",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Программирование",
+          "lessonType": "Лабораторное занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лекционное занятие ЭК С ЭК С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Математика",
+          "lessonType": "Практическое занятие КТД С оз МТ С оз ЭКБА С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Информационные технологии в юридической деятельности",
+          "lessonType": "Лабораторное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Информационные технологии в юридической деятельности",
+          "lessonType": "Лабораторное занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Эконометрика",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Решение прикладных задач бизнес-анализа",
+          "lessonType": "Лабораторное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "5",
+          "subject": "Основы информационной безопасности",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Математика",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Эконометрика",
+          "lessonType": "Лабораторное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Эконометрика",
+          "lessonType": "Лекционное занятие ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Программирование",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Программирование",
+          "lessonType": "Лабораторное занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лабораторное занятие ЭК С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Математика",
+          "lessonType": "Лекционное занятие КТД С оз МТ С оз ЭКБА С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Информационные технологии в юридической деятельности",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265",
+    "level": 2,
+    "clickedText": "ст. преп. Евенко Ирина Анатольевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10265&p=3136",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Математика",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Математика",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Основы информационной безопасности",
+          "lessonType": "Практическое занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Зачет с оценкой П С зс",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Информационные технологии в юридической деятельности",
+          "lessonType": "Лабораторное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Э С Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "4",
+          "subject": "Математика",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Математика",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Математика",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Базы данных",
+          "lessonType": "Лабораторное занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "1",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Информационные технологии в юридической деятельности",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "5",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Основы информационной безопасности",
+          "lessonType": "Практическое занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Информационные технологии в юридической деятельности",
+          "lessonType": "Лабораторное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Э С Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Математика 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "4",
+          "subject": "Математика",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10265",
+    "level": 2,
+    "clickedText": "ст. преп. Маркарова Марине Артуровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10265&p=80917",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "География",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "География",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "География",
+          "lessonType": "Практическое занятие ТОР С Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "1",
+          "subject": "Экологические основы природопользования",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "География",
+          "lessonType": "Лекционное занятие ТОР С Э С Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Информатика 9",
+          "lessonType": "Лабораторное занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "География",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "География",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "География",
+          "lessonType": "Практическое занятие ТОР С Э С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "  https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=2",
+    "level": 1,
     "clickedText": "Социально-гуманитарных дисциплин",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264"
   },
   {
-    "level": 0,
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "д.ф.н., проф. Келеман Людмила Анатольевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=3256",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Культура речи и деловое общение",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Деонтология в юридической деятельности",
+          "lessonType": "Практическое занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Философия",
+          "lessonType": "Практическое занятие МТ С озб МТ С оз ЭКБА С оз ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Деонтология в юридической деятельности",
+          "lessonType": "Лекционное занятие ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Философия",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озб ЭКБА С оз ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "д.и.н., доц. Печалова Лариса Викторовна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=50584",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Кредитная кооперация",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Кооперативное движение",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Основы философии",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Основы философии",
+          "lessonType": "Практическое занятие П С Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Сельскохозяйственная кооперация",
+          "lessonType": "Лекционное занятие ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Кооперативное движение",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "История потребительской кооперации России",
+          "lessonType": "Практическое занятие ТОР С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Кооперативное движение",
+          "lessonType": "Практическое занятие КТД С оз МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Кредитная кооперация",
+          "lessonType": "Практическое занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Основы философии",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "5",
+          "subject": "Основы философии",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Кооперативное движение",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "История потребительской кооперации России",
+          "lessonType": "Лекционное занятие ТОР С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Основы философии",
+          "lessonType": "Лекционное занятие П С П С Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Сельскохозяйственная кооперация",
+          "lessonType": "Практическое занятие ЭК С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Кооперативное движение",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Кооперативное движение",
+          "lessonType": "Лекционное занятие КТД С оз МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "к. полит. н., доц. Сатучиева Халида Аюбовна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=121556",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "История России",
+          "lessonType": "Лекционное занятие ТОР С Э С с Ю С ПО Ю С СА Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "История России",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "История",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "История России",
+          "lessonType": "Практическое занятие ТОР С Э С с Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "История 9",
+          "lessonType": "Лекционное занятие ТОР С Э С Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "История России",
+          "lessonType": "Практическое занятие Ю С СА Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "История России",
+          "lessonType": "Практическое занятие КТД С оз МТ С оз ЭКБА С оз ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Обществознание",
+          "lessonType": "Практическое занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "История России",
+          "lessonType": "Лекционное занятие ТОР С Э С с Ю С ПО Ю С СА Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "История России",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "История",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "История России",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "История 9",
+          "lessonType": "Лекционное занятие ТОР С Э С Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "История России",
+          "lessonType": "Лекционное занятие КТД С оз МТ С оз ЭКБА С оз ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "История 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Обществознание",
+          "lessonType": "Лекционное занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Обществознание",
+          "lessonType": "Практическое занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "к.пед.н., доц. Бавтрюков Иван Алексеевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=129690",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Физическая культура и спорт",
+          "lessonType": "Практическое занятие КТД С оз МТ С оз ЭКБА С оз ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Элективная дисциплина по физической культуре и спорту – Атлетическая гимнастика",
+          "lessonType": "Практическое занятие ПИН С б ПИН С ЭК С б ЭК С ЮР С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Элективная дисциплина по физической культуре и спорту – Атлетическая гимнастика",
+          "lessonType": "Практическое занятие ПИН С б ПИН С ЭК С б ЭК С ЮР С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Физическая культура и спорт",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С ЮР С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "к.пед.н., доц. Павленко Светлана Анатольевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=65326",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЭК С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Иностранный язык в сфере юриспруденции",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Иностранный язык в сфере юриспруденции",
+          "lessonType": "Практическое занятие ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Деловой иностранный язык",
+          "lessonType": "Практическое занятие ГМУм С ЭКм С ЭКм С б ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Иностранный язык в сфере юриспруденции",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ПИН С б ПИН С ЭК С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие КТД С оз МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Иностранный язык в сфере юриспруденции",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Иностранный язык в сфере юриспруденции",
+          "lessonType": "Практическое занятие ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Деловой иностранный язык",
+          "lessonType": "Практическое занятие ГМУм С ЭКм С ЭКм С б ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие МТ С озб МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "к.психол.н., доц. Прохорова Инна Сергеевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=142833",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Психология социально-правовой деятельности",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Профессиональная этика юриста",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Психология общения",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Профессиональная этика юриста",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Психология социально-правовой деятельности",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Психология и педагогика профессиональной деятельности",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Профессиональная этика юриста",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Психология социально-правовой деятельности",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Психология и педагогика профессиональной деятельности",
+          "lessonType": "Практическое занятие ПИН С б ПИН С ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Психология и педагогика профессиональной деятельности",
+          "lessonType": "Практическое занятие МТ С озб МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Психология социально-правовой деятельности",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Профессиональная этика юриста",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Психология общения",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Профессиональная этика юриста",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Психология социально-правовой деятельности",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Психология и педагогика профессиональной деятельности",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Профессиональная этика юриста",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Психология социально-правовой деятельности",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Психология и педагогика профессиональной деятельности",
+          "lessonType": "Практическое занятие ПИН С б ПИН С ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Психология и педагогика профессиональной деятельности",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озб МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "ст. преп. Гордиенко Елена Сергеевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=121542",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Русский язык и культура речи",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "1",
+          "subject": "Русский язык и культура речи",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Русский язык и культура речи",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "ст. преп. Маруашвили Давид Джемалович",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=174204",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Физическая культура 9",
+          "lessonType": "Практическое занятие ТОР С Э С Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Элективная дисциплина по физической культуре и спорту – Атлетическая гимнастика",
+          "lessonType": "Практическое занятие МТ С ПИН С б ПИН С ЭК С ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Физическая культура 9",
+          "lessonType": "Практическое занятие ТОР С Э С Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "ст. преп. Панкова Екатерина Алексеевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=142252",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Лекционное занятие Э С Э С с Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие Э С Э С Э С с Э С с Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие П С Т С Ю С ПО Ю С СА Ю С сПО Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Физическая культура",
+          "lessonType": "Зачет с оценкой П С зс",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "5",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Лекционное занятие Э С Э С с Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "1",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Лекционное занятие П С П С Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Охрана труда",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие Э С Э С Э С с Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие П С ТОР С Т С Ю С ПО Ю С СА Ю С сПО Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Безопасность жизнедеятельности",
+          "lessonType": "Лекционное занятие Э С Э С с Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "5",
+          "subject": "Физическая культура",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "ст. преп. Поднекс Екатерина Александровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=174550",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Иностранный язык 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Иностранный язык 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Иностранный язык 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "ст. преп. Федорцов Михаил Юрьевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=166796",
+    "schedule": {
+      "hasSchedule": false,
+      "message": "Расписание отсутствует",
+      "lessons": []
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "ст. преп. Харченко Евгения Александровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=157067",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Ю С СА Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Иностранный язык 9",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Иностранный язык 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Иностранный язык 9",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "lessonType": "Практическое занятие Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Иностранный язык 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Иностранный язык",
+          "lessonType": "Практическое занятие ЮР С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10264",
+    "level": 2,
+    "clickedText": "ст. преп. Шереметова Елена Датковна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10264&p=3364",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "1",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Русский язык 9",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Литература",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Культура речи и деловое общение",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "  https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=2",
+    "level": 1,
     "clickedText": "Товароведения и технологии общественного питания",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074"
   },
   {
-    "level": 0,
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074",
+    "level": 2,
+    "clickedText": "д.т.н., проф. Садовой Владимир Всеволодович",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10074&p=65250",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Коммерческая деятельность",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Маркетинговый анализ",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "7",
+          "subject": "Маркетинговый анализ",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Основы предпринимательства",
+          "lessonType": "Лекционное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Организация производства и обслуживания на предприятиях общественного питания",
+          "lessonType": "Зачет ТПП С з",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Коммерческая деятельность",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Основы предпринимательства",
+          "lessonType": "Лекционное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Маркетинговый анализ",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "7",
+          "subject": "Маркетинговый анализ",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Маркетинг",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074",
+    "level": 2,
+    "clickedText": "к.б.н., доц., мастер пр.об. Трегубова Нина Владимировна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10074&p=65341",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Выполнение работ по профессии \"Продавец продовольственных товаров\"",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Коммерческое товароведение",
+          "lessonType": "Практическое занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Выполнение работ по профессии \"Продавец непродовольственных товаров\"",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Выполнение работ по профессии \"Продавец продовольственных товаров\"",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Оценка качества товаров и основы экспертизы",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Выполнение работ по профессии \"Продавец непродовольственных товаров\"",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Выполнение работ по профессии \"Продавец продовольственных товаров\"",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Коммерческое товароведение",
+          "lessonType": "Лекционное занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Выполнение работ по профессии \"Продавец непродовольственных товаров\"",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Выполнение работ по профессии \"Продавец продовольственных товаров\"",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Ю С ПО Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Оценка качества товаров и основы экспертизы",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Химия 9",
+          "lessonType": "Лабораторное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074",
+    "level": 2,
+    "clickedText": "к.т.н., доц. Дудникова Оксана Анатольевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10074&p=87635",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Технология продукции общественного питания",
+          "lessonType": "Экзамен устно ТПП С з",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Маркетинг в отраслях и сферах деятельности",
+          "lessonType": "Консультация перед экзаменом МТ С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Маркетинг в отраслях и сферах деятельности",
+          "lessonType": "Экзамен устно МТ С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Золотухина Ирина Васильевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10074&p=80896",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Экономическое обоснование бизнес-решений",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы услуг",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Экономическое обоснование бизнес-решений",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Управление маркетингом в цифровой экономике",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074",
+    "level": 2,
+    "clickedText": "ст. преп. Денисенко Валентина Семеновна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10074&p=155314",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Оценка качества товаров и основы экспертизы",
+          "lessonType": "Лабораторное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Техническое оснащение торговых организаций",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Оценка качества товаров и основы экспертизы",
+          "lessonType": "Лабораторное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Управление маркетингом в цифровой экономике",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Стандартизация, метрология и подтверждение соответствия",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Маркетинг",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Стандартизация, метрология и подтверждение соответствия",
+          "lessonType": "Лекционное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Оценка качества товаров и основы экспертизы",
+          "lessonType": "Лабораторное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Техническое оснащение торговых организаций",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Оценка качества товаров и основы экспертизы",
+          "lessonType": "Лабораторное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Стандартизация, метрология и подтверждение соответствия",
+          "lessonType": "Лекционное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Техническое оснащение торговых организаций",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Оценка качества товаров и основы экспертизы",
+          "lessonType": "Лабораторное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Стандартизация, метрология и подтверждение соответствия",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Техническое оснащение торговых организаций",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074",
+    "level": 2,
+    "clickedText": "ст. преп. Сорокина Светлана Александровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10074&p=98474",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Коммерческая деятельность",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Коммерческая деятельность",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10074",
+    "level": 2,
+    "clickedText": "мастер пр.об. Сорокина Светлана Александровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10074&p=148591",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Основы предпринимательства",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Основы предпринимательства",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Основы предпринимательства",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "  https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=2",
+    "level": 1,
     "clickedText": "Экономики и управления",
     "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070"
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "д.э.н., проф. Гладилин Александр Васильевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=3126",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Бизнес-проектирование",
+          "lessonType": "Лекционное занятие ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Актуальные проблемы государственного и муниципального управления",
+          "lessonType": "Практическое занятие ГМУм С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Аналитические исследования в профессиональной деятельности",
+          "lessonType": "Практическое занятие ГМУм С ЭКм С ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Антикризисное управление организацией",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Организация научных исследований в профессиональной деятельности",
+          "lessonType": "Практическое занятие ГМУм С ЭКм С ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Бизнес-проектирование",
+          "lessonType": "Лекционное занятие ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "1",
+          "subject": "Бизнес-проектирование",
+          "lessonType": "Практическое занятие ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Актуальные проблемы государственного и муниципального управления",
+          "lessonType": "Лекционное занятие ГМУм С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Аналитические исследования в профессиональной деятельности",
+          "lessonType": "Лекционное занятие ГМУм С ЭКм С ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Антикризисное управление организацией",
+          "lessonType": "Лекционное занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Антикризисное управление организацией",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "7",
+          "subject": "Стратегическое управление затратами",
+          "lessonType": "Лекционное занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "д.э.н., проф. Глаз Юлия Александровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=3128",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Командная работа и лидерство",
+          "lessonType": "Практическое занятие ГМУм С ЭКм С ЭКм С б ЮРм С ГП",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.г.н., доц. Жиренко Галина Николаевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=173982",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Стратегический анализ развития организации и оценка рисков",
+          "lessonType": "Лекционное занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Мировая экономика и международные экономические отношения",
+          "lessonType": "Практическое занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Мировая экономика и международные экономические отношения",
+          "lessonType": "Практическое занятие ЭКБА С оз ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Стратегический анализ развития организации и оценка рисков",
+          "lessonType": "Лекционное занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Мировая экономика и международные экономические отношения",
+          "lessonType": "Лекционное занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "7",
+          "subject": "Мировая экономика и международные экономические отношения",
+          "lessonType": "Лекционное занятие ЭКБА С оз ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Абросимова Татьяна Федоровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=161179",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Экономическая стратегия предприятия",
+          "lessonType": "Практическое занятие ЭКм С б ЭКм С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Управленческие решения",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Самоменеджмент",
+          "lessonType": "Практическое занятие ПИН С б ПИН С ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Экономический анализ",
+          "lessonType": "Практическое занятие ЭКБА С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Самоменеджмент",
+          "lessonType": "Практическое занятие МТ С озб МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Методы исследований в управлении",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Диагностика бизнеса и оценка рисков",
+          "lessonType": "Практическое занятие ЭКБА С оз ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Самоменеджмент",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Комплексный анализ хозяйственной деятельности",
+          "lessonType": "Практическое занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Экономический анализ",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "4",
+          "subject": "Самоменеджмент",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Экономическая стратегия предприятия",
+          "lessonType": "Лекционное занятие ЭКм С ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Управленческие решения",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Самоменеджмент",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Самоменеджмент",
+          "lessonType": "Практическое занятие ПИН С б ПИН С ЭК С ЭК С б ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Экономический анализ",
+          "lessonType": "Лекционное занятие ЭКБА С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Самоменеджмент",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озб МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Методы исследований в управлении",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "7",
+          "subject": "Диагностика бизнеса и оценка рисков",
+          "lessonType": "Лекционное занятие ЭКБА С оз ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Экономическая стратегия предприятия",
+          "lessonType": "Практическое занятие ЭКм С б ЭКм С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Комплексный анализ хозяйственной деятельности",
+          "lessonType": "Лекционное занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Экономический анализ",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Белугин Юрий Николаевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=3100",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Планирование на предприятии",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Командообразование",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Экономика организации (предприятия)",
+          "lessonType": "Практическое занятие ЭК С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Экономика организации (предприятия)",
+          "lessonType": "Лекционное занятие ЭК С ЭК С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Экономика организации (предприятия)",
+          "lessonType": "Лекционное занятие ПИН С ПИН С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Экономическая безопасность организации",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Командообразование",
+          "lessonType": "Практическое занятие КТД С оз МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "7",
+          "subject": "Менеджмент",
+          "lessonType": "Практическое занятие МТ С оз ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Экономика организации (предприятия)",
+          "lessonType": "Практическое занятие МТ С озб МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Планирование на предприятии",
+          "lessonType": "Практическое занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Командообразование",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Экономика организации (предприятия)",
+          "lessonType": "Практическое занятие ЭК С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Экономика организации (предприятия)",
+          "lessonType": "Практическое занятие ПИН С б ПИН С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Командообразование",
+          "lessonType": "Лекционное занятие КТД С оз МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "7",
+          "subject": "Менеджмент",
+          "lessonType": "Лекционное занятие МТ С оз ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Экономика организации (предприятия)",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озб МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Дариенко Жанна Юрьевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=174093",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Налоги и налогообложение",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Налоги и налогообложение",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Экономическая теория (продвинутый уровень)",
+          "lessonType": "Практическое занятие ЭКм С б ЭКм С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Ценообразование",
+          "lessonType": "Консультация перед экзаменом ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "5",
+          "subject": "Ценообразование",
+          "lessonType": "Экзамен устно ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Налоги и налогообложение",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Налоги и налогообложение",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Еременко Николай Васильевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=87756",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Экономика потребительской кооперации",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Экономика кредитных кооперативов",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Экономика потребительской кооперации",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Экономика потребительской кооперации",
+          "lessonType": "Практическое занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Экономика сельскохозяйственных кооперативов",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Экономика сельскохозяйственных кооперативов",
+          "lessonType": "Практическое занятие ЭКБА С оз ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Экономика потребительской кооперации",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Экономика потребительской кооперации",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Экономика кредитных кооперативов",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Экономика потребительской кооперации",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Экономика потребительской кооперации",
+          "lessonType": "Практическое занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Экономика сельскохозяйственных кооперативов",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Экономика сельскохозяйственных кооперативов",
+          "lessonType": "Лекционное занятие ЭКБА С оз ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Золотухина Ирина Васильевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=80896",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Экономическое обоснование бизнес-решений",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы услуг",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Экономическое обоснование бизнес-решений",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Экономика предприятия сферы товарного обращения",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Управление маркетингом в цифровой экономике",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Бизнес-аналитика в организации",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Иониди Лариса Викторовна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=3150",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Экономическая теория",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Статистика",
+          "lessonType": "Лекционное занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие ЭК С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "7",
+          "subject": "Экономическая теория",
+          "lessonType": "Практическое занятие КТД С оз МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "1",
+          "subject": "Статистика",
+          "lessonType": "Лекционное занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Статистика",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Экономическая теория",
+          "lessonType": "Лекционное занятие ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "5",
+          "subject": "Статистика",
+          "lessonType": "Лекционное занятие ЭК С ЭК С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Экономическая теория",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Экономическая теория",
+          "lessonType": "Практическое занятие ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие ЭК С б ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Статистика",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "7",
+          "subject": "Экономическая теория",
+          "lessonType": "Лекционное занятие КТД С оз МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Статистика",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Экономическая теория",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Кабанова Ольга Валерьевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=141737",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Финансовая грамотность",
+          "lessonType": "Лекционное занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Бизнес-анализ инвестиционных проектов",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Финансовая грамотность",
+          "lessonType": "Практическое занятие МТ С озб МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Анализ финансово-хозяйственной деятельности",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Бюджетирование и анализ затрат в организации",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Бизнес-анализ инвестиционных проектов",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Бюджетирование и анализ затрат в организации",
+          "lessonType": "Консультация перед экзаменом ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Финансы, денежное обращение и кредит",
+          "lessonType": "Практическое занятие ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Экономическая оценка стоимости предприятия",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Анализ финансово-хозяйственной деятельности",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Бюджетирование и анализ затрат в организации",
+          "lessonType": "Практическое занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Экономические инструменты управления проектами",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Бюджетирование и анализ затрат в организации",
+          "lessonType": "Экзамен устно ЭКБА С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Бизнес-анализ инвестиционных проектов",
+          "lessonType": "Лекционное занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Финансовая грамотность",
+          "lessonType": "Практическое занятие МТ С ПИН С ПИН С б ЭК С ЮР С ЮР С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Финансовая грамотность",
+          "lessonType": "Лекционное занятие МТ С оз МТ С озб МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Анализ финансово-хозяйственной деятельности",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Бюджетирование и анализ затрат в организации",
+          "lessonType": "Лекционное занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Бизнес-анализ инвестиционных проектов",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Финансы, денежное обращение и кредит",
+          "lessonType": "Лекционное занятие ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Экономическая оценка стоимости предприятия",
+          "lessonType": "Практическое занятие ЭК С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Анализ финансово-хозяйственной деятельности",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Бюджетирование и анализ затрат в организации",
+          "lessonType": "Практическое занятие ЭК С ЭК С у",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Экономические инструменты управления проектами",
+          "lessonType": "Лекционное занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Клочко Александр Владимирович",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=68075",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "6",
+          "subject": "Аудит",
+          "lessonType": "Консультация перед экзаменом ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "5",
+          "subject": "Аудит",
+          "lessonType": "Экзамен устно ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Бухгалтерский управленческий учет",
+          "lessonType": "Лекционное занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Учет и аудит в кооперативах",
+          "lessonType": "Лекционное занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Ковалева Валентина Даниловна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": []
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "к.э.н., доц. Миргородская Ольга Алексеевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=65018",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Бизнес-проектирование",
+          "lessonType": "Лекционное занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "ст. преп. Бельтиков Денис Валерьевич",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=98517",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Стратегическое управление затратами",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Стратегический анализ развития организации и оценка рисков",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "6",
+          "subject": "Стратегическое управление бизнес-процессами в организации",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "6",
+          "subject": "Стратегическое управление затратами",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Стратегический анализ развития организации и оценка рисков",
+          "lessonType": "Практическое занятие ЭКм С б",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "ст. преп. Буланкина Надежда Николаевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=3118",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Бухгалтерский управленческий учет",
+          "lessonType": "Практическое занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "5",
+          "subject": "Учет и аудит в кооперативах",
+          "lessonType": "Практическое занятие ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "4",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Лекционное занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Лекционное занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Бухгалтерская технология проведения и оформления инвентаризации",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Практические основы бухгалтерского учета источников формирования активов организации",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "преп. Бельтикова Дарья Николаевна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=80899",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Понедельник",
+          "lessonTime": "1",
+          "subject": "Менеджмент",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "2",
+          "subject": "Основы финансовой грамотности",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Управление структурным подразделением организации",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Лекционное занятие Ю С ПО Ю С СА Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Основы финансовой грамотности",
+          "lessonType": "Практическое занятие ТОР С Ю С ПО Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "5",
+          "subject": "Основы финансовой грамотности",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "6",
+          "subject": "Статистика",
+          "lessonType": "Практическое занятие МТ С оз МТ С озу ЭКБА С оз ЭКБА С озу ЭКБ С озу",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Технология проведения маркетинговых исследований",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Основы бережливого производства",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Основы предпринимательской деятельности",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "4",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Основы финансовой грамотности",
+          "lessonType": "Практическое занятие Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "4",
+          "subject": "Основы финансовой грамотности",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "5",
+          "subject": "Бизнес-проектирование",
+          "lessonType": "Практическое занятие ЮР С оз ЮР С оз",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Управление структурным подразделением организации",
+          "lessonType": "Практическое занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Основы бережливого производства",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "2",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "3",
+          "subject": "Управление структурным подразделением организации",
+          "lessonType": "Лекционное занятие Т С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Понедельник",
+          "lessonTime": "5",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Лекционное занятие Ю С ПО Ю С СА Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "2",
+          "subject": "Технология проведения маркетинговых исследований",
+          "lessonType": "Лекционное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Вторник",
+          "lessonTime": "3",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Лекционное занятие П С П С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "1",
+          "subject": "Основы предпринимательской деятельности",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Основы финансовой грамотности",
+          "lessonType": "Лекционное занятие ТОР С Э С Э С с Ю С ПО Ю С СА Ю С ПО Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С СА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Технология проведения маркетинговых исследований",
+          "lessonType": "Практическое занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "2",
+          "subject": "Основы бережливого производства",
+          "lessonType": "Лекционное занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "1",
+          "subject": "Менеджмент",
+          "lessonType": "Лекционное занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "2",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С сПО Ю С сСА",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Пятница",
+          "lessonTime": "3",
+          "subject": "Документационное обеспечение управления",
+          "lessonType": "Практическое занятие Ю С ПО",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "1",
+          "subject": "Технология проведения маркетинговых исследований",
+          "lessonType": "Лекционное занятие ТОР С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Основы предпринимательской деятельности",
+          "lessonType": "Лекционное занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Основы финансовой грамотности",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Суббота",
+          "lessonTime": "3",
+          "subject": "Основы бережливого производства",
+          "lessonType": "Практическое занятие Ю С сПО",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
+  },
+  {
+    "from": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=p&k=10070",
+    "level": 2,
+    "clickedText": "мастер пр.об. Куклева Наталья Александровна",
+    "landedUrl": "https://rasp.bukep.ru/Default.aspx?idFil=10006&tr=pweek&k=10070&p=88168",
+    "schedule": {
+      "hasSchedule": true,
+      "message": "Расписание найдено",
+      "lessons": [
+        {
+          "day": "Среда",
+          "lessonTime": "2",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Практическое занятие Э С",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Бухгалтерская технология проведения и оформления инвентаризации",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "3",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Среда",
+          "lessonTime": "4",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "1",
+          "subject": "Основы бухгалтерского учета",
+          "lessonType": "Практическое занятие Э С с",
+          "room": "",
+          "teacher": ""
+        },
+        {
+          "day": "Четверг",
+          "lessonTime": "3",
+          "subject": "Бухгалтерская технология проведения и оформления инвентаризации",
+          "lessonType": "Практическое занятие Э С Э С с",
+          "room": "",
+          "teacher": ""
+        }
+      ]
+    }
   }
 ]
