@@ -30,13 +30,9 @@ export default function Teachers() {
 	const [selected, setSelected] = useState<Option | null>(null);
 	const [selectedSchedule, setSelectedSchedule] = useState<ClassSchedule[] | null>(null);
 	const [loading, setLoading] = useState<boolean>(true);
-
 	useEffect(() => {
 		const raw = localData as RawItem[];
-
-		// Используем подготовитель, похожий на prepareOptions, но для tr2
 		const prepared = prepareOptionsTR2(raw);
-
 		setOptions(prepared);
 		setLoading(false);
 	}, []);
@@ -91,7 +87,7 @@ export default function Teachers() {
 					<Typography variant="h5" gutterBottom>
 						Расписание преподавателя: {selected.name}
 					</Typography>
-					<ScheduleTable schedule={selectedSchedule ?? []} />
+					<ScheduleTable schedule={selectedSchedule ?? []} mode="teachers" />
 				</Box>
 			)}
 
