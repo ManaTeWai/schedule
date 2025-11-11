@@ -3,11 +3,10 @@
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Chip, Box, useMediaQuery, useTheme } from "@mui/material";
 import { ClassSchedule } from "@/types";
 import { P, Htag } from "@/components";
-import localData from "@/data/parsed_data_tr2.json";
 import styles from "../ScheduleTable/ScheduleTable.module.css";
+import { useState, useEffect } from "react";
 
 interface ScheduleTableProps {
-	// optional: если передать teacherUrl, компонент загрузит расписание из parsed_data_tr2.json
 	teacherUrl?: string;
 }
 
@@ -93,16 +92,25 @@ const getTypeLabel = (lessonType?: string) => {
 };
 
 export const ScheduleTableTR2 = ({ teacherUrl }: ScheduleTableProps) => {
+	const [schedule, setSchedule] = useState<ClassSchedule[]>([]);
 	const theme = useTheme();
 	const isMobile = useMediaQuery(theme.breakpoints.down("md"));
-
-	// Если передан teacherUrl — найдём запись в json и откроем lessons
-	let schedule: ClassSchedule[] | undefined = undefined;
-	if (teacherUrl) {
-		const raw = localData as Array<{ landedUrl?: string; schedule?: { lessons?: ClassSchedule[] }; clickedText?: string }>;
-		const found = raw.find((r) => r.landedUrl === teacherUrl);
-		schedule = found?.schedule?.lessons ?? [];
-	}
+	useEffect(() => {
+		// Загружаем JSON из public/data — чтобы изменения в JSON были видны без пересборки
+		fetch("/data/parsed_data_tr2.json")
+			.then((res) => res.json())
+			.then((data) => {
+				if (teacherUrl) {
+					const found = (data as Array<{ landedUrl?: string; schedule?: { lessons?: ClassSchedule[] } }>).find((r) => r.landedUrl === teacherUrl);
+					setSchedule(found?.schedule?.lessons ?? []);
+				} else {
+					setSchedule([]);
+				}
+			})
+			.catch(() => {
+				setSchedule([]);
+			});
+	}, [teacherUrl]);
 
 	if (!schedule || schedule.length === 0) {
 		return (
