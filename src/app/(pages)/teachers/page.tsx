@@ -87,7 +87,7 @@ export default function Teachers() {
 					<Typography variant="h5" gutterBottom>
 						Расписание преподавателя: {selected.name}
 					</Typography>
-					<ScheduleTable schedule={selectedSchedule ?? []} mode="teachers" />
+					<ScheduleTable schedule={selectedSchedule ?? []} />
 				</Box>
 			)}
 
