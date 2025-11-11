@@ -11,24 +11,20 @@ export default function NotFound() {
 				<Htag tag="h1" className={"mb"}>404 - Страница не найдена</Htag>
 				<Link href="/">
 					<Button
-						variant="outlined"
-						startIcon={<HouseOutlinedIcon fontSize="small" />}
-						sx={{
-							border: "1px solid rgba(0, 0, 0, 0.12)",
-							color: "var(--text-color)",
-							backgroundColor: "transparent",
-							"&:hover": {
-								color: "rgba(0, 0, 0, 0.87)",
-								backgroundColor: "rgba(0, 0, 0, 0.08)",
-								border: "1px solid rgba(0, 0, 0, 0.12)",
-							},
-							"&.MuiButton-outlined": {
-								border: "1px solid rgba(0, 0, 0, 0.12)",
-							},
-						}}
-					>
-						Вернуться на главную
-					</Button>
+							variant="outlined"
+							startIcon={<HouseOutlinedIcon fontSize="small" />}
+							sx={{
+								border: "1px solid var(--text-color)",
+								color: "var(--text-color)",
+								backgroundColor: "transparent",
+								"&:hover": {
+									backgroundColor: "rgba(0, 0, 0, 0.08)",
+									border: "1px solid var(--text-color)",
+								},
+							}}
+						>
+							Вернуться на главную
+						</Button>
 				</Link>
 			</div>
 		</main>

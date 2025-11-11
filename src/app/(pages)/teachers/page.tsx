@@ -3,7 +3,7 @@
 import { Select_comp, ScheduleTableTR2 } from "@/components";
 import { Autocomplete, TextField, CircularProgress, Box, Typography, Paper } from "@mui/material";
 import styles from "@/app/page.module.css";
-import localData from "../../../../public/data/parsed_data_tr2.json";
+import localData from "@/data/parsed_data_tr2.json";
 import { useState, useEffect } from "react";
 import { ClassSchedule } from "@/types";
 import { prepareOptionsTR2 } from "@/utils/prepareOptions";

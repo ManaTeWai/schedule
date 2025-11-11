@@ -104,60 +104,6 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 		);
 	}
 
-	const getGroupsText = (classItem: unknown): string => {
-		const ci = classItem as Record<string, unknown>;
-		// 1) если явно есть массив groups
-		const groupsField = ci.groups;
-		if (Array.isArray(groupsField) && groupsField.length > 0) {
-			const parts: string[] = [];
-			for (const g of groupsField) {
-				if (typeof g === "string") parts.push(g);
-				else if (typeof g === "object" && g !== null) {
-					const obj = g as Record<string, unknown>;
-					if (typeof obj.groupName === "string") parts.push(obj.groupName);
-					else if (typeof obj.name === "string") parts.push(obj.name);
-				}
-			}
-			return parts.filter(Boolean).join(", ");
-		}
-
-		// 2) единичное поле group
-		const groupSingle = ci.group;
-		if (groupSingle) {
-			if (typeof groupSingle === "string") return groupSingle;
-			if (typeof groupSingle === "object" && groupSingle !== null) {
-				const obj = groupSingle as Record<string, unknown>;
-				if (typeof obj.groupName === "string") return obj.groupName;
-				if (typeof obj.name === "string") return obj.name;
-			}
-		}
-
-		// 3) попробуем извлечь из lessonType
-		const lessonType = ci.lessonType;
-		if (typeof lessonType === "string") {
-			let cleaned = lessonType.replace(/^\s*-+\s*/g, "");
-			cleaned = cleaned.replace(
-				/^(Лекционное занятие|Лек|Практическое занятие|ПрЗ|Лабораторное занятие|Лаб|Физическая культура|КонсЭкз|КонсИтогЭкз|Экз квал|Экз у|Курс|ДЗач|Зач)\b\s*/i,
-				""
-			);
-			const parts = cleaned
-				.split(/[-—:–]/)
-				.map((s: string) => s.trim())
-				.filter(Boolean);
-			if (parts.length > 1) return parts.slice(1).join(" — ");
-			if (cleaned.length > 0) return cleaned;
-		}
-
-		// 4) попробовать из subject: содержимое в скобках
-		const subject = ci.subject;
-		if (typeof subject === "string") {
-			const m = subject.match(/\(([^)]+)\)/);
-			if (m) return m[1];
-		}
-
-		return "";
-	};
-
 	// Группируем занятия по дням недели для лучшего отображения
 	const groupedByDay = schedule.reduce((acc, classItem) => {
 		if (!acc[classItem.day]) {
@@ -191,7 +137,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 										</TableCell>
 										<TableCell sx={{ width: "50%" }}>
 											<P size="medium">Дисциплина</P>
-											<P size="medium">Группа (группы)</P>
+											<P size="medium">Преподаватель</P>
 											<P size="medium">Аудитория</P>
 										</TableCell>
 										<TableCell sx={{ width: "30%", textAlign: "center" }}>
@@ -209,7 +155,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 											<P size="medium">Дисциплина</P>
 										</TableCell>
 										<TableCell sx={{ width: "15%" }}>
-											<P size="medium">Группа (группы)</P>
+											<P size="medium">Преподаватель</P>
 										</TableCell>
 										<TableCell sx={{ width: "15%", textAlign: "center" }}>
 											<P size="medium">Аудитория</P>
@@ -231,7 +177,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 												</TableCell>
 												<TableCell sx={{ width: "50%" }}>
 													<P size="large">{classItem.subject}</P>
-													<P size="medium">{getGroupsText(classItem)}</P>
+													<P size="medium">{classItem.teacher}</P>
 													<P size="medium">{classItem.room}</P>
 												</TableCell>
 												<TableCell sx={{ width: "30%", textAlign: "center" }}>
@@ -253,7 +199,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 													<P size="large">{classItem.subject}</P>
 												</TableCell>
 												<TableCell sx={{ width: "15%" }}>
-													<P size="medium">{getGroupsText(classItem)}</P>
+													<P size="medium">{classItem.teacher}</P>
 												</TableCell>
 												<TableCell sx={{ width: "10%", textAlign: "center" }}>
 													<P size="medium">{classItem.room}</P>

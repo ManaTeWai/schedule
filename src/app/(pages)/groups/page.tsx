@@ -6,7 +6,7 @@ import styles from "@/app/page.module.css";
 import { Select_comp, ScheduleTable } from "@/components";
 import { Group, ClassSchedule } from "@/types";
 import { prepareOptions } from "@/utils/prepareOptions";
-import localData from "../../../../public/data/parsed_data_tr1.json";
+import localData from "@/data/parsed_data_tr1.json";
 
 interface RawItem {
 	level: number;
