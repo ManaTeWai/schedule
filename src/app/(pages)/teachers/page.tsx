@@ -1,6 +1,6 @@
 "use client";
 
-import { Select_comp, ScheduleTable } from "@/components";
+import { Select_comp, ScheduleTableTR2 } from "@/components";
 import { Autocomplete, TextField, CircularProgress, Box, Typography, Paper } from "@mui/material";
 import styles from "@/app/page.module.css";
 import localData from "@/data/parsed_data_tr2.json";
@@ -28,7 +28,6 @@ interface Option {
 export default function Teachers() {
 	const [options, setOptions] = useState<Option[]>([]);
 	const [selected, setSelected] = useState<Option | null>(null);
-	const [selectedSchedule, setSelectedSchedule] = useState<ClassSchedule[] | null>(null);
 	const [loading, setLoading] = useState<boolean>(true);
 	useEffect(() => {
 		const raw = localData as RawItem[];
@@ -41,15 +40,12 @@ export default function Teachers() {
 	const handleChange1 = (_: any, value: Option | null) => {
 		if (!value) {
 			setSelected(null);
-			setSelectedSchedule(null);
 			return;
 		}
 
 		setSelected(value);
-		// Найдём в исходных данных расписание по landedUrl
-		const raw = localData as RawItem[];
-		const found = raw.find((r) => r.landedUrl === value.url);
-		setSelectedSchedule(found?.schedule?.lessons ?? null);
+		// Найдём в исходных данных расписание по landedUrl — ScheduleTableTR2 будет использовать url
+		// (we keep the selected.url in state via `selected`)
 		console.log("Выбран преподаватель:", value.name);
 	};
 	return (
@@ -87,7 +83,7 @@ export default function Teachers() {
 					<Typography variant="h5" gutterBottom>
 						Расписание преподавателя: {selected.name}
 					</Typography>
-					<ScheduleTable schedule={selectedSchedule ?? []} />
+					<ScheduleTableTR2 teacherUrl={selected?.url} />
 				</Box>
 			)}
 

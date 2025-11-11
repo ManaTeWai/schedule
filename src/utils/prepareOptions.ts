@@ -83,9 +83,17 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 		}
 	};
 
-	// карта нормализованного landedUrl -> элемент только для уровня 1 (кафедры)
+	// Определим элементы-преподаватели по наличию schedule (более надёжно чем жёсткий номер уровня)
+	const teacherItems = items.filter((it) => Boolean((it as unknown as Record<string, unknown>).schedule));
+	// Вычислим уровень преподавателя (если он присутствует в данных)
+	const teacherLevel = teacherItems.length > 0 ? teacherItems[0].level : 2;
+
+	// карта нормализованного landedUrl -> элемент для возможных кафедр/родительских узлов
+	// Берём элементы с уровнем меньше уровня преподавателя (fallback — level === 1)
 	const deptMap = new Map<string, RawItem>();
-	items.filter((it) => it.level === 1).forEach((it) => deptMap.set(normalize(it.landedUrl), it));
+	items
+		.filter((it) => (typeof it.level === "number" ? it.level < teacherLevel : it.level === 1))
+		.forEach((it) => deptMap.set(normalize(it.landedUrl), it));
 
 	const result: Option[] = [];
 
@@ -104,9 +112,9 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 	// pattern to detect teacher titles so we don't accidentally treat a teacher as department
 	const teacherTitleRe = /\b(проф\.|доц\.|преп\.|ст\. преп\.|мастер пр\.об\.|ассистент)\b/i;
 
-	// Берём элементы уровня 2 (преподаватели) и для каждого добавляем parent.clickedText если есть
+	// Берём элементы, у которых есть schedule (преподаватели) и для каждого добавляем parent.clickedText если есть
 	items
-		.filter((i) => i.level === 2)
+		.filter((i) => Boolean((i as unknown as Record<string, unknown>).schedule))
 		.forEach((t) => {
 			const target = normalize(t.from);
 			// сначала пробуем точное совпадение среди кафедр
