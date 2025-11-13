@@ -13,7 +13,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "5",
@@ -65,7 +65,9 @@
             "ЮР-С251оз",
             "ЮР-С252оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -108,7 +110,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "5",
@@ -152,7 +154,9 @@
             "ЮР-С221оз",
             "ЮР-С222оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "5",
@@ -208,7 +212,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -265,7 +269,9 @@
             "ЭК-С241",
             "ЭК-С241б"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -334,12 +340,12 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "6",
           "subject": "Основы российской государственности",
-          "lessonType": "Лекционное занятие",
+          "lessonType": "Лекционное занятие у у",
           "room": "304",
           "groups": [
             "КТД-С251оз",
@@ -367,7 +373,7 @@
           "day": "Пятница",
           "lessonTime": "2",
           "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
+          "lessonType": "Практическое занятие б",
           "room": "308",
           "groups": [
             "МТ-С251",
@@ -380,18 +386,20 @@
           "day": "Пятница",
           "lessonTime": "4",
           "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
+          "lessonType": "Практическое занятие у",
           "room": "342",
           "groups": [
             "ЮР-С251",
             "ЮР-С251у"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "6",
           "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
+          "lessonType": "Практическое занятие у у",
           "room": "304",
           "groups": [
             "КТД-С251оз",
@@ -408,7 +416,7 @@
           "day": "Четверг",
           "lessonTime": "2",
           "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
+          "lessonType": "Практическое занятие б",
           "room": "304",
           "groups": [
             "МТ-С251",
@@ -421,7 +429,7 @@
           "day": "Четверг",
           "lessonTime": "3",
           "subject": "Основы российской государственности",
-          "lessonType": "Лекционное занятие",
+          "lessonType": "Лекционное занятие б у",
           "room": "343",
           "groups": [
             "МТ-С251",
@@ -447,7 +455,7 @@
           "day": "Пятница",
           "lessonTime": "4",
           "subject": "Основы российской государственности",
-          "lessonType": "Практическое занятие",
+          "lessonType": "Практическое занятие у",
           "room": "343",
           "groups": [
             "ЮР-С251",
@@ -465,7 +473,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "3",
@@ -498,7 +506,9 @@
             "ЮР-С251оз",
             "ЮР-С252оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "1",
@@ -563,7 +573,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -584,7 +594,9 @@
             "ЮР-С221оз",
             "ЮР-С222оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -631,7 +643,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -737,7 +749,9 @@
             "ЮР-С241оз",
             "ЮР-С242оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -876,7 +890,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -1034,7 +1048,9 @@
           "groups": [
             "Ю-С241СА"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -1154,7 +1170,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -1325,7 +1341,9 @@
           "groups": [
             "Ю-С241СА"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -1469,7 +1487,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "1",
@@ -1512,7 +1530,9 @@
             "ЮР-С231оз",
             "ЮР-С232оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "2",
@@ -1567,7 +1587,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Среда",
           "lessonTime": "2",
@@ -1683,7 +1703,9 @@
           "groups": [
             "ЮР-С212оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "2",
@@ -1760,7 +1782,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Среда",
           "lessonTime": "2",
@@ -1782,7 +1804,9 @@
             "ЮР-С221оз",
             "ЮР-С222оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "1",
@@ -1822,7 +1846,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "5",
@@ -1832,7 +1856,9 @@
           "groups": [
             "ЮРм-С241ГП"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "5",
@@ -1854,7 +1880,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "4",
@@ -1865,7 +1891,9 @@
             "ЮР-С221оз",
             "ЮР-С222оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "4",
@@ -1888,7 +1916,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -1970,7 +1998,9 @@
           "groups": [
             "ЮРм-С251ГП"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -2044,7 +2074,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "1",
@@ -2065,7 +2095,9 @@
             "ЮР-С231оз",
             "ЮР-С232оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "1",
@@ -2126,7 +2158,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Пятница",
           "lessonTime": "3",
@@ -2158,7 +2190,9 @@
             "ЮР-С231оз",
             "ЮР-С232оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "3",
@@ -2268,7 +2302,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -2342,7 +2376,9 @@
           "groups": [
             "ЮРм-С241ГП"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "1",
@@ -2429,7 +2465,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "6",
@@ -2439,7 +2475,9 @@
           "groups": [
             "ЭКБ-С241озу"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "6",
@@ -2500,7 +2538,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -2573,7 +2611,9 @@
             "ЮР-С231оз",
             "ЮР-С232оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -2686,7 +2726,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Пятница",
           "lessonTime": "6",
@@ -2697,7 +2737,9 @@
             "ЮР-С221оз",
             "ЮР-С222оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Пятница",
           "lessonTime": "6",
@@ -2720,7 +2762,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -2790,7 +2832,9 @@
           "groups": [
             "Ю-С241СА"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -2912,7 +2956,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -2964,7 +3008,9 @@
           "groups": [
             "Ю-С241сПО"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "1",
@@ -3017,7 +3063,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -3093,7 +3139,9 @@
             "Ю-С251сПО",
             "Ю-С251сСА"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -3198,7 +3246,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -3269,7 +3317,9 @@
           "groups": [
             "Э-С251"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -3352,7 +3402,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -3397,7 +3447,9 @@
             "МТ-С251озу",
             "ЭКБА-С241оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -3456,7 +3508,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Среда",
           "lessonTime": "5",
@@ -3481,7 +3533,9 @@
             "ЮР-С251оз",
             "ЮР-С252оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "3",
@@ -3551,7 +3605,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -3687,7 +3741,9 @@
             "ЮР-С241оз",
             "ЮР-С242оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -3921,7 +3977,8 @@
     "schedule": {
       "hasSchedule": false,
       "message": "Расписание отсутствует",
-      "lessons": []
+      "currentWeek": [],
+      "nextWeek": []
     }
   },
   {
@@ -3932,7 +3989,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -4138,7 +4195,9 @@
           "groups": [
             "Э-С241"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -4315,7 +4374,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -4410,7 +4469,9 @@
             "ТОР-С251",
             "Э-С251"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "1",
@@ -4532,13 +4593,13 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "6",
           "subject": "Деонтология в юридической деятельности",
           "lessonType": "Лекционное занятие",
-          "room": "503",
+          "room": "414",
           "groups": [
             "ЮРм-С251ГП"
           ]
@@ -4556,7 +4617,9 @@
             "ЮР-С241оз",
             "ЮР-С242оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "1",
@@ -4607,7 +4670,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -4723,7 +4786,9 @@
             "ЮР-С251оз",
             "ЮР-С252оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -4873,7 +4938,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -5016,7 +5081,9 @@
             "Ю-С251ПО",
             "Ю-С251СА"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -5204,7 +5271,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "4",
@@ -5234,7 +5301,9 @@
             "ЭК-С251",
             "ЮР-С251"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "1",
@@ -5290,7 +5359,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -5410,7 +5479,9 @@
             "ЮР-С241оз",
             "ЮР-С242оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -5553,7 +5624,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -5673,7 +5744,9 @@
             "ЮР-С241оз",
             "ЮР-С242оз"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -5805,7 +5878,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "1",
@@ -5825,7 +5898,9 @@
           "groups": [
             "ТОР-С241"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "3",
@@ -5857,7 +5932,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "4",
@@ -5886,7 +5961,9 @@
             "Ю-С251ПО",
             "Ю-С251СА"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "4",
@@ -5927,7 +6004,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -6085,7 +6162,9 @@
           "groups": [
             "Э-С241"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -6252,7 +6331,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -6322,7 +6401,9 @@
           "groups": [
             "Э-С251с"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -6404,7 +6485,8 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "5",
@@ -6457,7 +6539,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -6562,7 +6644,9 @@
           "groups": [
             "ЮР-С251"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -6670,7 +6754,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -6805,7 +6889,9 @@
             "ЮР-С251",
             "ЮР-С251у"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -6974,7 +7060,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -7030,7 +7116,9 @@
             "ЭКБА-С241озу",
             "ЭКБ-С241озу"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "4",
@@ -7160,7 +7248,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -7301,7 +7389,9 @@
           "groups": [
             "ТОР-С251"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -7444,7 +7534,8 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "6",
@@ -7489,7 +7580,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -7564,7 +7655,9 @@
           "groups": [
             "ЭК-С231"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -7640,7 +7733,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Среда",
           "lessonTime": "3",
@@ -7700,7 +7793,9 @@
           "groups": [
             "Т-С231"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "3",
@@ -7829,7 +7924,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Среда",
           "lessonTime": "4",
@@ -7839,7 +7934,9 @@
           "groups": [
             "ЭК-С231"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "2",
@@ -7861,7 +7958,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Пятница",
           "lessonTime": "2",
@@ -7881,7 +7978,9 @@
           "groups": [
             "ТОР-С241"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Пятница",
           "lessonTime": "2",
@@ -7909,7 +8008,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -7985,7 +8084,9 @@
           "groups": [
             "ЭКм-С241б"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -8100,7 +8201,8 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "5",
@@ -8125,7 +8227,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "5",
@@ -8156,7 +8258,9 @@
             "ЭКБА-С221оз",
             "ЭКБА-С231озу"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "5",
@@ -8199,7 +8303,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "4",
@@ -8343,7 +8447,9 @@
             "ЭКБА-С241озу",
             "ЭКБ-С241озу"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "4",
@@ -8488,7 +8594,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -8581,7 +8687,9 @@
             "ЭКБА-С251озу",
             "ЭКБ-С251озу"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -8749,7 +8857,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "5",
@@ -8789,7 +8897,9 @@
           "groups": [
             "ЭК-С231"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "3",
@@ -8832,7 +8942,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "3",
@@ -8911,7 +9021,9 @@
             "ЭКБА-С221оз",
             "ЭКБА-С231озу"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "3",
@@ -9002,7 +9114,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -9077,7 +9189,9 @@
           "groups": [
             "ЭК-С231"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -9153,7 +9267,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Вторник",
           "lessonTime": "1",
@@ -9295,7 +9409,9 @@
             "ПИН-С251б",
             "ЭК-С251"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Вторник",
           "lessonTime": "2",
@@ -9430,7 +9546,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Среда",
           "lessonTime": "2",
@@ -9558,7 +9674,9 @@
           "groups": [
             "ЭКм-С241б"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "3",
@@ -9718,7 +9836,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "6",
@@ -9759,7 +9877,8 @@
             "ЭКБ-С231озу"
           ]
         }
-      ]
+      ],
+      "nextWeek": []
     }
   },
   {
@@ -9770,7 +9889,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -9860,7 +9979,9 @@
             "ЭК-С241",
             "ЭК-С241б"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "2",
@@ -9984,7 +10105,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Пятница",
           "lessonTime": "5",
@@ -9996,7 +10117,8 @@
             "ЮР-С232оз"
           ]
         }
-      ]
+      ],
+      "nextWeek": []
     }
   },
   {
@@ -10007,7 +10129,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Четверг",
           "lessonTime": "6",
@@ -10027,7 +10149,9 @@
           "groups": [
             "ЭКм-С241б"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Четверг",
           "lessonTime": "6",
@@ -10069,7 +10193,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -10154,7 +10278,9 @@
             "Э-С231",
             "Э-С241с"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -10261,7 +10387,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "3",
@@ -10456,7 +10582,9 @@
           "groups": [
             "Ю-С241сПО"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Понедельник",
           "lessonTime": "1",
@@ -10734,7 +10862,7 @@
     "schedule": {
       "hasSchedule": true,
       "message": "Расписание найдено",
-      "lessons": [
+      "currentWeek": [
         {
           "day": "Среда",
           "lessonTime": "3",
@@ -10776,7 +10904,9 @@
             "Э-С231",
             "Э-С241с"
           ]
-        },
+        }
+      ],
+      "nextWeek": [
         {
           "day": "Среда",
           "lessonTime": "2",
