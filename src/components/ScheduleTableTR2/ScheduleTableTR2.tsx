@@ -30,6 +30,7 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 	switch (lessonType) {
 		case "Лекционное занятие":
 		case "Лек":
+		case "Лекционное занятие б":
 			return "lecture";
 		case "Практическое занятие":
 		case "ПрЗ":
