@@ -31,8 +31,15 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 		case "Лекционное занятие":
 		case "Лек":
 		case "Лекционное занятие б":
+		case "Лекционное занятие у":
+		case "Лекционное занятие у у":
+		case "Лекционное занятие б у":
 			return "lecture";
 		case "Практическое занятие":
+		case "Практическое занятие б":
+		case "Практическое занятие у":
+		case "Практическое занятие у у":
+		case "Практическое занятие б у":
 		case "ПрЗ":
 			return "practice";
 		case "Физическая культура":
@@ -151,14 +158,7 @@ export const ScheduleTableTR2 = ({ teacherUrl }: ScheduleTableProps) => {
 	return (
 		<Box sx={{ mt: 3 }}>
 			{/* Переключатель недели */}
-			<Tabs
-				value={selectedWeek}
-				onChange={(_, val) => setSelectedWeek(val)}
-				centered
-				textColor="primary"
-				indicatorColor="primary"
-				sx={{ mb: 2 }}
-			>
+			<Tabs value={selectedWeek} onChange={(_, val) => setSelectedWeek(val)} centered textColor="primary" indicatorColor="primary" sx={{ mb: 2 }}>
 				<Tab value="current" label="Текущая неделя" />
 				<Tab value="next" label="Следующая неделя" />
 			</Tabs>
@@ -205,12 +205,7 @@ export const ScheduleTableTR2 = ({ teacherUrl }: ScheduleTableProps) => {
 											<P size="medium">{classItem.room}</P>
 										</TableCell>
 										<TableCell sx={{ textAlign: "center" }}>
-											<Chip
-												label={getTypeLabel(classItem.lessonType)}
-												color={getTypeColor(classItem.lessonType)}
-												size="medium"
-												variant="outlined"
-											/>
+											<Chip label={getTypeLabel(classItem.lessonType)} color={getTypeColor(classItem.lessonType)} size="medium" variant="outlined" />
 										</TableCell>
 									</TableRow>
 								))}
