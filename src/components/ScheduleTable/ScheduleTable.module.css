@@ -22,5 +22,9 @@
 	.table td {
 		padding: 5px;
 	}
+
+	.table p {
+		margin-bottom: 10px;
+	}
 }
 
