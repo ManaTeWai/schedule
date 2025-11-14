@@ -11,6 +11,10 @@
 	.table td {
 		padding: 10px;
 	}
+
+	.table p {
+		margin-bottom: 10px;
+	}
 }
 
 @media (width <= 400px) {
@@ -22,5 +26,8 @@
 	.table td {
 		padding: 5px;
 	}
-}
 
+	.table p {
+		margin-bottom: 10px;
+	}
+}
