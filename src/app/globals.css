@@ -12,12 +12,12 @@
 }
 
 html.dark {
-  --background-color: #121212;
-  --text-color: #f5f5f5;
-  --bg-color: #1e1e1e;
-  --bg: #1a1a1a;
-  --aside-bg-color: #181818;
-  --gray: #222;
+	--background-color: #121212;
+	--text-color: #f5f5f5;
+	--bg-color: #1e1e1e;
+	--bg: #1a1a1a;
+	--aside-bg-color: #181818;
+	--gray: #222;
 }
 
 @font-face {
@@ -97,6 +97,12 @@ a {
 
 .mb {
 	margin-bottom: 25px;
+}
+
+.lock-scroll,
+.lock-scroll body {
+	overflow: hidden !important;
+	height: 100% !important;
 }
 
 @media (width <= 768px) {

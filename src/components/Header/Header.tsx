@@ -32,6 +32,16 @@ export const Header = (): JSX.Element => {
 		}
 	}, [isOpen]);
 
+	useEffect(() => {
+		const html = document.documentElement;
+
+		if (isOpen) {
+			html.classList.add("lock-scroll");
+		} else {
+			html.classList.remove("lock-scroll");
+		}
+	}, [isOpen]);
+
 	if (!mounted) {
 		return <></>;
 	}
