@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Divider, ListItemIcon, MenuList, MenuItem, ListItemText } from "@mui/material";
 import CalendarMonthOutlinedIcon from "@mui/icons-material/CalendarMonthOutlined";
 import ExitToAppOutlinedIcon from "@mui/icons-material/ExitToAppOutlined";
-import ReportProblemIcon from '@mui/icons-material/ReportProblem';
+import ReportProblemIcon from "@mui/icons-material/ReportProblem";
 import { P } from "@/components";
 
 export const Aside = (): JSX.Element => {
@@ -17,7 +17,7 @@ export const Aside = (): JSX.Element => {
 
 			<MenuList sx={{ width: 320, maxWidth: "100%" }}>
 				<Divider />
-				<Link href="/">
+				<Link href="https://rasp.bukep.ru/Default.aspx?idFil=10006">
 					<MenuItem>
 						<ListItemIcon>
 							<CalendarMonthOutlinedIcon
