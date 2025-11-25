@@ -1,7 +1,7 @@
 "use client";
 
 import { Autocomplete, TextField, CircularProgress, Box, Typography, Paper } from "@mui/material";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import styles from "@/app/page.module.css";
 import { Select_comp, ScheduleTable } from "@/components";
 import { Group, ClassSchedule } from "@/types";
@@ -38,12 +38,19 @@ export default function Groups() {
 		setLoading(false);
 	}, []);
 
+	const hiddenInputRef = useRef<HTMLInputElement>(null);
+
 	// eslint-disable-next-line @typescript-eslint/no-explicit-any
 	const handleChange1 = (_: any, value: Group | null) => {
 		if (!value) {
 			setSelected(null);
 			return;
 		}
+
+		setTimeout(() => {
+			hiddenInputRef.current?.focus();
+			hiddenInputRef.current?.blur();
+		}, 0);
 
 		// Находим объект с расписанием по URL
 		const fullData = localData as RawItem[];
@@ -118,6 +125,19 @@ export default function Groups() {
 					</Typography>
 				</Paper>
 			)}
+			{/* Невидимый input для скрытия клавиатуры */}
+			<input
+				ref={hiddenInputRef}
+				style={{
+					position: "absolute",
+					top: "-10000px",
+					left: "-10000px",
+					opacity: 0,
+					pointerEvents: "none",
+					height: 0,
+					width: 0,
+				}}
+			/>
 		</main>
 	);
 }
