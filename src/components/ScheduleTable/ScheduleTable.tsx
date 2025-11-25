@@ -152,7 +152,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 
 	// Проверяем, все ли занятия имеют тип "both"
 	const allAreBoth = useMemo(() => {
-		return schedule.every(item => item.week === "both");
+		return schedule.every((item) => item.week === "both");
 	}, [schedule]);
 
 	// Если все занятия "both", не показываем табы
@@ -161,12 +161,12 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 	const [selectedWeek, setSelectedWeek] = useState<"current" | "next">("current");
 
 	// Разделяем занятия по типу недели
-	const numSchedule = useMemo(() => schedule.filter(item => item.week === "num" || item.week === "both"), [schedule]);
-	const denSchedule = useMemo(() => schedule.filter(item => item.week === "den" || item.week === "both"), [schedule]);
+	const numSchedule = useMemo(() => schedule.filter((item) => item.week === "num" || item.week === "both"), [schedule]);
+	const denSchedule = useMemo(() => schedule.filter((item) => item.week === "den" || item.week === "both"), [schedule]);
 
 	// Выбираем расписание для "Текущей недели" и "Следующей недели" в зависимости от текущего типа недели
 	const currentWeekSchedule = useMemo(() => {
-		return currentWeekIsNum ? numSchedule : denSchedule;
+		return currentWeekIsNum ? denSchedule : numSchedule;
 	}, [currentWeekIsNum, numSchedule, denSchedule]);
 
 	const nextWeekSchedule = useMemo(() => {
@@ -277,12 +277,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 														<P size="medium">{classItem.room}</P>
 													</TableCell>
 													<TableCell sx={{ width: "30%", textAlign: "center" }}>
-														<Chip
-															label={getTypeLabel(classItem.lessonType)}
-															color={getTypeColor(classItem.lessonType)}
-															size="medium"
-															variant="outlined"
-														/>
+														<Chip label={getTypeLabel(classItem.lessonType)} color={getTypeColor(classItem.lessonType)} size="medium" variant="outlined" />
 													</TableCell>
 												</>
 											) : (
@@ -302,12 +297,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 														<P size="medium">{classItem.room}</P>
 													</TableCell>
 													<TableCell sx={{ width: "10%", textAlign: "center" }}>
-														<Chip
-															label={getTypeLabel(classItem.lessonType)}
-															color={getTypeColor(classItem.lessonType)}
-															size="medium"
-															variant="outlined"
-														/>
+														<Chip label={getTypeLabel(classItem.lessonType)} color={getTypeColor(classItem.lessonType)} size="medium" variant="outlined" />
 													</TableCell>
 												</>
 											)}
