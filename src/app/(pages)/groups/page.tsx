@@ -55,6 +55,7 @@ export default function Groups() {
 				schedule: match.schedule.lessons.map((lesson, index) => ({
 					id: index.toString(),
 					day: lesson.day,
+					week: lesson.week,
 					lessonTime: lesson.lessonTime,
 					lessonType: lesson.lessonType,
 					subject: lesson.subject,

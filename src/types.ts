@@ -1,6 +1,7 @@
 export interface ClassSchedule {
 	id: string;
 	day: string;
+	week: "num" | "den" | "both";
 	lessonTime: string;
 	subject: string;
 	teacher: string;
