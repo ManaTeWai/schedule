@@ -4,7 +4,7 @@ import { Select_comp, ScheduleTableTR2 } from "@/components";
 import { Autocomplete, TextField, CircularProgress, Box, Typography, Paper } from "@mui/material";
 import styles from "@/app/page.module.css";
 import localData from "@/data/parsed_data_tr2.json";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { ClassSchedule } from "@/types";
 import { prepareOptionsTR2 } from "@/utils/prepareOptions";
 
@@ -29,6 +29,7 @@ export default function Teachers() {
 	const [options, setOptions] = useState<Option[]>([]);
 	const [selected, setSelected] = useState<Option | null>(null);
 	const [loading, setLoading] = useState<boolean>(true);
+
 	useEffect(() => {
 		const raw = localData as RawItem[];
 		const prepared = prepareOptionsTR2(raw);
@@ -36,12 +37,19 @@ export default function Teachers() {
 		setLoading(false);
 	}, []);
 
+	const hiddenInputRef = useRef<HTMLInputElement>(null);
+
 	// eslint-disable-next-line @typescript-eslint/no-explicit-any
 	const handleChange1 = (_: any, value: Option | null) => {
 		if (!value) {
 			setSelected(null);
 			return;
 		}
+
+		setTimeout(() => {
+			hiddenInputRef.current?.focus();
+			hiddenInputRef.current?.blur();
+		}, 0);
 
 		setSelected(value);
 		// Найдём в исходных данных расписание по landedUrl — ScheduleTableTR2 будет использовать url
@@ -94,6 +102,20 @@ export default function Teachers() {
 					</Typography>
 				</Paper>
 			)}
+
+			{/* Невидимый input для скрытия клавиатуры */}
+			<input
+				ref={hiddenInputRef}
+				style={{
+					position: "absolute",
+					top: "-10000px",
+					left: "-10000px",
+					opacity: 0,
+					pointerEvents: "none",
+					height: 0,
+					width: 0,
+				}}
+			/>
 		</main>
 	);
 }
