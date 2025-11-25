@@ -170,7 +170,7 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 	}, [currentWeekIsNum, numSchedule, denSchedule]);
 
 	const nextWeekSchedule = useMemo(() => {
-		return currentWeekIsNum ? denSchedule : numSchedule;
+		return currentWeekIsNum ? numSchedule : denSchedule;
 	}, [currentWeekIsNum, numSchedule, denSchedule]);
 
 	// Выбираем расписание в зависимости от состояния и типа текущей недели
