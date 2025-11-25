@@ -103,7 +103,7 @@ export const Header = (): JSX.Element => {
 								/>
 							</ListItemIcon>
 							<ListItemText>
-								<P>Расписание</P>
+								<P>Старое расписание</P>
 							</ListItemText>
 						</MenuItem>
 					</Link>
@@ -119,7 +119,7 @@ export const Header = (): JSX.Element => {
 								/>
 							</ListItemIcon>
 							<ListItemText>
-								<P>Основной сайт</P>
+								<P>Сайт института</P>
 							</ListItemText>
 						</MenuItem>
 					</Link>

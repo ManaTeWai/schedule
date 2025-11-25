@@ -28,7 +28,7 @@ export const Aside = (): JSX.Element => {
 							/>
 						</ListItemIcon>
 						<ListItemText>
-							<P>Расписание</P>
+							<P>Старое расписание</P>
 						</ListItemText>
 					</MenuItem>
 				</Link>
@@ -44,7 +44,7 @@ export const Aside = (): JSX.Element => {
 							/>
 						</ListItemIcon>
 						<ListItemText>
-							<P>Основной сайт</P>
+							<P>Сайт института</P>
 						</ListItemText>
 					</MenuItem>
 				</Link>
