@@ -138,7 +138,7 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 			}
 
 			const nameParts = [t.clickedText, parent?.clickedText].filter(Boolean);
-			result.push({ name: nameParts.join(", "), url: t.landedUrl });
+			result.push({ name: nameParts.join(", кафедра "), url: t.landedUrl });
 		});
 
 	return result;
