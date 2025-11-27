@@ -9,10 +9,10 @@ export default function GlobalError({ reset }: { error: Error & { digest?: strin
 	return (
 		<main className={styles.not_found}>
 			<div>
-				<Htag tag="h1" className={"mb"}>
+				<Htag tag="h1" className="mb">
 					500 - Ошибка сервера
 				</Htag>
-				<P>Что-то пошло не так. Пожалуйста, попробуйте позже.</P>
+				<P className="mb">Что-то пошло не так. Пожалуйста, попробуйте позже. The End of YoRHa.</P>
 				<Button
 					onClick={() => reset()}
 					variant="outlined"

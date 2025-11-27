@@ -16,12 +16,13 @@
 		"@mui/material": "^7.3.5",
 		"classnames": "^2.5.1",
 		"date-fns": "^4.1.0",
-		"next": "^16.0.2-canary.14",
+		"next": "^16.1.0-canary.4",
 		"next-themes": "^0.4.6",
-		"puppeteer": "^24.22.0",
-		"puppeteer-core": "^24.22.0",
 		"react": "19.1.0",
 		"react-dom": "19.1.0",
+		"react-simple-keyboard": "^3.8.139",
+		"simple-keyboard": "^3.8.92",
+		"simple-keyboard-layouts": "^3.4.145",
 		"stylelint-order": "^7.0.0"
 	},
 	"devDependencies": {
