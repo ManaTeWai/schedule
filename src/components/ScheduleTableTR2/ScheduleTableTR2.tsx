@@ -98,7 +98,7 @@ const getLessonTime = (lessonNumber: string, day: string) => {
 		"1": { weekday: "08:30-10:05", weekend: "08:30-10:05" },
 		"2": { weekday: "10:15-11:50", weekend: "10:15-11:50" },
 		"3": { weekday: "12:25-14:00", weekend: "12:00-13:35" },
-		"4": { weekday: "14:35-16:10", weekend: "14:10-14:55" },
+		"4": { weekday: "14:35-16:10", weekend: "14:10-15:45" },
 		"5": { weekday: "16:20-17:55", weekend: "15:55-17:30" },
 		"6": { weekday: "18:05-19:40", weekend: "17:40-19:15" },
 		"7": { weekday: "19:50-21:25", weekend: "19:25-21:00" },

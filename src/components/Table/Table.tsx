@@ -51,7 +51,7 @@ export const Table_comp = (): JSX.Element => {
 							<TableCell width={1}>4</TableCell>
 							<TableCell>пара</TableCell>
 							<TableCell>14:35-16:10</TableCell>
-							<TableCell align="right">14:10-14:55</TableCell>
+							<TableCell align="right">14:10-15:45</TableCell>
 						</TableRow>
 						<TableRow>
 							<TableCell width={1}>5</TableCell>
