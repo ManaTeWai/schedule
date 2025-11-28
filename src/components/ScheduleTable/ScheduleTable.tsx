@@ -44,32 +44,37 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 
 	switch (lessonType) {
 		case "Лекционное занятие":
-			return "lecture";
 		case "Лек":
+		case "Лекционное занятие б":
+		case "Лекционное занятие у":
+		case "Лекционное занятие у у":
+		case "Лекционное занятие б у":
 			return "lecture";
 		case "Практическое занятие":
-			return "practice";
+		case "Практическое занятие б":
+		case "Практическое занятие у":
+		case "Практическое занятие у у":
+		case "Практическое занятие б у":
 		case "ПрЗ":
 			return "practice";
 		case "Физическая культура":
 			return "physical";
 		case "Лабораторное занятие":
-			return "lab";
 		case "Лаб":
 			return "lab";
 		case "КонсЭкз":
-			return "exam";
 		case "Экз у":
-			return "exam";
 		case "КонсИтогЭкз":
-			return "exam";
 		case "Экз квал":
+		case "Консультация перед экзаменом":
+		case "Экзамен устно":
 			return "exam";
 		case "Курс":
 			return "course";
+		case "Зачет":
 		case "ДЗач":
-			return "pass";
 		case "Зач":
+		case "Зачет с оценкой":
 			return "pass";
 		default:
 			return "default";

@@ -4,9 +4,7 @@ import type { JSX } from "react";
 import styles from "./Select_comp.module.css";
 import Link from "next/link";
 import { ToggleButton, ToggleButtonGroup, Box, Button } from "@mui/material";
-import cn from "classnames";
 import { useState, useEffect } from "react";
-import { Htag } from "@/components";
 import { usePathname } from "next/navigation";
 import HouseOutlinedIcon from "@mui/icons-material/HouseOutlined";
 
@@ -32,49 +30,45 @@ export const Select_comp = (): JSX.Element => {
 
 	return (
 		<div className={styles.top}>
-			<div className={cn(styles.btns, "mb")}>
-				<Htag tag="h2">Расписание</Htag>
-				<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
-					<Link href="/groups">
-						<ToggleButton
-							value="groups"
-							aria-label="По группам"
-							sx={{
+			<ToggleButtonGroup className="mb" value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
+				<Link href="/groups">
+					<ToggleButton
+						value="groups"
+						aria-label="По группам"
+						sx={{
+							borderRight: "1px solid var(--text-color)",
+							"&[aria-pressed='true'], &[aria-selected='true']": {
+								backgroundColor: "rgba(0, 0, 0, 0.16)",
+								color: "var(--text-color)",
 								borderRight: "1px solid var(--text-color)",
-								"&[aria-pressed='true'], &[aria-selected='true']": {
-									backgroundColor: "rgba(0, 0, 0, 0.16)",
-									color: "var(--text-color)",
-									borderRight: "1px solid var(--text-color)",
-								},
-								"&:hover": {
-									backgroundColor: "rgba(0, 0, 0, 0.1)",
-								},
-							}}
-						>
-							ПО ГРУППАМ
-						</ToggleButton>
-					</Link>
-
-					<Link href="/teachers">
-						<ToggleButton
-							value="teachers"
-							aria-label="По преподавателям"
-							sx={{
-								borderLeft: "1px solid var(--text-color)",
-								"&[aria-pressed='true'], &[aria-selected='true']": {
-									backgroundColor: "rgba(0, 0, 0, 0.16)",
-									color: "var(--text-color)",
-								},
-								"&:hover": {
-									backgroundColor: "rgba(0, 0, 0, 0.1)",
-								},
-							}}
-						>
-							ПО ПРЕПОДАВАТЕЛЯМ
-						</ToggleButton>
-					</Link>
-				</ToggleButtonGroup>
-			</div>
+							},
+							"&:hover": {
+								backgroundColor: "rgba(0, 0, 0, 0.1)",
+							},
+						}}
+					>
+						ПО ГРУППАМ
+					</ToggleButton>
+				</Link>
+				<Link href="/teachers">
+					<ToggleButton
+						value="teachers"
+						aria-label="По преподавателям"
+						sx={{
+							borderLeft: "1px solid var(--text-color)",
+							"&[aria-pressed='true'], &[aria-selected='true']": {
+								backgroundColor: "rgba(0, 0, 0, 0.16)",
+								color: "var(--text-color)",
+							},
+							"&:hover": {
+								backgroundColor: "rgba(0, 0, 0, 0.1)",
+							},
+						}}
+					>
+						ПО ПРЕПОДАВАТЕЛЯМ
+					</ToggleButton>
+				</Link>
+			</ToggleButtonGroup>
 			{pathname !== "/" && (
 				<Box className={"mb"} sx={{ minWidth: 120 }}>
 					<Link href="/">
