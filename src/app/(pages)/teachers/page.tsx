@@ -1,12 +1,12 @@
 "use client";
 
-import { Select_comp, ScheduleTableTR2 } from "@/components";
-import { Autocomplete, TextField, CircularProgress, Box, Typography, Paper } from "@mui/material";
-import styles from "@/app/page.module.css";
-import localData from "@/data/parsed_data_tr2.json";
+import { Autocomplete, TextField, CircularProgress, Box, Paper } from "@mui/material";
 import { useState, useEffect, useRef } from "react";
+import styles from "@/app/page.module.css";
+import { Select_comp, ScheduleTableTR2, Htag } from "@/components";
 import { ClassSchedule } from "@/types";
 import { prepareOptionsTR2 } from "@/utils/prepareOptions";
+import localData from "@/data/parsed_data_tr2.json";
 
 interface RawItem {
 	level: number;
@@ -88,18 +88,18 @@ export default function Teachers() {
 			/>
 			{selected && (
 				<Box sx={{ width: "100%" }}>
-					<Typography variant="h5" gutterBottom>
+					<Htag tag="h2">
 						Расписание преподавателя: {selected.name}
-					</Typography>
+					</Htag>
 					<ScheduleTableTR2 teacherUrl={selected?.url} />
 				</Box>
 			)}
 
 			{!selected && (
 				<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
-					<Typography variant="h6" color="textSecondary">
+					<Htag tag="h2">
 						Выберите преподавателя для отображения расписания
-					</Typography>
+					</Htag>
 				</Paper>
 			)}
 

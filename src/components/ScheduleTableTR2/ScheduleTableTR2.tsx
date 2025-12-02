@@ -141,9 +141,10 @@ export const ScheduleTableTR2 = ({ teacherUrl }: ScheduleTableProps) => {
 	if (!activeSchedule || activeSchedule.length === 0) {
 		return (
 			<Paper sx={{ p: 3, textAlign: "center", mt: 2 }}>
-				<Htag tag="h3" color="textSecondary">
+				<Htag tag="h2" className="mb">
 					Расписание не найдено
 				</Htag>
+				<P size="small">Status: POD_042_OFFLINE.</P>
 			</Paper>
 		);
 	}

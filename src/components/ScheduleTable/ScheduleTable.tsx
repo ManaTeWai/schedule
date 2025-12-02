@@ -70,6 +70,7 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 		case "Экзамен устно":
 			return "exam";
 		case "Курс":
+		case "Курсовая работа":
 			return "course";
 		case "Зачет":
 		case "ДЗач":
@@ -188,9 +189,10 @@ export const ScheduleTable = ({ schedule }: ScheduleTableProps) => {
 	if (!schedule || schedule.length === 0) {
 		return (
 			<Paper sx={{ p: 3, textAlign: "center", mt: 2 }}>
-				<Htag tag="h3" color="textSecondary">
+				<Htag tag="h2" className="mb">
 					Расписание не найдено
 				</Htag>
+				<P size="small">Status: POD_153_OFFLINE.</P>
 			</Paper>
 		);
 	}

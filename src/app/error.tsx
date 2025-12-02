@@ -12,7 +12,7 @@ export default function GlobalError({ reset }: { error: Error & { digest?: strin
 				<Htag tag="h1" className="mb">
 					500 - Ошибка сервера
 				</Htag>
-				<P className="mb">Что-то пошло не так. Пожалуйста, попробуйте позже. The End of YoRHa.</P>
+				<P size="small" className="mb">Что-то пошло не так. Пожалуйста, попробуйте позже. The End of YoRHa.</P>
 				<Button
 					onClick={() => reset()}
 					variant="outlined"

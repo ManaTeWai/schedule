@@ -1,9 +1,9 @@
 "use client";
 
-import { Autocomplete, TextField, CircularProgress, Box, Typography, Paper } from "@mui/material";
+import { Autocomplete, TextField, CircularProgress, Box, Paper } from "@mui/material";
 import { useState, useEffect, useRef } from "react";
 import styles from "@/app/page.module.css";
-import { Select_comp, ScheduleTable } from "@/components";
+import { Select_comp, ScheduleTable, Htag } from "@/components";
 import { Group, ClassSchedule } from "@/types";
 import { prepareOptions } from "@/utils/prepareOptions";
 import localData from "@/data/parsed_data_tr1.json";
@@ -111,18 +111,18 @@ export default function Groups() {
 
 			{selected && (
 				<Box sx={{ width: "100%" }}>
-					<Typography variant="h5" gutterBottom>
+					<Htag tag="h2">
 						Расписание группы: {selected.name}
-					</Typography>
+					</Htag>
 					<ScheduleTable schedule={selected.schedule} />
 				</Box>
 			)}
 
 			{!selected && (
 				<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
-					<Typography variant="h6" color="textSecondary">
+					<Htag tag="h2">
 						Выберите группу для отображения расписания
-					</Typography>
+					</Htag>
 				</Paper>
 			)}
 			{/* Невидимый input для скрытия клавиатуры */}
