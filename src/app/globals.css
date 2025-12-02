@@ -95,6 +95,10 @@ a {
 	color: var(--text-color);
 }
 
+hr {
+	margin: 0;
+}
+
 .mb {
 	margin-bottom: 25px !important;
 }
