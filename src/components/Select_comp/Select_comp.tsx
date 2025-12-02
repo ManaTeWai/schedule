@@ -30,7 +30,7 @@ export const Select_comp = (): JSX.Element => {
 
 	return (
 		<div className={styles.top}>
-			<ToggleButtonGroup className="mb" value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
+			<ToggleButtonGroup value={scheduleType} exclusive onChange={handleChange} aria-label="Тип расписания">
 				<Link href="/groups">
 					<ToggleButton
 						value="groups"
@@ -70,9 +70,10 @@ export const Select_comp = (): JSX.Element => {
 				</Link>
 			</ToggleButtonGroup>
 			{pathname !== "/" && (
-				<Box className={"mb"} sx={{ minWidth: 120 }}>
+				<Box className={styles.home_button_box}>
 					<Link href="/">
 						<Button
+							className={styles.home_button}
 							variant="outlined"
 							startIcon={<HouseOutlinedIcon fontSize="small" />}
 							sx={{
@@ -85,7 +86,7 @@ export const Select_comp = (): JSX.Element => {
 								},
 							}}
 						>
-							Вернуться на главную
+							<span className={styles.home_button_text}>Вернуться на главную</span>
 						</Button>
 					</Link>
 				</Box>
