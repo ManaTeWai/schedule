@@ -91,7 +91,7 @@ export default function Teachers() {
 					<Htag tag="h2">
 						Расписание преподавателя: {selected.name}
 					</Htag>
-					<ScheduleTableTR2 teacherUrl={selected?.url} />
+					<ScheduleTableTR2 key={selected.url} teacherUrl={selected?.url} />
 				</Box>
 			)}
 
