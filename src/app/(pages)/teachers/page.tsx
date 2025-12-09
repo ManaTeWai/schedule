@@ -88,18 +88,14 @@ export default function Teachers() {
 			/>
 			{selected && (
 				<Box sx={{ width: "100%" }}>
-					<Htag tag="h2">
-						Расписание преподавателя: {selected.name}
-					</Htag>
+					<Htag tag="h2">Расписание преподавателя: {selected.name}</Htag>
 					<ScheduleTableTR2 key={selected.url} teacherUrl={selected?.url} />
 				</Box>
 			)}
 
 			{!selected && (
 				<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
-					<Htag tag="h2">
-						Выберите преподавателя для отображения расписания
-					</Htag>
+					<Htag tag="h2">Выберите преподавателя для отображения расписания</Htag>
 				</Paper>
 			)}
 

@@ -80,7 +80,6 @@ export default function Groups() {
 	return (
 		<main className={styles.main}>
 			<Select_comp />
-
 			<Autocomplete
 				options={options}
 				getOptionLabel={(option) => option.name}
@@ -108,19 +107,15 @@ export default function Groups() {
 				)}
 				sx={{ width: { xs: "100%", sm: 500 } }}
 			/>
-
-		{selected && (
-			<Box sx={{ width: "100%" }}>
-				<Htag tag="h2">
-					Расписание группы: {selected.name}
-				</Htag>
-				<ScheduleTable key={selected.id} schedule={selected.schedule} />
-			</Box>
-		)}			{!selected && (
+			{selected && (
+				<Box sx={{ width: "100%" }}>
+					<Htag tag="h2">Расписание группы: {selected.name}</Htag>
+					<ScheduleTable key={selected.id} schedule={selected.schedule} />
+				</Box>
+			)}{" "}
+			{!selected && (
 				<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
-					<Htag tag="h2">
-						Выберите группу для отображения расписания
-					</Htag>
+					<Htag tag="h2">Выберите группу для отображения расписания</Htag>
 				</Paper>
 			)}
 			{/* Невидимый input для скрытия клавиатуры */}
