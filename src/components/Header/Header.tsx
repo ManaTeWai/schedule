@@ -92,7 +92,7 @@ export const Header = (): JSX.Element => {
 						</button>
 					</MenuItem>
 					<Divider />
-					<Link href="/" onClick={CloseMenu}>
+					<Link href="https://rasp.bukep.ru/Default.aspx?idFil=10006" onClick={CloseMenu}>
 						<MenuItem>
 							<ListItemIcon>
 								<CalendarMonthOutlinedIcon
