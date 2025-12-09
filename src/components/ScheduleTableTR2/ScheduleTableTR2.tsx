@@ -138,17 +138,6 @@ export const ScheduleTableTR2 = ({ teacherUrl }: ScheduleTableProps) => {
 
 	const activeSchedule = selectedWeek === "current" ? currentWeek : nextWeek;
 
-	if (!activeSchedule || activeSchedule.length === 0) {
-		return (
-			<Paper sx={{ p: 3, textAlign: "center", mt: 2 }}>
-				<Htag tag="h2" className="mb">
-					Расписание не найдено
-				</Htag>
-				<P size="small">Status: POD_042_OFFLINE.</P>
-			</Paper>
-		);
-	}
-
 	// группировка по дням
 	const groupedByDay = activeSchedule.reduce((acc, classItem) => {
 		if (!acc[classItem.day]) acc[classItem.day] = [];
@@ -173,100 +162,113 @@ export const ScheduleTableTR2 = ({ teacherUrl }: ScheduleTableProps) => {
 				<Tab value="next" label="Следующая неделя" />
 			</Tabs>
 
-			{sortedDays.map((day) => (
-				<Paper key={day} sx={{ mb: 3, overflow: "hidden" }}>
-					<Box sx={{ p: 2, bgcolor: "var(--gray)", borderBottom: "1px solid var(--text-color)", borderColor: "divider" }}>
-						<Htag tag="h2">{day}</Htag>
-					</Box>
-					<TableContainer className={styles.table}>
-						<Table sx={!isMobile ? { tableLayout: "fixed" } : {}}>
-							{isMobile ? (
-								<TableHead sx={{ bgcolor: "var(--gray)" }}>
-									<TableRow>
-										<TableCell sx={{ width: "20%", textAlign: "center" }}>
-											<P size="medium">Время</P>
-										</TableCell>
-										<TableCell sx={{ width: "50%" }}>
-											<P size="medium">Дисциплина</P>
-											<P size="medium">Группа(ы)</P>
-											<P size="medium">Аудитория</P>
-										</TableCell>
-										<TableCell sx={{ width: "30%", textAlign: "center" }}>
-											<P>Тип занятия</P>
-										</TableCell>
-									</TableRow>
-								</TableHead>
-							) : (
-								<TableHead sx={{ bgcolor: "var(--gray)" }}>
-									<TableRow>
-										<TableCell sx={{ width: "10%", textAlign: "center" }}>
-											<P size="medium">Время</P>
-										</TableCell>
-										<TableCell sx={{ width: "45%" }}>
-											<P size="medium">Дисциплина</P>
-										</TableCell>
-										<TableCell sx={{ width: "15%" }}>
-											<P size="medium">Группа(ы)</P>
-										</TableCell>
-										<TableCell sx={{ width: "15%", textAlign: "center" }}>
-											<P size="medium">Аудитория</P>
-										</TableCell>
-										<TableCell sx={{ width: "15%", textAlign: "center" }}>
-											<P size="medium">Тип занятия</P>
-										</TableCell>
-									</TableRow>
-								</TableHead>
-							)}
-							<TableBody>
-								{groupedByDay[day].map((classItem, idx) => {
-									const fullTime = getLessonTime(classItem.lessonTime, classItem.day);
-									return (
-										<TableRow key={idx}>
-											{isMobile ? (
-												<>
-													<TableCell component="th" scope="row" sx={{ width: "20%", textAlign: "center" }}>
-														<P size="medium" html={classItem.lessonTime} />
-														<P size="small">{fullTime}</P>
-													</TableCell>
-
-													<TableCell sx={{ width: "50%" }}>
-														<P size="large">{classItem.subject}</P>
-														<P size="medium">{getGroupsText(classItem)}</P>
-														<P size="medium">{classItem.room}</P>
-													</TableCell>
-
-													<TableCell sx={{ width: "30%", textAlign: "center" }}>
-														<Chip label={getTypeLabel(classItem.lessonType)} color={getTypeColor(classItem.lessonType)} size="medium" variant="outlined" />
-													</TableCell>
-												</>
-											) : (
-												<>
-													<TableCell sx={{ textAlign: "center" }}>
-														<P size="medium" html={classItem.lessonTime} />
-														<P size="small">{fullTime}</P>
-													</TableCell>
-													<TableCell>
-														<P size="large">{classItem.subject}</P>
-													</TableCell>
-													<TableCell>
-														<P size="medium">{getGroupsText(classItem)}</P>
-													</TableCell>
-													<TableCell sx={{ textAlign: "center" }}>
-														<P size="medium">{classItem.room}</P>
-													</TableCell>
-													<TableCell sx={{ textAlign: "center" }}>
-														<Chip label={getTypeLabel(classItem.lessonType)} color={getTypeColor(classItem.lessonType)} size="medium" variant="outlined" />
-													</TableCell>
-												</>
-											)}
-										</TableRow>
-									);
-								})}
-							</TableBody>
-						</Table>
-					</TableContainer>
+			{!activeSchedule || activeSchedule.length === 0 ? (
+				<Paper sx={{ p: 3, textAlign: "center", mt: 2 }}>
+					<Htag tag="h2" className="mb">
+						{selectedWeek === "current" 
+							? "На текущую неделю пары отсутствуют" 
+							: "На следующую неделю пары отсутствуют"}
+					</Htag>
+					<P size="small">Status: POD_042_OFFLINE.</P>
 				</Paper>
-			))}
+			) : (
+				<>
+					{sortedDays.map((day) => (
+						<Paper key={day} sx={{ mb: 3, overflow: "hidden" }}>
+							<Box sx={{ p: 2, bgcolor: "var(--gray)", borderBottom: "1px solid var(--text-color)", borderColor: "divider" }}>
+								<Htag tag="h2">{day}</Htag>
+							</Box>
+							<TableContainer className={styles.table}>
+								<Table sx={!isMobile ? { tableLayout: "fixed" } : {}}>
+									{isMobile ? (
+										<TableHead sx={{ bgcolor: "var(--gray)" }}>
+											<TableRow>
+												<TableCell sx={{ width: "20%", textAlign: "center" }}>
+													<P size="medium">Время</P>
+												</TableCell>
+												<TableCell sx={{ width: "50%" }}>
+													<P size="medium">Дисциплина</P>
+													<P size="medium">Группа(ы)</P>
+													<P size="medium">Аудитория</P>
+												</TableCell>
+												<TableCell sx={{ width: "30%", textAlign: "center" }}>
+													<P>Тип занятия</P>
+												</TableCell>
+											</TableRow>
+										</TableHead>
+									) : (
+										<TableHead sx={{ bgcolor: "var(--gray)" }}>
+											<TableRow>
+												<TableCell sx={{ width: "10%", textAlign: "center" }}>
+													<P size="medium">Время</P>
+												</TableCell>
+												<TableCell sx={{ width: "45%" }}>
+													<P size="medium">Дисциплина</P>
+												</TableCell>
+												<TableCell sx={{ width: "15%" }}>
+													<P size="medium">Группа(ы)</P>
+												</TableCell>
+												<TableCell sx={{ width: "15%", textAlign: "center" }}>
+													<P size="medium">Аудитория</P>
+												</TableCell>
+												<TableCell sx={{ width: "15%", textAlign: "center" }}>
+													<P size="medium">Тип занятия</P>
+												</TableCell>
+											</TableRow>
+										</TableHead>
+									)}
+									<TableBody>
+										{groupedByDay[day].map((classItem, idx) => {
+											const fullTime = getLessonTime(classItem.lessonTime, classItem.day);
+											return (
+												<TableRow key={idx}>
+													{isMobile ? (
+														<>
+															<TableCell component="th" scope="row" sx={{ width: "20%", textAlign: "center" }}>
+																<P size="medium" html={classItem.lessonTime} />
+																<P size="small">{fullTime}</P>
+															</TableCell>
+
+															<TableCell sx={{ width: "50%" }}>
+																<P size="large">{classItem.subject}</P>
+																<P size="medium">{getGroupsText(classItem)}</P>
+																<P size="medium">{classItem.room}</P>
+															</TableCell>
+
+															<TableCell sx={{ width: "30%", textAlign: "center" }}>
+																<Chip label={getTypeLabel(classItem.lessonType)} color={getTypeColor(classItem.lessonType)} size="medium" variant="outlined" />
+															</TableCell>
+														</>
+													) : (
+														<>
+															<TableCell sx={{ textAlign: "center" }}>
+																<P size="medium" html={classItem.lessonTime} />
+																<P size="small">{fullTime}</P>
+															</TableCell>
+															<TableCell>
+																<P size="large">{classItem.subject}</P>
+															</TableCell>
+															<TableCell>
+																<P size="medium">{getGroupsText(classItem)}</P>
+															</TableCell>
+															<TableCell sx={{ textAlign: "center" }}>
+																<P size="medium">{classItem.room}</P>
+															</TableCell>
+															<TableCell sx={{ textAlign: "center" }}>
+																<Chip label={getTypeLabel(classItem.lessonType)} color={getTypeColor(classItem.lessonType)} size="medium" variant="outlined" />
+															</TableCell>
+														</>
+													)}
+												</TableRow>
+											);
+										})}
+									</TableBody>
+								</Table>
+							</TableContainer>
+						</Paper>
+					))}
+				</>
+			)}
 		</Box>
 	);
 };

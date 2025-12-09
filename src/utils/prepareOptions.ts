@@ -86,13 +86,13 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 	// Определим элементы-преподаватели по наличию schedule (более надёжно чем жёсткий номер уровня)
 	const teacherItems = items.filter((it) => Boolean((it as unknown as Record<string, unknown>).schedule));
 	// Вычислим уровень преподавателя (если он присутствует в данных)
-	const teacherLevel = teacherItems.length > 0 ? teacherItems[0].level : 2;
+	const teacherLevel = teacherItems.length > 0 ? teacherItems[0].level : 1;
 
 	// карта нормализованного landedUrl -> элемент для возможных кафедр/родительских узлов
-	// Берём элементы с уровнем меньше уровня преподавателя (fallback — level === 1)
+	// Берём элементы с уровнем меньше уровня преподавателя (fallback — level === 0)
 	const deptMap = new Map<string, RawItem>();
 	items
-		.filter((it) => (typeof it.level === "number" ? it.level < teacherLevel : it.level === 1))
+		.filter((it) => (typeof it.level === "number" ? it.level < teacherLevel : it.level === 0))
 		.forEach((it) => deptMap.set(normalize(it.landedUrl), it));
 
 	const result: Option[] = [];
@@ -113,22 +113,25 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 	const teacherTitleRe = /\b(проф\.|доц\.|преп\.|ст\. преп\.|мастер пр\.об\.|ассистент)\b/i;
 
 	// Берём элементы, у которых есть schedule (преподаватели) и для каждого добавляем parent.clickedText если есть
-	items
-		.filter((i) => Boolean((i as unknown as Record<string, unknown>).schedule))
-		.forEach((t) => {
-			const target = normalize(t.from);
+	// ПЛЮС элементы с level === 1 и title преподавателя (даже без расписания)
+	const teachersWithSchedule = items.filter((i) => Boolean((i as unknown as Record<string, unknown>).schedule));
+	const teachersWithoutSchedule = items.filter((i) => i.level === 1 && teacherTitleRe.test(i.clickedText) && !Boolean((i as unknown as Record<string, unknown>).schedule));
+	const allTeachers = [...teachersWithSchedule, ...teachersWithoutSchedule];
+	
+	allTeachers.forEach((t) => {
+		const target = normalize(t.from);
 			// сначала пробуем точное совпадение среди кафедр
 			let parent = deptMap.get(target);
 			if (!parent) {
 				// попытаемся найти по параметру k в from или в landedUrl (если присутствует)
 				const kFrom = tryGetK(t.from) || tryGetK(t.landedUrl);
 				if (kFrom) {
-					parent = items.find((it) => it.level === 1 && String(it.landedUrl).includes("k=" + kFrom));
+					parent = items.find((it) => it.level < teacherLevel && String(it.landedUrl).includes("k=" + kFrom));
 				}
 
-				// резервный поиск по включению — только среди кафедр
+				// резервный поиск по включению — среди элементов меньшего уровня
 				if (!parent) {
-					parent = items.find((it) => it.level === 1 && (target.includes(normalize(it.landedUrl)) || normalize(it.landedUrl).includes(target)));
+					parent = items.find((it) => it.level < teacherLevel && (target.includes(normalize(it.landedUrl)) || normalize(it.landedUrl).includes(target)));
 				}
 			}
 
