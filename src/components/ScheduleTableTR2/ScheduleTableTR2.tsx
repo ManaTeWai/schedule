@@ -165,9 +165,7 @@ export const ScheduleTableTR2 = ({ teacherUrl }: ScheduleTableProps) => {
 			{!activeSchedule || activeSchedule.length === 0 ? (
 				<Paper sx={{ p: 3, textAlign: "center", mt: 2 }}>
 					<Htag tag="h2" className="mb">
-						{selectedWeek === "current" 
-							? "На текущую неделю пары отсутствуют" 
-							: "На следующую неделю пары отсутствуют"}
+						{selectedWeek === "current" ? "На текущую неделю пары отсутствуют" : "На следующую неделю пары отсутствуют"}
 					</Htag>
 					<P size="small">Status: POD_042_OFFLINE.</P>
 				</Paper>

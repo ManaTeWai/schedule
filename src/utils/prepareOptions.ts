@@ -91,9 +91,7 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 	// карта нормализованного landedUrl -> элемент для возможных кафедр/родительских узлов
 	// Берём элементы с уровнем меньше уровня преподавателя (fallback — level === 0)
 	const deptMap = new Map<string, RawItem>();
-	items
-		.filter((it) => (typeof it.level === "number" ? it.level < teacherLevel : it.level === 0))
-		.forEach((it) => deptMap.set(normalize(it.landedUrl), it));
+	items.filter((it) => (typeof it.level === "number" ? it.level < teacherLevel : it.level === 0)).forEach((it) => deptMap.set(normalize(it.landedUrl), it));
 
 	const result: Option[] = [];
 
@@ -117,32 +115,32 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 	const teachersWithSchedule = items.filter((i) => Boolean((i as unknown as Record<string, unknown>).schedule));
 	const teachersWithoutSchedule = items.filter((i) => i.level === 1 && teacherTitleRe.test(i.clickedText) && !Boolean((i as unknown as Record<string, unknown>).schedule));
 	const allTeachers = [...teachersWithSchedule, ...teachersWithoutSchedule];
-	
+
 	allTeachers.forEach((t) => {
 		const target = normalize(t.from);
-			// сначала пробуем точное совпадение среди кафедр
-			let parent = deptMap.get(target);
+		// сначала пробуем точное совпадение среди кафедр
+		let parent = deptMap.get(target);
+		if (!parent) {
+			// попытаемся найти по параметру k в from или в landedUrl (если присутствует)
+			const kFrom = tryGetK(t.from) || tryGetK(t.landedUrl);
+			if (kFrom) {
+				parent = items.find((it) => it.level < teacherLevel && String(it.landedUrl).includes("k=" + kFrom));
+			}
+
+			// резервный поиск по включению — среди элементов меньшего уровня
 			if (!parent) {
-				// попытаемся найти по параметру k в from или в landedUrl (если присутствует)
-				const kFrom = tryGetK(t.from) || tryGetK(t.landedUrl);
-				if (kFrom) {
-					parent = items.find((it) => it.level < teacherLevel && String(it.landedUrl).includes("k=" + kFrom));
-				}
-
-				// резервный поиск по включению — среди элементов меньшего уровня
-				if (!parent) {
-					parent = items.find((it) => it.level < teacherLevel && (target.includes(normalize(it.landedUrl)) || normalize(it.landedUrl).includes(target)));
-				}
+				parent = items.find((it) => it.level < teacherLevel && (target.includes(normalize(it.landedUrl)) || normalize(it.landedUrl).includes(target)));
 			}
+		}
 
-			// защитный фильтр: если parent выглядит как преподаватель по title, отбросим
-			if (parent && teacherTitleRe.test(parent.clickedText)) {
-				parent = undefined as unknown as RawItem;
-			}
+		// защитный фильтр: если parent выглядит как преподаватель по title, отбросим
+		if (parent && teacherTitleRe.test(parent.clickedText)) {
+			parent = undefined as unknown as RawItem;
+		}
 
-			const nameParts = [t.clickedText, parent?.clickedText].filter(Boolean);
-			result.push({ name: nameParts.join(", кафедра "), url: t.landedUrl });
-		});
+		const nameParts = [t.clickedText, parent?.clickedText].filter(Boolean);
+		result.push({ name: nameParts.join(", кафедра "), url: t.landedUrl });
+	});
 
 	return result;
 };
