@@ -1,117 +1,13 @@
-"use client";
-
-import { Autocomplete, TextField, CircularProgress, Box, Paper } from "@mui/material";
-import { useState, useEffect, useRef } from "react";
-import styles from "@/app/page.module.css";
-import { Select_comp, ScheduleTableTR2, Htag } from "@/components";
-import { ClassSchedule } from "@/types";
-import { prepareOptionsTR2 } from "@/utils/prepareOptions";
-import localData from "@/data/parsed_data_tr2.json";
-
-interface RawItem {
-	level: number;
-	clickedText: string;
-	landedUrl: string;
-	from: string;
-	schedule?: {
-		hasSchedule: boolean;
-		message?: string;
-		lessons?: ClassSchedule[];
-	};
-}
-
-interface Option {
-	name: string;
-	url: string;
-}
+import { Htag } from "@/components";
+import { Paper } from "@mui/material";
+import styles from "./page.module.css";
 
 export default function Teachers() {
-	const [options, setOptions] = useState<Option[]>([]);
-	const [selected, setSelected] = useState<Option | null>(null);
-	const [loading, setLoading] = useState<boolean>(true);
-
-	useEffect(() => {
-		const raw = localData as RawItem[];
-		const prepared = prepareOptionsTR2(raw);
-		setOptions(prepared);
-		setLoading(false);
-	}, []);
-
-	const hiddenInputRef = useRef<HTMLInputElement>(null);
-
-	// eslint-disable-next-line @typescript-eslint/no-explicit-any
-	const handleChange1 = (_: any, value: Option | null) => {
-		if (!value) {
-			setSelected(null);
-			return;
-		}
-
-		setTimeout(() => {
-			hiddenInputRef.current?.focus();
-			hiddenInputRef.current?.blur();
-		}, 0);
-
-		setSelected(value);
-		// Найдём в исходных данных расписание по landedUrl — ScheduleTableTR2 будет использовать url
-		// (we keep the selected.url in state via `selected`)
-		console.log("Выбран преподаватель:", value.name);
-	};
 	return (
 		<main className={styles.main}>
-			<Select_comp />
-			<Autocomplete
-				options={options}
-				getOptionLabel={(option) => option.name}
-				value={selected}
-				onChange={handleChange1}
-				className={"mb"}
-				loading={loading}
-				loadingText="Загрузка..."
-				noOptionsText="Вариантов нет"
-				renderInput={(params) => (
-					<TextField
-						{...params}
-						label="Выберите преподавателя"
-						variant="outlined"
-						InputProps={{
-							...params.InputProps,
-							endAdornment: (
-								<>
-									{loading ? <CircularProgress color="inherit" size={20} /> : null}
-									{params.InputProps.endAdornment}
-								</>
-							),
-						}}
-					/>
-				)}
-				sx={{ width: { xs: "100%", sm: 500 } }}
-			/>
-			{selected && (
-				<Box sx={{ width: "100%" }}>
-					<Htag tag="h2">Расписание преподавателя: {selected.name}</Htag>
-					<ScheduleTableTR2 key={selected.url} teacherUrl={selected?.url} />
-				</Box>
-			)}
-
-			{!selected && (
-				<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
-					<Htag tag="h2">Выберите преподавателя для отображения расписания</Htag>
-				</Paper>
-			)}
-
-			{/* Невидимый input для скрытия клавиатуры */}
-			<input
-				ref={hiddenInputRef}
-				style={{
-					position: "absolute",
-					top: "-10000px",
-					left: "-10000px",
-					opacity: 0,
-					pointerEvents: "none",
-					height: 0,
-					width: 0,
-				}}
-			/>
+			<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
+				<Htag tag="h2">Выберите преподавателя для отоброжения расписания.</Htag>
+			</Paper>
 		</main>
 	);
 }

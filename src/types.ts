@@ -11,7 +11,9 @@ export interface ClassSchedule {
 
 export interface Group {
 	id: string;
-	name: string;
+	name: string; // short name (clickedText)
+	fullName?: string; // optional full display name (e.g. "Группа, Курс, Направление, Факультет")
+	url?: string; // optional original URL/landedUrl for teacher pages
 	schedule: ClassSchedule[];
 }
 

@@ -8,7 +8,17 @@ interface RawItem {
 interface Option {
 	name: string;
 	url: string;
+	id: string; // optional id (clickedText / original identifier)
 }
+
+export function makeSafeId(str: string): string {
+  return str
+    .trim() // Убираем пробелы по краям
+    .toLowerCase() // Приводим к нижнему регистру для консистентности
+    .replace(/[^a-z0-9а-яё]/gi, '_') // Заменяем всё, кроме букв/цифр, на _
+    ; 
+}
+
 
 export const prepareOptions = (items: RawItem[]): Option[] => {
 	// Нормализуем URL: удаляем параметр k и лишние завершающие слеши, декодируем
@@ -60,6 +70,7 @@ export const prepareOptions = (items: RawItem[]): Option[] => {
 			result.push({
 				name: nameParts.join(", "),
 				url: group.landedUrl,
+				id: makeSafeId(group.clickedText),
 			});
 		});
 
@@ -139,7 +150,7 @@ export const prepareOptionsTR2 = (items: RawItem[]): Option[] => {
 		}
 
 		const nameParts = [t.clickedText, parent?.clickedText].filter(Boolean);
-		result.push({ name: nameParts.join(", кафедра "), url: t.landedUrl });
+		result.push({ name: nameParts.join(", кафедра "), url: t.landedUrl, id: t.clickedText });
 	});
 
 	return result;
