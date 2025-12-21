@@ -23,6 +23,7 @@
 		"react-simple-keyboard": "^3.8.139",
 		"simple-keyboard": "^3.8.92",
 		"simple-keyboard-layouts": "^3.4.145",
+		"slugify": "^1.6.6",
 		"stylelint-order": "^7.0.0"
 	},
 	"devDependencies": {

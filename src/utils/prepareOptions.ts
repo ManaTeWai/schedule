@@ -1,3 +1,5 @@
+import slugify from "slugify";
+
 interface RawItem {
 	level: number;
 	clickedText: string;
@@ -12,13 +14,12 @@ interface Option {
 }
 
 export function makeSafeId(str: string): string {
-  return str
-    .trim() // Убираем пробелы по краям
-    .toLowerCase() // Приводим к нижнему регистру для консистентности
-    .replace(/[^a-z0-9а-яё]/gi, '_') // Заменяем всё, кроме букв/цифр, на _
-    ; 
+  return slugify(str, {
+    lower: true,
+    strict: true,   // убирает всё, кроме [a-z0-9-]
+    locale: "ru",   // корректная транслитерация кириллицы
+  });
 }
-
 
 export const prepareOptions = (items: RawItem[]): Option[] => {
 	// Нормализуем URL: удаляем параметр k и лишние завершающие слеши, декодируем
