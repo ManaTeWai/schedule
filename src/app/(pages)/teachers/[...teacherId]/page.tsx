@@ -192,12 +192,12 @@ export default function GroupPage() {
 
 	if (error) {
 		return (
-			<div className={styles.main}>
+			<>
 				<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
 					<Htag tag="h2">{error}</Htag>
 					<P>Убедитесь, что вы перешли по корректной ссылке.</P>
 				</Paper>
-			</div>
+			</>
 		);
 	}
 
