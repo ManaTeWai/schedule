@@ -41,7 +41,6 @@ const getWeeksBetweenDates = (startDate: Date, endDate: Date): number => {
 
 const mapLessonTypeToKey = (lessonType?: string): string => {
 	if (!lessonType) return "default";
-
 	switch (lessonType) {
 		case "Лекционное занятие":
 		case "Лек":
@@ -62,13 +61,14 @@ const mapLessonTypeToKey = (lessonType?: string): string => {
 		case "Лабораторное занятие":
 		case "Лаб":
 			return "lab";
-		case "КонсЭкз":
 		case "Экз у":
 		case "КонсИтогЭкз":
 		case "Экз квал":
-		case "Консультация перед экзаменом":
 		case "Экзамен устно":
 			return "exam";
+		case "КонсЭкз":
+		case "Консультация перед экзаменом":
+			return "cons";
 		case "Курс":
 		case "Курсовая работа":
 			return "course";
@@ -90,13 +90,11 @@ const getTypeColor = (lessonType?: string) => {
 		case "practice":
 			return "secondary";
 		case "physical":
-			return "success";
 		case "lab":
 			return "success";
 		case "exam":
-			return "warning";
+		case "cons":
 		case "pass":
-			return "warning";
 		case "course":
 			return "warning";
 		default:
@@ -117,6 +115,8 @@ const getTypeLabel = (lessonType?: string) => {
 			return "Лаб. работа";
 		case "exam":
 			return "Экзамен";
+		case "cons":
+			return "Конс";
 		case "pass":
 			return "Зачет";
 		case "course":
