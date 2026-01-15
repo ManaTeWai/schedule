@@ -6,7 +6,7 @@ export default function Teachers() {
 	return (
 		<main className={styles.main}>
 			<Paper className={styles.paper} sx={{ textAlign: "center", mt: 2 }}>
-				<Htag tag="h2">Выберите преподавателя для отоброжения расписания.</Htag>
+				<Htag tag="h2">Выберите преподавателя для отображения расписания.</Htag>
 			</Paper>
 		</main>
 	);
